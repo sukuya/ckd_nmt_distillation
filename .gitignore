@@ -20,7 +20,6 @@ experiments/transformer_base/*txt
 experiments/transformer_cross_comb/*txt
 experiments/transformer_overlap_comb/*txt
 experiments/transformer_regular_comb/*txt
-experiments/transformer_skip_comb/*txt
 experiments/transformer_skip_middle/*txt
 experiments/transformer_skip_pkd/*txt
 experiments/transformer_rkd/*txt
