@@ -2,6 +2,7 @@
 Following exploratory work was presented at [CS6101 Module Projects Display at 17th STEP](https://isteps.comp.nus.edu.sg/event/17th-steps/module/CS6101/project/7)
 
 ### Combining Intermediate Layers for Knowledge Distillation in Neural Machine Translation Models for Japanese -> English
+![](visual_abstract.jpg)
 This project investigates the newly introduced technique to combine intermediate layers rather than skipping while performing knowledge distillation of NMT Models. The language pair investigated is `ja-en` using the recently published work by Yimeng Wu et. al. for `Portuguese->English`, `Turkish->English`, and `English->German`. They were able to distill similar performance with a 50% reduction in parameters. Their results and paper can be referred at the following link:
 [Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers](https://arxiv.org/abs/2010.03034)
 We use [JParacrawl]()  for our investigation and the source code from [Yimeng's](https://github.com/yimeng0701/CKD_pytorch) work.
