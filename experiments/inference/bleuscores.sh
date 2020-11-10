@@ -9,8 +9,6 @@ echo REGULAR_COMB: >> bleuscores.txt
 cat regular_comb.txt | sacrebleu reference.txt --force >> bleuscores.txt
 echo RKD: >> bleuscores.txt
 cat rkd.txt | sacrebleu reference.txt --force >> bleuscores.txt
-echo SKIP_COMB: >> bleuscores.txt
-cat skip_comb.txt | sacrebleu reference.txt --force >> bleuscores.txt
 echo SKIP_MIDDLE: >> bleuscores.txt
 cat skip_middle.txt | sacrebleu reference.txt --force >> bleuscores.txt
 echo SKIP_PKD: >> bleuscores.txt
