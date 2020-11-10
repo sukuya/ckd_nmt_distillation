@@ -1,0 +1,1748 @@
+[2020-11-09 16:08:15,551 INFO] Translating shard 0.
+[2020-11-09 16:08:17,394 INFO] 
+SENT 1: ['▁', 'フォ', 'ロー', 'は', 'ある', '程度', '絡', 'んで', 'から', 'ね', '。', '▁', 'さ', 'あ', '、', '.', '.']
+PRED 1: ▁We ll , ▁ . . .
+PRED SCORE: -6.3198
+GOLD 1: ▁The ▁ emb ed d ed ▁live ▁video ▁can ▁be ▁play ed ▁from ▁PC s ▁or ▁iPhone / iPad s .
+GOLD SCORE: -87.7744
+
+[2020-11-09 16:08:17,395 INFO] 
+SENT 2: ['▁', 'あ', 'と', '猫', '博士', 'が', 'もう', '一', '個', 'あります', 'が', '▁', '初期', '化', 'に', 'した', 'ので', '.', '.']
+PRED 2: ▁After ▁that , ▁Dr . ▁C at ▁had ▁another ▁ piece , ▁but ▁it ▁was ▁initial ized .
+PRED SCORE: -14.8279
+GOLD 2: ▁The ▁ emb ed d ed ▁live ▁video ▁can ▁be ▁play ed ▁from ▁PC s ▁or ▁iPhone / iPad s .
+GOLD SCORE: -79.8699
+
+[2020-11-09 16:08:17,395 INFO] 
+SENT 3: ['▁', 'カメラ', 'での', '撮影', 'は', '路', '上', '生活', '者', '達', 'を', '尊', '重', 'した', '上で', '、', '様々な', '姿', 'を', '写真', 'に', '取', 'らせ', 'て', '頂', 'きました', '。']
+PRED 3: ▁I ▁respect ed ▁the ▁people ▁in ▁the ▁street s , ▁and ▁gave ▁them ▁a ▁variety ▁of ▁picture s .
+PRED SCORE: -19.0040
+GOLD 3: ▁" Z hu ▁Z hang lin , ▁a ▁member ▁of ▁the ▁team , ▁said : ▁"" we ▁are ▁direct , ▁we ▁are ▁focus ed ▁and ▁we ▁are ▁respect ful ."
+GOLD SCORE: -115.8748
+
+[2020-11-09 16:08:17,395 INFO] 
+SENT 4: ['▁', 'ですが', '、', 'ビ', 'ニー', 'ル', '袋', 'の', '使用', 'を', '減', 'ら', 'し', '、', 'あるいは', '使', 'わ', 'ない', 'で', '、', '環境', 'に', '優', 'しい', '買', 'い', '物', '袋', 'を', '携', '帯', 'する', '人は', 'まだ', '多く', 'ありません', '」', '。']
+PRED 4: ▁" H ow ever , ▁there ▁are ▁still ▁many ▁people ▁who ▁use ▁plastic ▁bag s ▁to ▁reduce ▁their ▁use , ▁or ▁do ▁not ▁use ▁them , ▁and ▁have ▁environmental ly ▁ friendly ▁shopping ▁bag s ."""
+PRED SCORE: -22.8942
+GOLD 4: ▁" A ▁product ▁of ▁the ▁modern ▁culture ▁of ▁con ven i ence , ▁plastic ▁bag s ▁are ▁so ▁wide ly ▁used ▁that ▁they ▁have ▁become ▁a ▁serious ▁environmental ▁ha z ard . "" E ver y bo dy ▁know s ▁that ▁plastic ▁bag s ▁are ▁not ▁environmental ly ▁ friendly ,"" ▁said ▁ vol un te er ▁W u ▁J in - si ▁( <unk> 錦 <unk> ), ▁"" bu t ▁not ▁everyone ▁is ▁will ing ▁to ▁ sa cri f ice ▁the ▁con ven i ence ▁and ▁use ▁few er ▁of ▁them ."""
+GOLD SCORE: -289.1664
+
+[2020-11-09 16:08:17,395 INFO] 
+SENT 5: ['▁IP', '▁', 'の', 'カメラ', 'で', '動作', 'する', '特別な', 'ソリューション', 'が必要', ',', '▁', '放', '送', '▁24', '/', '7', '▁', '実行', '者の', '存在', 'と', 'コンピュータ', 'ー', 'からの', '相互', '作用', 'なし', '.', '▁', 'プロジェクト', 'の', '要件', '▁', 'ワー', 'ド', 'プ', 'レス', '▁', '無料', '▁', '自動', '的', 'S', 'of', 'ta', 'cul', 'ous', 'と', 'c', 'P', 'an', 'el', 'の', 'ホ', 'スト', 'に', 'インストール', 'することができます', '▁/', '▁', '素晴らしい', '.', '▁', 'プラ', 'グ', 'イン', 'として', '多くの', '新しい', 'ター', 'ン', 'キー', 'の', '機能', 'を', '可能', 'に', 'します', '▁(', 'この', ',', '▁', 'サイト', 'マ', 'ップ', ',', '▁', 'ソー', 'シャ', 'ル', '機能', ')', '▁', 'や', 'テーマ', 'などの', '新しい', 'デザイン', '.', '▁', 'フレーム', 'ワーク', 'は', '人気', 'があり', '、', '十', '分', 'に', '文書', 'である', 'ため', '、', '手', '頃', 'な', '価格', 'の', '開発', '·', '設計', 'を', '可能', 'に', 'します', '.']
+PRED 5: ▁The ▁requirements ▁of ▁the ▁project ▁W or d P res s ▁can ▁be ▁installed ▁on ▁a ▁host ▁of ▁automatic ▁S of ta cul ous ▁and ▁c P an el ▁/ ▁won der ful .
+PRED SCORE: -15.5098
+GOLD 5: ▁All ow s ▁ aff or d able ▁development ▁and ▁design ▁because ▁framework ▁is ▁popular ▁and ▁well ▁document ed . ▁W or d P res s ▁L ive ▁St rea ming ▁Can ▁be ▁used ▁in ▁F RE E ▁( li mit ed ) ▁mode .
+GOLD SCORE: -119.8928
+
+[2020-11-09 16:08:17,395 INFO] 
+SENT 6: ['▁D', '3', ':', '昼', '食', '後に', '白', '馬', 'グ', 'ランド', 'キャ', 'ニ', 'オン', '景', '勝', '地', '(', 'コース', '時間', 'は', '約', '3', '.', '5', '時間', ')', 'を', '遊', '覧', 'します', ':', '空', '中', 'から', '白', '馬', '峰', '桟', '道', 'まだ', '渡', 'り', '、', '白', '馬', '峰', 'の', '断', '崖', '絶', '壁', 'を', '体', '感', 'し', '、', '架', '空', 'な', '険', 'し', 'さ', 'と', '延', '々', 'と', '伸', 'び', 'る', '曲', '折', 'の', 'ス', 'リ', 'リング', 'を', '満', '喫', 'し', '、', '人', '间', '天', '国の', '鐘', 'を', '鳴', 'ら', 'し', '、', '大', '別', '山の', '雄', '大', 'な', '壮', '観', 'さ', 'を', '鑑', '賞', 'します', '。']
+PRED 6: ▁D 3 : ▁After ▁lunch , ▁you ▁will ▁see ▁the ▁White ▁H or se ▁Grand ▁Can y on ▁scenic ▁area ▁( ab out ▁3. 5 ▁hours ▁of ▁course ) : ▁From ▁the ▁sky , ▁the ▁White ▁H or se ▁Pe ak ▁Road ▁is ▁still ▁over , ▁you ▁will ▁experience ▁the ▁cl iff s ▁of ▁the ▁White ▁H or se ▁Pe ak , ▁and ▁enjoy ▁the ▁ th ri ll ing ▁of ▁the ▁ fi ction al ▁st eep ness ▁and ▁the ▁ str et ch ing ▁of ▁the ▁b ending , ▁ rang ▁the ▁be ll ▁of ▁he a ven , ▁and ▁app re ci ate ▁the ▁ mag ni fi cent ▁ spect a cular ness ▁of ▁Da ed ▁Mountain .
+PRED SCORE: -70.2777
+GOLD 6: ▁Day ▁3 : After ▁lunch , ▁travel ers ▁visit ▁the ▁White ▁H or se ▁Grand ▁Can y on ▁area ▁( ▁3. 5 ▁hours ): ▁Ta king ▁a ▁c able way ▁to ▁White ▁H or se ▁Pe ak ▁Plan k , ▁travel ers ▁can ▁experience ▁the ▁ex ci te ment ▁of ▁high ▁cl iff , ▁the ▁t w ists ▁and ▁turn s ▁of ▁mountain , ▁and ▁app re ci ate ▁the ▁ od d ▁and ▁extra or d in ary ▁scenery , ▁st ri ke ▁the ▁ clock ▁of ▁the ▁earth ly ▁para d ise , ▁enjoy ▁the ▁ mag ni fi cent ▁view ▁of ▁Da bi e ▁Mountain .
+GOLD SCORE: -261.1140
+
+[2020-11-09 16:08:17,395 INFO] 
+SENT 7: ['▁', '色', 'ん', 'な', '桜', 'の', '予', '報', 'の', 'ウェブサイト', 'もある', 'って', 'ことは', '、', 'それ', 'よりも', '珍', 'しい', 'が', '、', '非常に', '役', 'に', '立', 'つ', '。']
+PRED 7: ▁There ▁are ▁many ▁ ch er ry ▁b lo s s om ▁forecast ▁website s , ▁which ▁are ▁rare , ▁but ▁are ▁very ▁use ful .
+PRED SCORE: -14.0566
+GOLD 7: ▁In ▁any ▁case , ▁it ▁was ▁a ▁rather ▁large ▁one , ▁the ▁other ▁sh ri ne s ▁I ▁found ▁along ▁the ▁way ▁in ▁various ▁parts ▁of ▁the ▁city ▁did n ' t ▁even ▁come ▁close ▁to ▁this ▁one .
+GOLD SCORE: -142.9668
+
+[2020-11-09 16:08:17,396 INFO] 
+SENT 8: ['▁', 'グ', 'ッチ', '▁', 'キー', 'ケース', '▁「', '...', '...', 'そう', 'ですか', '。']
+PRED 8: ▁" G ut ch ▁K ey ▁C ase ▁"" . . ."
+PRED SCORE: -6.8372
+GOLD 8: ▁They ▁make ▁won der ful ▁gift s ▁for ▁young ▁girl s ▁that ▁will ▁grow ▁with ▁them .
+GOLD SCORE: -69.2538
+
+[2020-11-09 16:08:17,396 INFO] 
+SENT 9: ['▁', 'わたし', 'が', '子ども', 'っ', 'ぽ', 'い', 'の', 'かもしれません', 'が', '」「', '...', '...']
+PRED 9: ▁" I ▁may ▁be ▁a ▁child , ▁but ▁"" ... ... . ."
+PRED SCORE: -10.4416
+GOLD 9: ▁F ir st , ▁you ▁a bs ol ute ly ▁need ▁to ▁stop ▁think ing ▁of ▁the ▁great ▁moment s ▁that ▁you ▁had ▁together .
+GOLD SCORE: -75.7808
+
+[2020-11-09 16:08:17,396 INFO] 
+SENT 10: ['▁', 'エ', 'ア', 'ジョ', 'ー', 'ダン', '激', '安', '▁「', '...', '...', '...', '...', '」', '▁', '結', '論', 'から', '言え', 'ば', '、', 'ト', 'イ', 'レ', 'は', 'あった', '。']
+PRED 10: ▁" A ir ▁Jo rd an ' s ▁"" ... ... ... "" ▁In ▁con c lu sion , ▁there ▁was ▁a ▁to il et ."
+PRED SCORE: -14.6186
+GOLD 10: ▁But , H er me s ▁Han d ba g s ▁Replica , ▁it ' s ▁best ▁if ▁you ▁know ▁any one ▁who ▁had ▁had ▁a ▁we d ding ▁plan ner ▁for ▁their ▁we d ding .
+GOLD SCORE: -145.8221
+
+[2020-11-09 16:08:17,396 INFO] 
+SENT 11: ['▁T', 'R', 'UN', 'K', '(', 'HO', 'T', 'EL', ')', '▁-', '▁', '運', '盛', '▁', '麩', 'の', 'よ', 'か', 'ラ', 'スク', '▁2', '個', 'セット', '▁-', '▁', 'ギ', 'フ', 'ト']
+PRED 11: ▁T R UN K ( HO T EL ) ▁- ▁T R UN K ( HO T EL )
+PRED SCORE: -10.6794
+GOLD 11: ▁T R UN K ( HO T EL ) ▁- ▁ イベント 紹介 ▁- ▁ ト ラン ク ( ラ ウン ジ )
+GOLD SCORE: -53.1947
+
+[2020-11-09 16:08:17,396 INFO] 
+SENT 12: ['▁', '自', 'ら', 'が', '旅', 'を', '愛', 'している', 'から', 'こそ', '、', '旅行', 'を', 'する', '人', 'に', '、', '自', 'ら', 'の', '旅', 'と', '等', 'しく', '、', '素晴らしい', '旅', 'を', 'しても', 'ら', 'いた', 'い', '。']
+PRED 12: ▁Because ▁I ▁love ▁travel ing , ▁I ▁want ▁people ▁who ▁travel , ▁equal ▁to ▁their ▁own ▁journey , ▁to ▁get ▁a ▁great ▁journey .
+PRED SCORE: -21.5031
+GOLD 12: ▁Because ▁of ▁this , ▁we ▁feel ▁it ▁necessary ▁to ▁develop ▁im ag in ative ▁and ▁high ▁quality ▁program s ▁for ▁our ▁ gue st s , ▁so ▁that ▁each ▁of ▁you ▁can ▁have ▁a ▁won der ful ▁experience ▁even ▁as ▁we ▁do ▁in ▁our ▁own ▁travel s .
+GOLD SCORE: -134.8482
+
+[2020-11-09 16:08:17,397 INFO] 
+SENT 13: ['▁その', 'つ', 'も', 'り', 'で', '探', 'せ', 'ば', '、', '(', 'そして', 'これ', 'には', 'ガイド', 'の', '知識', 'と', '優れた', '目', 'が', '不可欠', 'な', 'の', 'ですが', ')', '▁G', 'T', 'の', '魚', '影', 'は', '意', '外', 'な', 'ほど', '濃', 'い', 'ことに', '気', '付', 'か', 'されます', '。']
+PRED 13: ▁If ▁you ' re ▁looking ▁for ▁it , ▁you ' ll ▁notice ▁that ▁G T ' s ▁fish ▁sh ad ow ▁is ▁ sur pri s ing ly ▁ d ense .
+PRED SCORE: -22.8075
+GOLD 13: ▁On ce ▁you ▁show ▁your ▁commitment , ▁so ▁will ▁the ▁guide . ▁With out ▁getting ▁dis tract ed ▁by ▁the ▁sh ad ow s ▁of ▁bo ne s , ▁the ▁guide ▁would ▁look ▁only ▁for ▁the ▁G T s .
+GOLD SCORE: -148.1045
+
+[2020-11-09 16:08:17,397 INFO] 
+SENT 14: ['▁', '風', '車', 'が', '並', 'ぶ', 'ビーチ', 'は', '、', '今', 'では', 'ロ', 'マン', 'チ', 'ック', 'な', '雰囲気', 'の', '漂', 'う', 'スポット', 'として', '、', 'アイ', 'ドル', 'ドラ', 'マ', '「', '真', '愛', '黒', '白', '配', '」', 'にも', '登場', 'しています', '。']
+PRED 14: ▁" The ▁beach ▁is ▁line d ▁with ▁wind m ill s , ▁and ▁now ▁it ▁is ▁a ▁ ro man tic ▁atmosphere , ▁and ▁it ▁also ▁appear s ▁in ▁the ▁ id le ▁ d ra ma ▁"" Ma na be ▁Ku ro shi ro ▁Shi ro shi "" ▁as ▁well ."
+PRED SCORE: -37.3195
+GOLD 14: ▁" In ▁recent ▁years , ▁with ▁the ▁City ▁Government ' s ▁coast al ▁re vit al ization ▁policy , ▁the ▁de so late ▁Gu an y in ▁coast ▁area ▁has ▁gradually ▁been ▁transform ed ▁into ▁a ▁new ▁ ro man tic ▁attract ion . ▁It s ▁beautiful ▁view ▁of ▁wind m ill s ▁at ▁the ▁beach ▁attract ed ▁the ▁ id ol ▁ d ra ma , ▁"" L o ve ▁A ro und "", ▁to ▁film ▁here ."
+GOLD SCORE: -244.3657
+
+[2020-11-09 16:08:17,397 INFO] 
+SENT 15: ['▁', '土地', '公', 'が', '福', '昌', '宮', 'に', '移', 'された', '後', '、', '緑', 'の', '木', '々', 'に', '囲', 'まれ', 'た', '人', '工', 'の', '小', '島', 'は', 'ダイ', 'サ', 'ギ', '、', 'コ', 'サ', 'ギ', '、', 'ア', 'オ', 'サ', 'ギ', '、', 'ゴ', 'イ', 'サ', 'ギ', '等', 'サ', 'ギ', '科', 'の', '鳥', 'たち', 'の', '生', '息', '地', 'となりました', '。']
+PRED 15: ▁After ▁the ▁land ▁was ▁move d ▁to ▁Fu ch ang ▁Pa la ce , ▁Ko ji ma , ▁ sur ro und ed ▁by ▁green ▁tree s , ▁became ▁a ▁ha bit at ▁for ▁bi rd s ▁of ▁ ra b bit s ▁such ▁as ▁ ra b bit s , ▁ ra b bit s , ▁go at s ▁and ▁so ▁on .
+PRED SCORE: -32.0606
+GOLD 15: ▁After ▁the ▁Earth ▁God ▁was ▁finally ▁move d ▁to ▁Fu ch ang ▁Temple , ▁this ▁art i fi cial ▁island ▁ sur ro und ed ▁by ▁t res s ▁has ▁become ▁a ▁ha bit at ▁for ▁various ▁species ▁of ▁ eg re ts , ▁including ▁great ▁e gr et , ▁little ▁e gr et , ▁g ray ▁her on ▁and ▁black - c row n ed ▁night ▁her on .
+GOLD SCORE: -186.2619
+
+[2020-11-09 16:08:17,397 INFO] 
+SENT 16: ['▁2.', 'シーズン', '(', '6', '-', '9', '月', ')', 'の間に', '水', '辺', 'は', 'オープン', '、', 'シーズン', 'オフ', '(', '1', '~', '5', '月', '、', '10', '~', '12', '月', ')', 'の間に', '水', '辺', 'は', 'も', 'オフ', '。', '▁3.']
+PRED 16: ▁2. The ▁water f ron t ▁is ▁open ▁during ▁the ▁season ▁( J un e - S ep te mber ), ▁and ▁the ▁water f ron t ▁is ▁off ▁during ▁the ▁season ▁( J un e - Ma y , ▁October - De ce mber ).
+PRED SCORE: -17.4650
+GOLD 16: ▁2. W at er ▁area ▁opened ▁for ▁use ▁in ▁Pe ak ▁season s ▁( J un ▁to ▁Se p ), ▁and ▁close d ▁in ▁low ▁season s ▁( J an ▁to ▁May , ▁O ct ▁to ▁De c ).
+GOLD SCORE: -94.7908
+
+[2020-11-09 16:08:17,397 INFO] 
+SENT 17: ['▁B', '子', 'さん', 'は', '「', 'コン', 'ド', 'ー', 'ム', 'を', '使', 'わ', 'ない', '性', '行為', 'は', '、', 'い', 'ろ', 'い', 'ろ', 'な', '性', '感染', '症', 'の', '危険', 'がある', 'ん', 'です', 'ね', '。']
+PRED 17: ▁" B ▁child ▁said , ▁"" S ex ual ▁ act s ▁that ▁do ▁not ▁use ▁con d om s ▁are ▁ d ang er ous ▁of ▁various ▁sex ual ▁in fe ction s ."
+PRED SCORE: -19.9305
+GOLD 17: ▁P sy ch ology , ▁however , ▁is ▁more ▁complex . ▁It ▁is ▁not ▁just ▁that ▁a ▁number ▁of ▁the ▁children ▁ sur g ically ▁as sign ed ▁a ▁sex ▁g rew ▁up ▁to ▁identify ▁with ▁the ▁ op pos ite ▁g ender .
+GOLD SCORE: -163.6249
+
+[2020-11-09 16:08:17,397 INFO] 
+SENT 18: ['▁', 'シン', 'ボ', 'ル', 'の', '虹', 'の', '旗', 'を', '振', 'り', 'か', 'ざ', 'し', '、', '同', '性', '愛', '者', 'ら', 'が', '派', '手', 'な', '衣', '装', 'で', '町', 'を', '練', 'り', '歩', 'く', 'ゲ', 'イ', 'パ', 'レー', 'ド', '。']
+PRED 18: ▁A ▁g ay ▁para de ▁ wa ving ▁the ▁fl ag ▁of ▁a ▁symbol ic ▁rain b ow , ▁walk ing ▁through ▁the ▁town ▁with ▁a ▁fan ta s tic ▁cost um e .
+PRED SCORE: -25.3775
+GOLD 18: ▁Mo s he ▁Ne g bi , ▁a ▁legal ▁expert , ▁said ▁the ▁court ' s ▁decision ▁is ▁most ly ▁symbol ic ▁because ▁g ay ▁couple s ▁in ▁Israel ▁already ▁had ▁many ▁of ▁the ▁rights ▁of ▁he ter ose x ual ▁partner ship s .
+GOLD SCORE: -218.4884
+
+[2020-11-09 16:08:17,398 INFO] 
+SENT 19: ['▁use', '_', 't', 'l', 's', ':', '▁(', '0', '.', '10', '▁', '以降', ')', '▁S', 'M', 'T', 'P', '▁', 'サー', 'バ', '経', '由', 'で', '通知', 'メール', 'を', '送信', 'する', 'ときに', '、', 'G', 'Ma', 'il', '▁', 'などの', '▁T', 'L', 'S', '▁', 'を使用する', 'かどうか', 'を', '切り', '替', 'え', 'ます', '。']
+PRED 19: ▁Use _ t l s : ▁( 0 . 10 ▁or ▁later ) ▁When ▁send ing ▁a ▁not ification ▁email ▁via ▁the ▁S M T P ▁server , ▁switch ▁to ▁whether ▁you ▁use ▁T L S , ▁such ▁as ▁G Ma il .
+PRED SCORE: -14.5712
+GOLD 19: ▁This ▁component ▁is ▁used ▁by ▁the ▁not ification ▁system ▁to ▁send ▁email s .
+GOLD SCORE: -52.9353
+
+[2020-11-09 16:08:17,398 INFO] 
+SENT 20: ['▁この', '新しい', 'ユーザ', 'は', 'スーパー', 'ユーザ', 'ではない', 'ので', '、', '他の', 'データベース', 'を', '作', 'った', 'り', '、', '他の', '▁role', '▁(', '訳', '注', ':', '▁Po', 'st', 'g', 're', 'S', 'Q', 'L', '▁', 'での', 'ユーザ', ')', '▁', 'を作る', '権', '限', 'を', '与えられ', 'て', 'い', 'ません', '。']
+PRED 20: ▁This ▁new ▁user ▁is ▁not ▁super us er , ▁so ▁it ▁is ▁not ▁allow ed ▁to ▁make ▁other ▁database s ▁or ▁make ▁other ▁role s ▁( us ers ▁in ▁Po st g re S Q L ).
+PRED SCORE: -16.1352
+GOLD 20: ▁General ly , ▁the ▁following ▁is ▁ s uff ic ient ▁to ▁create ▁a ▁database ▁user ▁name d ▁ tra cu s er , ▁and ▁a ▁database ▁name d ▁t rac . ▁create us er ▁- U ▁post g res ▁- E ▁- P ▁ tra cu s er ▁created b ▁- U ▁post g res ▁- O ▁ tra cu s er ▁- E ▁U T F 8 ▁t rac ▁When ▁running ▁create us er ▁you ▁will ▁be ▁pro mp ted ▁for ▁the ▁pass word ▁for ▁the ▁user ▁' tra cu s er ' . ▁This ▁new ▁user ▁will ▁not ▁be ▁a ▁super us er , ▁will ▁not ▁be ▁allow ed ▁to ▁create ▁other ▁database s ▁and ▁will ▁not ▁be ▁allow ed ▁to ▁create ▁other ▁role s .
+GOLD SCORE: -435.6953
+
+[2020-11-09 16:08:17,398 INFO] 
+SENT 21: ['▁この', 'ほか', '、', '新', '北', '市', '館', 'では', '毎日', 'ステ', 'ー', 'ジ', 'で', '「', 'プレゼン', 'ト', 'ク', 'イ', 'ズ', '」', 'と', '「', 'F', 'B', 'ページ', 'いい', 'ね', '!', '」', 'イベント', 'が', '開催', 'され', '、', 'サン', 'タ', 'ベ', 'ア', 'の', 'エ', 'コ', 'ポー', 'チ', 'や', 'ト', 'ナ', 'カ', 'イ', 'ペン', 'などの', 'お', 'ト', 'ク', 'な', '限', '定', 'プレゼン', 'ト', 'を', '用意', 'しています', '。']
+PRED 21: ▁" In ▁addition , ▁"" P res ent ▁Qu iz "" ▁and ▁"" F B ▁P age ▁Th an k s ! "" ▁event ▁will ▁be ▁held ▁every ▁day ▁at ▁the ▁New ▁Ta ip ei ▁City ▁Hall , ▁where ▁you ▁will ▁find ▁exclusive ▁gift s ▁such ▁as ▁San ta ▁Be ar ▁e co - po uch ▁and ▁To na ▁Ca ip en ."
+PRED SCORE: -40.6595
+GOLD 21: ▁" M ore o ver , ▁the ▁New ▁Ta ip ei ▁City ▁Ex hi b ition ▁Hall ▁has ▁also ▁ ar range d ▁stage ▁"" qui z ▁con test "" ▁and ▁"" L i ke ▁F an ▁P age "" ▁events ▁every ▁day , ▁providing ▁San ta ▁Be ar ▁green ▁storage ▁bag s ▁and ▁a ▁limited ▁ qu ant ity ▁of ▁ ul tra - val ue ▁gift s ▁such ▁as ▁re in de er - sha ped ▁pen s ... et c ."
+GOLD SCORE: -212.5837
+
+[2020-11-09 16:08:17,398 INFO] 
+SENT 22: ['▁', '故', '郷', '食', '堂', 'は', '、', '八', '公', '山', 'ス', 'カ', 'イ', 'ライン', 'の', '入', '口', 'にある', '伝統', '的な', '飲', '食', '店', 'である', '。']
+PRED 22: ▁The ▁home to wn ▁ca fe ter ia ▁is ▁a ▁traditional ▁restaurant ▁located ▁at ▁the ▁entrance ▁of ▁the ▁Ya ku s an ▁S k y line .
+PRED SCORE: -14.9355
+GOLD 22: ▁The ▁restaurant ▁is ▁located ▁at ▁the ▁entrance ▁of ▁the ▁P al g ong ▁Mountain ▁sky line , ▁special izing ▁in ▁traditional ▁ cu is ine ▁like ▁the ▁fresh ▁vegetable s ▁b ought ▁every ▁morning , ▁live ▁du ck ▁and ▁local ▁ ch ick en ▁etc .
+GOLD SCORE: -149.5878
+
+[2020-11-09 16:08:17,398 INFO] 
+SENT 23: ['▁', '勘', '違い', '▁', 'しない', 'で', '頂', 'き', 'たい', 'の', 'は', '、', '90', '年代', '後', '半', 'の', 'ゲーム', 'に', 'ノ', 'スタ', 'ル', 'ジー', 'を', '感じ', 'て', '▁「', 'や', 'っ', 'ぱ', '、', 'ST', 'G', 'は', 'あ', 'の', '頃', 'が', '一番', 'だった', 'な', 'ぁ', '」', 'と', 'か', '言', 'って', 'あ', 'の', '頃', 'の', 'ゲーム', '▁', 'を', '創', 'った', 'わ', 'け', 'ではありません', '(', '^', '^', ';', 'そんな', 'こと', '言う', 'くらい', 'なら', '、', '私', 'なら', '基盤', '▁', '買', 'います', '。']
+PRED 23: ▁" D on ' t ▁mis take ▁I ▁felt ▁no s tal g ia ▁in ▁the ▁second ▁half ▁of ▁the ▁19 90 s , ▁and ▁I ▁did n ' t ▁think ▁I ▁created ▁a ▁game ▁that ▁was ▁the ▁time ▁when ▁I ▁said , ▁"" O h , ▁ ST G ▁was ▁the ▁best ▁at ▁that ▁time "" ▁( ^ ^ ; ▁if ▁I ▁say ▁that , ▁I ▁buy ▁the ▁base ."
+PRED SCORE: -57.8151
+GOLD 23: ▁" O ne ▁thing ▁that ▁I ▁would ▁like ▁to ▁cl ar ify ▁that ▁I ▁did ▁not ▁feel ▁some ▁no s tal g ia ▁to ▁the ▁games ▁of ▁the ▁ late ▁ 90 ' s ▁and ▁say : ▁"" Y up , ▁sh m up s ▁back ▁in ▁those ▁days ▁were ▁the ▁best . "" ▁And ▁de ci de ▁to ▁make ▁a ▁new ▁game . ▁( ^ ^ ; ▁If ▁I ▁were ▁to ▁say ▁something ▁like ▁that , ▁I ▁would n ' t ▁be ▁making ▁a ▁new ▁game , ▁I ' d ▁be ▁buy ing ▁them ."
+GOLD SCORE: -217.6817
+
+[2020-11-09 16:08:17,399 INFO] 
+SENT 24: ['▁', '回', '心', 'は', '神', 'の', '業', 'である', '。', 's', '.']
+PRED 24: ▁Con vers ion ▁is ▁God ' s ▁k ar ma . s .
+PRED SCORE: -4.8852
+GOLD 24: ▁Con vers ion ▁is ▁the ▁work ▁of ▁God . ▁j .
+GOLD SCORE: -13.5467
+
+[2020-11-09 16:08:17,399 INFO] 
+SENT 25: ['▁P', 'Z', 'T', 'などの', '強', '誘', '電', '体', 'の', '薄', '膜', 'を', '集', '積', 'して', '作', 'られる', 'F', 'e', 'RA', 'M', '(', '強', '誘', '電', '体', 'ラン', 'ダ', 'ム', 'アクセス', 'メモリ', ')', 'の', '開発', 'は', 'そ', 'の一つ', 'だ', '。']
+PRED 25: ▁The ▁development ▁of ▁Fe RA M , ▁a ▁high ▁di e lect ric ▁ ran d om ▁access ▁memory , ▁is ▁one ▁of ▁them .
+PRED SCORE: -14.9128
+GOLD 25: ▁The ▁development ▁of ▁Fe RA M ▁( fer ro e lect ric ▁ ran d om ▁access ▁memory ), ▁made ▁by ▁ com bin ing ▁layer s ▁of ▁P Z T ▁and ▁other ▁ fer ro e lect ric ▁thin ▁film s , ▁is ▁one ▁example .
+GOLD SCORE: -52.3709
+
+[2020-11-09 16:08:17,399 INFO] 
+SENT 26: ['▁', '久', 'が', '原', 'ガー', 'デン', 'の', 'ストリート', 'ビュー', ':', '東京', 'シェア', 'ハウス', '▁', '株式会社', 'オー', 'ク', 'ハウス', 'は', '「', '住', 'ま', 'い', 'を通じて', '、', '楽しみ', '、', '喜', 'び', '、', '成長', 'する', '機会', 'を提供する', '」', 'を', '経営', '理', '念', 'と', 'し', '、', '社会', '・', '経済', '環境', 'の', '変化', 'による', 'さまざまな', '境', '遇', '・', '趣', '向', 'の', '入', '居', '者', '様', 'に対して', '、', 'それ', 'に', '適', 'した', '住', '空間', 'を提供', 'することで', '発展', 'し', 'てきました', '。']
+PRED 26: ▁" K i ga ha ra ▁Garden ▁Street ▁View : TOKYO ▁S HA RE HO US E ▁"" S har ed ▁house s ▁provide ▁opportunities ▁for ▁enjoy ment , ▁ jo y ▁and ▁growth ▁through ▁re s ident ial ▁areas . "" ▁With ▁the ▁management ▁p hi lo so phy , ▁O ak house ▁has ▁developed ▁to ▁provide ▁a ▁suitable ▁living ▁space ▁for ▁people ▁with ▁different ▁bo und ar ies ▁and ▁interest s ▁due ▁to ▁changes ▁in ▁the ▁social ▁and ▁economic ▁environment ."
+PRED SCORE: -44.2443
+GOLD 26: ▁Ku ga ha ra ▁Garden ▁Ro om ▁List : TOKYO ▁S HA RE HO US E ▁* C har ge s ▁will ▁be ▁reflect ed ▁as ▁a ▁month ly ▁ sum .
+GOLD SCORE: -41.4189
+
+[2020-11-09 16:08:17,399 INFO] 
+SENT 27: ['▁', '東', '日本', '橋', 'T', 'ip', 'et', 'ta', 'の', '部屋', '一覧', ':', '東京', 'シェア', 'ハウス', '▁', '建物', 'の', '清', '潔', '感', '、', '安全', '性', '。', '共', '用', '部分', 'の', 'ゆ', 'と', 'り', 'ある', '空間', 'など', 'を', '重', '視', 'し', '、', '皆', 'さ', 'ま', 'に', '快適', 'に', '入', '居', 'いただき', '、', '新', '生活', 'を', '楽', 'し', 'んで', 'いた', 'だけ', 'る', 'シェア', 'ハウス', '造', 'り', 'を', '心', 'が', 'け', 'ており', 'ます', '。']
+PRED 27: ▁To ho ku ba shi ▁Ti pp et ta ▁Ro om ▁List : TOKYO ▁S HA RE HO US E ▁We ▁focus ▁on ▁the ▁clean li ness ▁of ▁the ▁building ▁and ▁safety ▁of ▁the ▁building , ▁and ▁the ▁relax ing ▁space ▁of ▁the ▁common ▁part , ▁so ▁we ▁stay ▁comfort ably ▁and ▁enjoy ▁new ▁life .
+PRED SCORE: -33.4282
+GOLD 27: ▁In qui ry ▁for ▁Ti ger ▁House ▁Tokyo - N i ho n ba shi : TOKYO ▁S HA RE HO US E ▁We ▁run ▁a ▁share ▁house ▁/ ▁Gu est ▁house ▁mainly ▁in ▁Tokyo ▁area ▁from ▁40 000 J P Y , ▁Our ▁office ▁is ▁also ▁located ▁in ▁Shi bu ya ▁station ▁in ▁3 ▁ min ▁walk in ▁distance .
+GOLD SCORE: -162.2079
+
+[2020-11-09 16:08:17,400 INFO] 
+SENT 28: ['▁', 'ソー', 'シャ', 'ル', 'レ', 'ジ', 'デン', 'ス', '東', '小', '金', '井', 'の', '特', '集', '記事', ':', '東京', 'シェア', 'ハウス', '▁', '株式会社', 'オー', 'ク', 'ハウス', 'は', '「', '住', 'ま', 'い', 'を通じて', '、', '楽しみ', '、', '喜', 'び', '、', '成長', 'する', '機会', 'を提供する', '」', 'を', '経営', '理', '念', 'と', 'し', '、', '社会', '・', '経済', '環境', 'の', '変化', 'による', 'さまざまな', '境', '遇', '・', '趣', '向', 'の', '入', '居', '者', '様', 'に対して', '、', 'それ', 'に', '適', 'した', '住', '空間', 'を提供', 'することで', '発展', 'し', 'てきました', '。']
+PRED 28: ▁" S ha re house s : TOKYO ▁S HA RE HO US E ▁"" S har ed ▁house s ▁provide ▁opportunities ▁for ▁enjoy ment , ▁ jo y ▁and ▁growth ▁through ▁re s ident ial ▁areas ,"" ▁and ▁it ▁has ▁been ▁developed ▁by ▁providing ▁a ▁living ▁space ▁suitable ▁for ▁residents ▁of ▁different ▁bo nd s ▁and ▁ho bb ies ▁due ▁to ▁changes ▁in ▁the ▁social ▁and ▁economic ▁environment ."
+PRED SCORE: -40.4282
+GOLD 28: ▁" In qui ry ▁for ▁So cial ▁Re side nce ▁Hi ga shi - to tsu ka : TOKYO ▁S HA RE HO US E ▁"" S har ed ▁house s ▁are ▁to ▁be ▁enjoy ed !" ""
+GOLD SCORE: -59.3607
+
+[2020-11-09 16:08:17,400 INFO] 
+SENT 29: ['▁', 'タイ', 'ガー', 'ハウス', '▁', '池', '袋', 'の', '部屋', '一覧', ':', '東京', 'シェア', 'ハウス', '▁*', '賃', '料', '、', '及び', '共', '益', '費', 'は', '月', '額', 'で', '表示', 'しています', '。', '掲載', 'されている', '写真', 'は', '、', '実', '物', 'と', '異なる', '場合', 'があります', '。']
+PRED 29: ▁Ti ger ▁House ▁I ke bu ku ro ▁Ro om ▁List : TOKYO ▁S HA RE HO US E ▁* C har ge s ▁and ▁ exp ense s ▁are ▁displayed ▁on ▁a ▁month ly ▁basis .
+PRED SCORE: -15.2743
+GOLD 29: ▁Be ▁Go od ▁I ke bu ku ro ▁Ro om ▁List : TOKYO ▁S HA RE HO US E ▁Be G o od Japan ▁Inc , ▁We ▁are ▁a ▁real ▁ est ate ▁company ▁special izing ▁in ▁operating ▁from ▁a ▁house ▁to ▁tower ▁man sion , ▁large ▁ scale ▁do r mit ory ▁to ▁share ▁house .
+GOLD SCORE: -203.2996
+
+[2020-11-09 16:08:17,400 INFO] 
+SENT 30: ['▁', 'TC', 'RE', '上', '中', '里', 'に関する', '問', 'い', '合わせ', ':', '東京', 'シェア', 'ハウス', '▁H', 'P', '弊社', 'から', 'LINE', 'で', 'お', '気', '軽', 'に', 'お問い合わせ', 'いただけます', '!!']
+PRED 30: ▁In qui ry ▁for ▁ TC RE ▁Ka mi ka ri : TOKYO ▁S HA RE HO US E ▁You ▁can ▁feel ▁free ▁to ▁contact ▁us ▁at ▁ LINE !!
+PRED SCORE: -11.2086
+GOLD 30: ▁Also , ▁please ▁be ▁a ware ▁that ▁we ▁cannot ▁provide ▁the ▁contact ▁information ▁of ▁the ▁share ▁house ▁manage rs ▁or ▁owner s .
+GOLD SCORE: -70.7073
+
+[2020-11-09 16:08:19,132 INFO] 
+SENT 31: ['▁Sha', 'ring', '▁the', '▁plan', 'et', '▁(', '共', '存', '共', '生', ')', '▁私たちは', 'い', 'か', 'に', 'して', '葛', '藤', 'を', '乗り', '越', 'えて', '共', 'に', '幸', 'せ', 'になる', 'のか', '?', '▁', 'それぞれ', 'の', '探', '究', 'テーマ', 'ごとに', '、', 'どのような', '概念', '、', 'スキル', '、', '知', '性', '、', 'ス', 'ピ', 'リ', 'ット', 'を', '学', 'ぶ', 'のか', 'ということ', 'が', '全', 'て', 'マ', 'ッ', 'ピ', 'ング', 'されています', '。']
+PRED 31: ▁Sha ring ▁the ▁plan et ▁( Co ex ist ence ) ▁How ▁can ▁we ▁be ▁happy ▁with ▁over com ing ▁conflict s ?
+PRED SCORE: -13.7709
+GOLD 31: ▁Sha ring ▁our ▁plan et ▁( K y ou z on - K yo s ei ▁ 共 存 共 生 ) ▁How ▁can ▁we ▁over com e ▁our ▁st ru gg les ▁to ▁achieve ▁ha pp i ness ?
+GOLD SCORE: -98.8496
+
+[2020-11-09 16:08:19,133 INFO] 
+SENT 32: ['▁', 'ア', 'ザー', 'ン', '▁Ar', 'chi', 'ves', '▁', '»', '▁', '東京', 'ジャー', 'ミ', 'イ', '・', 'トル', 'コ', '文化', 'センター', '▁【', '東京', 'ジャー', 'ミ', 'イ', '夏', '休', 'み', '体験', '企画', '】', '▁', 'ワークショップ', '「', 'ア', 'ザー', 'ン', 'を', 'や', 'って', 'み', 'よう', '」', '▁', '東京', 'ジャー', 'ミ', 'イ', 'では', 'ア', 'ラ', 'ビア', '語', 'での', 'ア', 'ザー', 'ン', '(', '礼', '拝', 'への', '呼び', 'かけ', ')', 'を', '学', 'べ', 'る', '一般', '参加', '型', 'ワークショップ', 'を', '開催', 'いたします', '。']
+PRED 32: ▁" A z an ▁Ar chi ves ▁ » ▁Tokyo ▁J ami i ▁T ur k ish ▁C ul tur al ▁Center ▁【 T ok yo ▁J ami i ▁Su mm er ▁C lo s ed ▁Ex per i ence 】 ▁Work sho p ▁"" L et ' s ▁Do ▁As an "" ▁Tokyo ▁J ami i ▁will ▁hold ▁a ▁general ▁part ic ip atory ▁workshop ▁to ▁learn ▁about ▁As an ▁in ▁Ar ab ic ."
+PRED SCORE: -32.5954
+GOLD 32: ▁" T ok yo ▁C ami i , ▁A u th or ▁at ▁Tokyo ▁C ami i ▁- ▁T ur k ish ▁C ul ture ▁Center ▁ » ▁P age ▁3 ▁of ▁7 ▁On ▁Sa tur day ▁February ▁16 th , ▁we ▁held ▁an ▁exhibition ▁about ▁"" The ▁World ▁of ▁Mo d est ▁F ash ion ""."
+GOLD SCORE: -160.3710
+
+[2020-11-09 16:08:19,134 INFO] 
+SENT 33: ['▁', '一', '年', 'が', '終', 'わる', 'ということ', 'は', '、', '実際には', '新たな', '一', '年の', '始まり', 'で', 'もあります', '。']
+PRED 33: ▁The ▁end ▁of ▁the ▁year ▁is ▁actually ▁the ▁beginning ▁of ▁a ▁new ▁year .
+PRED SCORE: -7.7341
+GOLD 33: ▁Then , ▁let ' s ▁take ▁the ▁opportunity ▁for ▁this ▁new ▁beginning ▁and ▁as k ▁our s el ves ▁again ▁the ▁a for ement ion ed ▁questions .
+GOLD SCORE: -91.5889
+
+[2020-11-09 16:08:19,134 INFO] 
+SENT 34: ['▁"', 'P', 'OR', 'S', 'CH', 'E', '▁-', '▁An', '▁""', 'IC', 'ON', 'IC', '""', '▁Ti', 'tan', 'ium', '▁Fa', 's', 'ten', 'er', '.', '▁', '\\', '▁Th', 'und', 'er', '▁Bo', 'lt', '▁Japan', '▁On', 'line', '."']
+PRED 34: ▁" P OR S CH E ▁- ▁An ▁"" IC ON IC "" ▁Ti tan ium ▁Fa s ten er . ▁ \ ▁Th und er ▁Bo lt ▁Japan ▁On line ."
+PRED SCORE: -2.7939
+GOLD 34: ▁" T i ▁/ ▁Lu g ▁Bo lt ▁for ▁W he el . ▁- ▁An ▁"" IC ON IC "" ▁Ti tan ium ▁Fa s ten er . ▁ \ ▁Th und er ▁Bo lt ▁Japan ▁On line ."
+GOLD SCORE: -70.1393
+
+[2020-11-09 16:08:19,134 INFO] 
+SENT 35: ['▁', '後', 'は', '、', '町', 'で', '木', 'が', 'ば', 'か', 'り', 'ない', 'ので', '、', '風', 'は', '問題', 'じ', 'ゃ', 'ない', 'です', 'け', 'ど', '、', 'よく', '付け', 'ない', 'パ', 'ラ', 'ボ', 'ラ', 'アン', 'テ', 'ナ', 'が', '多', 'い', 'です', '。', '▁', '。']
+PRED 35: ▁La ter , ▁there ▁are ▁many ▁para bo la ▁an ten na s ▁that ▁don ' t ▁have ▁enough ▁tree s ▁in ▁the ▁town , ▁so ▁the ▁wind ▁is n ' t ▁a ▁problem .
+PRED SCORE: -22.6542
+GOLD 35: ▁In ▁the ▁city , ▁of ▁course , ▁up ro ot ed ▁tree s ▁are ▁not ▁a ▁problem ▁since ▁there ▁are n ' t ▁many ▁of ▁them ... ▁but ▁not - so - well - h ung ▁ s ate ll ite ▁dishes ▁are ▁pre t ty ▁numerous ...
+GOLD SCORE: -154.8152
+
+[2020-11-09 16:08:19,134 INFO] 
+SENT 36: ['▁(', '座', '席', '指定', 'は', 'でき', 'ません', 'ので', 'ご', '両', '親', 'の', '膝', 'の上に', '乗', 'って', '観', '覧', 'することが', '出来', 'ます', ')', '36', 'ヶ月', '以上', 'は', '、', '有', '料', '座', '席', 'クラス', 'に', '応', 'じ', 'た', 'チケット', 'を', '購入', 'した後', '観', '覧', 'する必要があります', '。']
+PRED 36: ▁( The ▁seat ▁can ▁not ▁be ▁sp ec ified , ▁so ▁you ▁can ▁see ▁on ▁the ▁k ne e ▁of ▁your ▁parents ) ▁Mo re ▁than ▁ 36 ▁months , ▁you ▁need ▁to ▁see ▁after ▁buy ing ▁ticket s ▁according ▁to ▁the ▁paid ▁seat ▁class .
+PRED SCORE: -24.2597
+GOLD 36: ▁K eep ▁The ▁Pa int ers ▁H ER O ▁ticket ▁to ▁get ▁disc o unt ▁on ▁park ing ▁rate .
+GOLD SCORE: -107.4271
+
+[2020-11-09 16:08:19,134 INFO] 
+SENT 37: ['▁', '四', '番', '目', '物', 'では', '、', '中', '年の', '女性', 'が', '子ども', 'や', '夫', 'を', '探', 'す', '狂', '女', '物', 'の', '「', '狂', '女', '扇', '」', 'に', '、', '女性', 'の', '年齢', 'に', '合わせ', 'て', '紺', '系', 'の', '色', 'が', '使われ', '、「', '道', '成', '寺', '」「', '葵', '上', '」', 'など', 'では', '鬼', '神', 'が', '好', 'む', 'と', '言われ', 'る', '牡', '丹', 'が', '描', 'かれ', 'ている', '「', '鬼', '扇', '」', 'が', '使われ', 'ます', '。']
+PRED 37: ▁" In ▁the ▁four th ▁ piece , ▁the ▁"" K yo to ▁F an "" ▁of ▁a ▁ma d ▁woman ▁who se ▁middle - age d ▁women ▁look ▁for ▁children ▁and ▁ hu s ban d s ▁is ▁used ▁to ▁match ▁the ▁age ▁of ▁women , ▁and ▁the ▁"" K yo to ▁F an "" ▁de pic ts ▁a ▁ pe ony ▁that ▁is ▁said ▁to ▁be ▁prefer red ▁by ▁de mon s ▁in ▁the ▁"" K yo to - ji n - ji n - ji n - ji n - ji n - ji n - ji n - ji n - ji n - ji n "" ▁and ▁the ▁"" K yo to - ji n - ji n - ji n - ji n "" ▁are ▁used ."
+PRED SCORE: -83.1757
+GOLD 37: ▁" The re ▁are ▁several ▁rule s ▁for ▁the ▁fan s ▁used ▁in ▁ y on ban - me - mon o , ▁or ▁the ▁four th ▁play ▁of ▁the ▁program . ▁K y ō jo - ō gi , ▁used ▁for ▁k y ō jo - mon o ▁( pla y s ▁about ▁ma d ▁women ), ▁have ▁a ▁ pur ple ▁t int ▁in dic ating ▁the ▁age ▁of ▁the ▁middle - age d ▁women ▁search ing ▁for ▁their ▁children ▁or ▁ hu s ban d s . ▁On i - ō gi , ▁used ▁for ▁"" D ō j ō ji "" ▁and ▁"" A o i - no - ue ,"" ▁have ▁mo t if s ▁of ▁ pe ony , ▁as ▁go bl ins ▁are ▁believe d ▁to ▁like ▁the ▁flow er ."
+GOLD SCORE: -425.7806
+
+[2020-11-09 16:08:19,134 INFO] 
+SENT 38: ['▁', '後', '半', 'は', '一', '転', 'して', '、', '武', '者', '姿', 'の', '田', '村', '麿', 'が', '登場', 'し', '、', '一', '代', 'の', '戦', '記', 'を', '語', 'り', '、', '敵', 'を', 'な', 'ぎ', '倒', 'した', '往', '時', 'の', '勢', 'い', 'を', '現', 'します', '。']
+PRED 38: ▁In ▁the ▁second ▁half , ▁the ▁ sa mura i ▁appear ed , ▁talk ing ▁about ▁the ▁battle fi el d ▁of ▁a ▁generation ▁and ▁show ing ▁the ▁moment um ▁of ▁the ▁time ▁when ▁the ▁en em y ▁was ▁over w hel m ed .
+PRED SCORE: -31.1352
+GOLD 38: ▁On ▁the ▁other ▁hand , ▁in ▁the ▁la tter ▁half , ▁Ta mura ma ru ▁in ▁arm or ▁appear s ▁to ▁ n ar rate ▁his ▁ val or ▁on ▁the ▁battle fi el d s ▁and ▁show s ▁his ▁moment um ▁at ▁the ▁times ▁when ▁he ▁be at ▁en em ies ▁down . ▁The ▁la tter ▁half ▁features ▁co ur age .
+GOLD SCORE: -151.4560
+
+[2020-11-09 16:08:19,135 INFO] 
+SENT 39: ['▁', 'Tech', 'na', 'vi', 'o', '社', 'は', 'we', 'b', 'R', 'TC', 'の', '世界', '市場', 'が', '2017', '-', '20', '21', '年', '期間', '中に', '年', '平均', '34', '.', '37', '%', '成長', 'すると', '予測', 'しています', '。']
+PRED 39: ▁ Tech na vi o ' s ▁a na ly st s ▁forecast ▁the ▁global ▁market ▁to ▁grow ▁at ▁a ▁ CA G R ▁of ▁ 34 . 37 % ▁during ▁the ▁period ▁2017 - 20 21 .
+PRED SCORE: -10.0053
+GOLD 39: ▁What ▁is ▁driving ▁this ▁market ? ▁What ▁are ▁the ▁challenge s ▁to ▁market ▁growth ? ▁W ho ▁are ▁the ▁key ▁v end ors ▁in ▁this ▁market ▁space ?
+GOLD SCORE: -110.5759
+
+[2020-11-09 16:08:19,135 INFO] 
+SENT 40: ['▁', 'Tech', 'na', 'vi', 'o', '社', 'は', '分', '子', '細胞', '遺', '伝', '学', 'の', '世界', '市場', 'が', '2017', '-', '20', '21', '年', '期間', '中に', '年', '平均', '10', '.', '94', '%', '成長', 'すると', '予測', 'しています', '。']
+PRED 40: ▁ Tech na vi o ' s ▁a na ly st s ▁forecast ▁the ▁global ▁mo le cular ▁ cell ▁ gene tic s ▁market ▁to ▁grow ▁at ▁a ▁ CA G R ▁of ▁10 . 94 % ▁during ▁the ▁period ▁2017 - 20 21 .
+PRED SCORE: -10.8403
+GOLD 40: ▁The ▁study ▁of ▁different ▁ cell ▁structure s ▁is ▁called ▁ cell ▁bi ology .
+GOLD SCORE: -53.7691
+
+[2020-11-09 16:08:19,135 INFO] 
+SENT 41: ['▁', 'Tech', 'na', 'vi', 'o', '社', 'は', 'データ', 'センター', '構築', 'の', '北', '欧', '市場', 'が', '2017', '-', '20', '21', '年', '期間', '中に', '年', '平均', '16', '.', '7', '2', '%', '成長', 'すると', '予測', 'しています', '。']
+PRED 41: ▁ Tech na vi o ' s ▁a na ly st s ▁forecast ▁the ▁North ern ▁European ▁market ▁to ▁grow ▁at ▁a ▁ CA G R ▁of ▁6 . 7 2 % ▁during ▁the ▁period ▁2017 - 20 21 .
+PRED SCORE: -11.3017
+GOLD 41: ▁The ▁report ▁includes ▁a ▁discussion ▁of ▁the ▁key ▁v end ors ▁operating ▁in ▁this ▁market .
+GOLD SCORE: -61.1620
+
+[2020-11-09 16:08:19,135 INFO] 
+SENT 42: ['▁', 'Tech', 'na', 'vi', 'o', '社', 'は', 'フ', 'レ', 'キ', 'ソ', '印刷', '用', 'イン', 'キ', 'の', '世界', '市場', 'が', '2017', '-', '20', '21', '年', '期間', '中に', '年', '平均', '4', '.', '7', '1', '%', '成長', 'すると', '予測', 'しています', '。']
+PRED 42: ▁ Tech na vi o ' s ▁a na ly st s ▁forecast ▁the ▁global ▁market ▁to ▁grow ▁at ▁a ▁ CA G R ▁of ▁4 . 7 1 % ▁during ▁the ▁period ▁2017 - 20 21 .
+PRED SCORE: -9.0531
+GOLD 42: ▁The ▁ pri m ary ▁use ▁of ▁the ▁card ▁ print er ▁is ▁to ▁ print ▁and ▁personal ize ▁plastic ▁card s .
+GOLD SCORE: -86.6621
+
+[2020-11-09 16:08:19,135 INFO] 
+SENT 43: ['▁', 'Tech', 'na', 'vi', 'o', '社', 'は', '音楽', 'プロ', 'ダ', 'クション', '用', 'ソフトウェア', 'の', '世界', '市場', 'が', '2017', '-', '20', '21', '年', '期間', '中に', '年', '平均', '9', '.', '01', '%', '成長', 'すると', '予測', 'しています', '。']
+PRED 43: ▁ Tech na vi o ' s ▁a na ly st s ▁forecast ▁the ▁global ▁market ▁for ▁music ▁production ▁to ▁grow ▁at ▁a ▁ CA G R ▁of ▁9 . 01 % ▁during ▁the ▁period ▁2017 - 20 21 .
+PRED SCORE: -12.0037
+GOLD 43: ▁ Tech na vi o ' s ▁a na ly st s ▁forecast ▁the ▁global ▁chemical ▁software ▁market ▁to ▁grow ▁at ▁a ▁ CA G R ▁of ▁11 . 36 % ▁during ▁the ▁period ▁2018 - 20 22 .
+GOLD SCORE: -33.0146
+
+[2020-11-09 16:08:19,135 INFO] 
+SENT 44: ['▁', '当', 'レポート', '上', 'に', '記載', 'されている', '主な', '企業', 'は', '、', 'D', 'ig', 'it', 'al', '▁Re', 'al', 'ty', '▁T', 'ru', 'st', '、', 'E', 'qui', 'ni', 'x', '、', 'A', 'l', 'ph', 'ab', 'et', '、', 'Microsoft', '、', 'A', 'ma', 'z', 'on', '.', 'com', '等', 'です', '。']
+PRED 44: ▁The ▁main ▁companies ▁list ed ▁above ▁are ▁Digital ▁Re al ty ▁T ru st , ▁E qui ni x , ▁Al ph ab et , ▁ Microsoft , ▁A ma z on . com , ▁etc .
+PRED SCORE: -10.3693
+GOLD 44: ▁De tail s ▁are ▁provided ▁within ▁the ▁report . ▁ 01 .
+GOLD SCORE: -45.8205
+
+[2020-11-09 16:08:19,136 INFO] 
+SENT 45: ['▁', 'コンピュータ', 'ー', 'の', '明確', 'な', 'ライン', 'と', '素', '敵', 'な', 'セン', 'ス', 'をお', '好', 'み', 'の', 'お客様', 'にとって', 'A', 'l', 'p', 'ha', 'co', 'ol', 'は', '欠', 'か', 'せ', 'ません', '。', '最も', '人気', 'のある', 'H', 'ard', 'T', 'ub', 'es', 'は', '透明', 'です', '。']
+PRED 45: ▁Al p ha co ol ▁is ▁in di s p ens able ▁for ▁customers ▁who ▁prefer ▁a ▁clear ▁line ▁of ▁computer ▁and ▁a ▁ n ice ▁sense . The ▁most ▁popular ▁Har d T ub es ▁is ▁trans par ent .
+PRED SCORE: -17.8575
+GOLD 45: ▁An y one ▁who ▁want ▁to ▁see ▁clear , ▁clean ▁line s ▁in ▁their ▁computer ▁can ▁hard ly ▁go ▁without ▁them . The ▁most ▁popular ▁Har d T ub es ▁are ▁clear ▁and ▁trans par ent .
+GOLD SCORE: -85.7111
+
+[2020-11-09 16:08:19,136 INFO] 
+SENT 46: ['▁S', 'ame', 'P', 'age', 'の', '代表', '高', '木', 'が', '生まれ', 'た', 'の', 'が', '今', 'から', '33', '年前', 'の', '19', '82', '年', '8', '月', '20', '日', 'です', '。']
+PRED 46: ▁S ame P age ' s ▁representative ▁Taka gi ▁was ▁b orn ▁on ▁August ▁20 , ▁19 82 , ▁ 33 ▁years ▁ago .
+PRED SCORE: -8.5865
+GOLD 46: ▁I ▁am ▁A ki hi ro ▁Taka gi , ▁the ▁found er ▁of ▁S ame P age , ▁was ▁b orn ▁on ▁August ▁20 , ▁19 82 , ▁about ▁ 33 ▁years ▁ago . ▁I ▁pass ed ▁my ▁child hood ▁through ▁the ▁he ap s ▁of ▁up s ▁and ▁down s .
+GOLD SCORE: -106.4720
+
+[2020-11-09 16:08:19,136 INFO] 
+SENT 47: ['▁S', 'HI', 'PS', '▁', '柏', '店', '▁|', '▁', 'TA', 'X', 'F', 'RE', 'ES', 'HO', 'PS', '.', 'J', 'P']
+PRED 47: ▁S HI PS ▁| ▁ TA X F RE ES HO PS . J P
+PRED SCORE: -3.8213
+GOLD 47: ▁B IC CA ME RA ▁Ka shi wa ▁Store ▁| ▁ TA X F RE ES HO PS . J P
+GOLD SCORE: -45.0682
+
+[2020-11-09 16:08:19,136 INFO] 
+SENT 48: ['▁', 'サポート', '体制', '▁本', 'プログラム', 'では', '、', 'プログラム', '履', '修', '生', 'が', '学', '修', 'に', '専', '念', 'できる', '環境', 'を', '担', '保', 'する', '各種', '制度', 'を', '導入', 'しています', '。']
+PRED 48: ▁Support ▁System ▁In ▁this ▁program , ▁we ▁introduce ▁a ▁variety ▁of ▁program s ▁to ▁ensure ▁that ▁program s ▁are ▁dedicated ▁to ▁study .
+PRED SCORE: -21.2476
+GOLD 48: ▁( U p ▁to ▁100 , 000 ▁yen ▁per ▁student ▁/ for ▁half ▁year ) ▁Inter n ship ▁Support ▁For ▁students ▁en roll ed ▁in ▁the ▁Ta o y aka ▁program , ▁financial ▁support ▁for ▁inter n ship ▁which ▁aim s ▁to ▁wide n ▁students ' ▁knowledge , ▁enhance ▁their ▁problem - s ol ving ▁ ability , ▁and ▁lead ▁their ▁care er ▁development .
+GOLD SCORE: -251.1757
+
+[2020-11-09 16:08:19,136 INFO] 
+SENT 49: ['▁', '移', '住', 'という', 'の', 'は', '、', '個人', '単', '位', 'で', 'み', 'れば', '移', '住', '者', '本', '人の', '生活', 'を', '豊', 'か', 'に', 'でき', 'て', '、', '町', '単', '位', 'で', 'み', 'れば', '(', '努力', '次', '第', 'で', ')', '地域', 'お', 'こ', 'し', 'の', '起', '爆', '剤', 'に', 'な', 'れる', 'かもしれない', '。']
+PRED 49: ▁I mm ig ration ▁may ▁be ▁a ▁local ▁ exp lo s ive ▁of ▁ mi gr ants ▁if ▁you ▁look ▁at ▁individual ▁unit s , ▁en ri ch ▁the ▁live s ▁of ▁ mi gr ants .
+PRED SCORE: -32.7735
+GOLD 49: ▁Mi g ration ▁can ▁be ▁a ▁great ▁tri gg er ▁of ▁local ▁re vit al ization ▁( dependent ▁on ▁their ▁efforts , ▁though ). ▁However , ▁m ig ration ▁is ▁only ▁a ▁ ge ographic al ▁re - all oc ation ▁of ▁labor ▁force s .
+GOLD SCORE: -132.3260
+
+[2020-11-09 16:08:19,137 INFO] 
+SENT 50: ['▁5', 'at', '0', 'mi', 'X', 'x', 'x', '▁-', '▁User', 's', ':', ':', 'V', 'ie', 'w', '▁-', '▁', 'sy', 'n', 'c', 're', 'view', '(', 'be', 'ta', ')', '▁', 'イギリス', '出', '身', 'の', '2', 'ピー', 'ス', 'ロック', '・', 'バンド', '、', '構成', 'は', '逆', 'W', 'hi', 'te', '▁Str', 'ip', 'es', '。']
+PRED 50: ▁5 at 0 mi X x x ▁- ▁User s : : V ie w ▁- ▁ sy n c re view ( be ta ) ▁T wo - piece ▁rock ▁band s ▁from ▁En g land , ▁re verse W hi te ▁Str ip es .
+PRED SCORE: -14.9208
+GOLD 50: ▁5 at 0 mi X x x ▁- ▁User s : : F av T ra ck s ▁- ▁ sy n c re view ( be ta )
+GOLD SCORE: -44.1921
+
+[2020-11-09 16:08:19,137 INFO] 
+SENT 51: ['▁', '広告', 'の', '配置', '準備', 'が', 'でき', 'たら', '、', '次の', 'メ', 'ソ', 'ッド', 'を使用して', '、', 'その', '広告', 'を', '再生', 'できます', '。']
+PRED 51: ▁If ▁you ' re ▁read y ▁to ▁place ▁an ▁ad , ▁you ▁can ▁use ▁the ▁following ▁method ▁to ▁play ▁that ▁ad .
+PRED SCORE: -11.3881
+GOLD 51: ▁If ▁de ploy ing ▁to ▁ Android , ▁instead ▁use ▁the ▁value ▁return ed ▁from ▁is A d ver t A va il able ( ) ▁to ▁ensure ▁an ▁ad ▁is ▁available ▁( as ▁ad P lay able E vent ▁will ▁not ▁return ▁f al se ▁when ▁no ▁ad ▁is ▁available ).
+GOLD SCORE: -231.0851
+
+[2020-11-09 16:08:19,137 INFO] 
+SENT 52: ['▁この', '場合', '、', 'マイ', 'プロ', 'ダ', 'クト', 'ページ', 'で', '、', '現', '行', 'ライセンス', 'と同じ', '3', 'ア', 'ク', 'ティ', 'ベ', 'ーション', '/', 'コンピュータ', 'ー', 'オー', 'ソ', 'ライ', 'ズ', '対応', 'の', '追加', 'パ', 'ック', 'を', '29', 'ドル', 'で', 'お', '求', 'め', 'いただけます', '。']
+PRED 52: ▁In ▁this ▁case , ▁you ▁can ▁request ▁an ▁additional ▁pack ▁for ▁3 ▁ activ ation / com put er ▁or th o lic ization , ▁the ▁same ▁as ▁the ▁current ▁license , ▁at ▁$ 29 .
+PRED SCORE: -22.8854
+GOLD 52: ▁However , ▁you ▁can ▁purchase ▁an ▁Ad dition al ▁Act iv ations ▁P ack ▁for ▁these ▁products .
+GOLD SCORE: -57.0990
+
+[2020-11-09 16:08:19,137 INFO] 
+SENT 53: ['▁', '試', '用', '版', '実行', '時に', '表示', 'される', '「', '正', '規', '品', 'を', '購入', 'する', '」', 'を選択', 'すると', '、「', 'T', 'h', 'ink', 'free', '▁Office', '▁', 'NE', 'O', '」', '購入', 'ページ', 'に', '移動', 'します', '。', '▁', '購入', 'ページ', 'から', 'T', 'h', 'ink', 'free', '▁Office', '▁', 'NE', 'O', 'をお', '買', 'い', '求', 'め', 'いただき', '、', '発行', 'される', 'ライセンス', 'キー', 'を', '試', '用', '版', 'に', '入力', 'すると', '、', '試', '用', '版', 'を', 'すぐに', '正', '規', '品', 'に', '切り', '替', 'えて', '使用', 'できます', '。']
+PRED 53: ▁" If ▁you ▁select ▁"" P ur cha s ing ▁Reg ular ▁Go od s "" ▁that ▁appear s ▁when ▁ex ec ut ing ▁a ▁tri al ▁version , ▁go ▁to ▁the ▁"" T h ink free ▁Office ▁ NE O "" ▁purchase ▁page . F ro m ▁the ▁purchase ▁page , ▁you ▁can ▁purchase ▁Th ink free ▁Office ▁ NE O ▁and ▁enter ▁the ▁license ▁key ▁issue d ▁to ▁the ▁tri al ▁version , ▁you ▁can ▁quickly ▁switch ▁the ▁tri al ▁version ▁to ▁the ▁regular ▁it em ."
+PRED SCORE: -36.3437
+GOLD 53: ▁If ▁you ▁click ▁the ▁[ P ur ch ase ▁ gen u ine ▁product ] ▁button ▁that ▁appear s ▁when ▁you ▁run ▁the ▁tri al ▁version , ▁it ▁will ▁direct ▁you ▁to ▁the ▁page ▁for ▁ pur cha s ing ▁Th ink free ▁Office ▁ NE O . If ▁you ▁in put ▁the ▁license ▁key ▁you ' ve ▁received ▁after ▁ pur cha s ing ▁Th ink free ▁Office ▁ NE O ▁on ▁the ▁purchase ▁page , ▁you ▁can ▁switch ▁the ▁tri al ▁license ▁to ▁the ▁ gen u ine ▁product ▁license ▁immediately .
+GOLD SCORE: -144.3142
+
+[2020-11-09 16:08:19,137 INFO] 
+SENT 54: ['▁S', 'na', 'g', 'it', '▁', 'は', '印刷', 'プ', 'レビュー', '画面', 'の', 'ス', 'クロー', 'ル', '▁', 'キャ', 'プ', 'チャ', 'には', '対応', 'して', 'い', 'ません', '。']
+PRED 54: ▁S na g it ▁does ▁not ▁support ▁sc roll ▁capture ▁on ▁the ▁ print ▁pre view ▁screen .
+PRED SCORE: -7.4302
+GOLD 54: ▁Un able ▁to ▁Per form ▁S c roll ing ▁C ap ture ▁in ▁F ir ef ox ▁Some ▁F ir ef ox ▁Ad d - on s ▁cause ▁S na g it ▁to ▁only ▁capture ▁the ▁vi s ible ▁screen .
+GOLD SCORE: -125.3333
+
+[2020-11-09 16:08:19,137 INFO] 
+SENT 55: ['▁', '設定', 'を', '変更', 'するには', '、', '次の', '手順', 'に', '従', 'います', '。']
+PRED 55: ▁To ▁change ▁the ▁setting s , ▁follow ▁the ▁step s ▁below .
+PRED SCORE: -5.4987
+GOLD 55: ▁However , ▁if ▁the ▁setting ▁is ▁change d ▁to ▁ pla in ▁text , ▁then ▁it ▁will ▁be ▁im pos s ible ▁to ▁past e ▁an ▁image ▁in ▁the ▁email .
+GOLD SCORE: -86.1600
+
+[2020-11-09 16:08:19,138 INFO] 
+SENT 56: ['▁', '呼び', '出', 'している', '人', 'を', '請求', '取得', '額', '▁', '場合', '▁', '60', '▁', '分', 'を超え', 'る', '説明', 'したい', 'と考え', 'て', 'でしょうか', '。']
+PRED 56: ▁W ou ld ▁you ▁like ▁to ▁explain ▁more ▁than ▁ 60 ▁minutes ▁if ▁you ▁get ▁a ▁request ?
+PRED SCORE: -15.7612
+GOLD 56: ▁What ▁if ▁I ' d ▁like ▁to ▁talk ▁longer ▁than ▁ 60 ▁minutes ?
+GOLD SCORE: -30.7696
+
+[2020-11-09 16:08:19,138 INFO] 
+SENT 57: ['▁A', '.', '▁', '問題', 'ありません', '!', 'S', 'hi', 'p', '&', 'co', 'には', '14', '日間', 'の', '無料', 'ト', 'ライ', 'アル', 'があります', '。']
+PRED 57: ▁There ▁is ▁no ▁problem ! ▁Shi p & co ▁has ▁a ▁14 - day ▁free ▁tri al .
+PRED SCORE: -8.3133
+GOLD 57: ▁Shi p & co ▁offers ▁an ▁initial ▁14 ▁days ▁tri al , ▁where ▁you ▁can ▁try ▁out ▁our ▁services ▁for ▁free , ▁with ▁un li mit ed ▁ ship ment ▁volume s .
+GOLD SCORE: -93.5742
+
+[2020-11-09 16:08:19,138 INFO] 
+SENT 58: ['▁', 'マイクロ', 'ソフト', '社', 'が', '準備', 'して', 'く', 'れた', '以下の', 'ページ', 'がある', 'ので', '、', '基本', '的に', 'は', 'それ', 'を見て', 'いただき', 'たい', 'の', 'ですが', '、', 'いくつか', '注意', 'が必要', 'です', '。']
+PRED 58: ▁There ▁are ▁the ▁following ▁page s ▁prepare d ▁by ▁ Microsoft , ▁so ▁I ▁would ▁like ▁to ▁see ▁it ▁basic ally , ▁but ▁some ▁attention ▁is ▁need ed .
+PRED SCORE: -18.9902
+GOLD 58: ▁" A s ▁there ▁are ▁the ▁following ▁page s ▁prepare d ▁by ▁ Microsoft , ▁I ▁would ▁like ▁you ▁to ▁see ▁it ▁basic ally , ▁although ▁it ▁has ▁a ▁few ▁point s ▁to ▁a ware . T ut or ial : ▁A zu re ▁Act ive ▁Director y ▁integration ▁with ▁Qu est et ra ▁B P M ▁Su ite ▁On ▁the ▁setting ▁screen ▁of ▁A AD , ▁there ▁is ▁a ▁ hy per lin k ▁which ▁is ▁written ▁"" 1 ."
+GOLD SCORE: -258.8866
+
+[2020-11-09 16:08:19,138 INFO] 
+SENT 59: ['▁There', '▁are', '▁no', '▁provision', 's', '▁for', '▁setting', '▁up', '▁a', 'cc', '...', '▁', 'コメント', 'を', '表示', '▁T', 'ony', '▁F', 're', 'y', '▁', '作成', '日', '時', '▁2017', '年', '06', '月', '07', '日', '▁13', ':', '50', '▁0', '▁', '件', 'の', '投', '票']
+PRED 59: ▁There ▁are ▁no ▁provision s ▁for ▁setting ▁up ▁a cc ...
+PRED SCORE: -4.7576
+GOLD 59: ▁View ▁comment ▁T ony ▁F re y ▁C re ated ▁June ▁ 07 , ▁2017 ▁14 : 21 ▁0 ▁ vo te s
+GOLD SCORE: -24.5622
+
+[2020-11-09 16:08:19,138 INFO] 
+SENT 60: ['▁There', '▁are', '▁no', '▁provision', 's', '▁for', '▁setting', '▁up', '▁...', '▁', 'コメント', 'を', '表示', '▁T', 'ony', '▁F', 're', 'y', '▁', '作成', '日', '時', '▁2017', '年', '06', '月', '07', '日', '▁13', ':', '50', '▁0', '▁', '件', 'の', '投', '票']
+PRED 60: ▁There ▁are ▁no ▁provision s ▁for ▁setting ▁up ▁...
+PRED SCORE: -5.0812
+GOLD 60: ▁View ▁comment ▁T ony ▁F re y ▁C re ated ▁June ▁ 07 , ▁2017 ▁14 : 21 ▁0 ▁ vo te s
+GOLD SCORE: -23.2495
+
+[2020-11-09 16:08:20,026 INFO] 
+SENT 61: ['▁', 'コメント', '▁Da', 'vid', 'による', '最近', 'の', 'ア', 'ク', 'ティ', 'ビ', 'ティ', 'への', '投', '票', '▁', '投', '票', 'で', '並', 'べ', '替', 'え', '▁', '最近', 'の', 'ア', 'ク', 'ティ', 'ビ', 'ティ', '▁', '投', '票', '▁', 'コミュニティ', '▁General', '▁Dis', 'cu', 's', 'sion', '▁F', 'io', 's', '▁installation', '▁If', '▁you', '▁are', '▁only', '▁using', '▁', 'Fi', 'OS', '▁for', '▁inter', 'net', '▁access', ',', '▁then', '▁you', '▁can', '▁replace', '▁your', '▁', 'Fi', 'OS', '▁route', 'r', '▁with', '▁Port', 'al', '.']
+PRED 61: ▁Com ments ▁V ot es ▁for ▁recent ▁activity ▁by ▁Da vid ▁So rt ▁by ▁ vo te s ▁Re cent ▁activity ▁V ot es ▁Com mun ity ▁General ▁Dis cu s sion ▁F io s ▁installation ▁If ▁you ▁are ▁only ▁using ▁ Fi OS ▁for ▁inter net ▁access , ▁then ▁you ▁can ▁replace ▁your ▁ Fi OS ▁route r ▁with ▁Port al .
+PRED SCORE: -10.4906
+GOLD 61: ▁Com ments ▁V ot es ▁on ▁activity ▁by ▁Da vid ▁So rt ▁by ▁ vo te s ▁Re cent ▁activity ▁V ot es ▁Com mun ity ▁General ▁Dis cu s sion ▁F io s ▁installation ▁If ▁you ▁are ▁only ▁using ▁ Fi OS ▁for ▁inter net ▁access , ▁then ▁you ▁can ▁replace ▁your ▁ Fi OS ▁route r ▁with ▁Port al .
+GOLD SCORE: -13.9439
+
+[2020-11-09 16:08:20,026 INFO] 
+SENT 62: ['▁', '広告', '非', '表示', '、', 'ウォー', 'ター', 'マーク', '非', '表示', '、', 'オリジナル', 'ウォー', 'ター', 'マーク', 'の', '利用', '、', 'G', 'I', 'F', '録', '画', '▁', '補', '償', 'の', '手順', '▁', '統合', '版', '[', 'Mo', 'b', 'ize', 'n', ']', 'を', 'インストール', 'し', 'アプリ', 'を', '実行', 'します', '。']
+PRED 62: ▁Ad ver ti s ing ▁Hi d den , ▁Water mark ▁Hi d den , ▁U s ing ▁Or ig in al ▁Water mark , ▁G I F ▁Re cor ding ▁Comp ens ation ▁In struct ions ▁In st all ▁the ▁Mo b ize n ▁and ▁run ▁the ▁app .
+PRED SCORE: -20.2715
+GOLD 62: ▁How ▁to ▁get ▁un ification ▁comp ens ation ▁In st all ▁and ▁launch ▁the ▁Mo b ize n ▁integrated ▁app .
+GOLD SCORE: -65.4977
+
+[2020-11-09 16:08:20,027 INFO] 
+SENT 63: ['▁', '当', '初', 'この', '機能', 'を', '使い', '始め', 'た', '時に', '写真', 'の', '許可', 'を', '拒', '否', 'して', 'し', 'ま', 'った', '場合には', '、', '次の', '二', 'つの', '方法', 'があります', '。']
+PRED 63: ▁In it ial ly , ▁when ▁you ▁start ▁using ▁this ▁feature , ▁you ▁can ▁re ject ▁the ▁per mission ▁of ▁the ▁photo .
+PRED SCORE: -16.6465
+GOLD 63: ▁If ▁you ▁de ni ed ▁photo ▁per mission s ▁when ▁original ly ▁using ▁the ▁feature , ▁you ▁can ▁either ▁ 1) ▁re install ▁the ▁app ▁and ▁select ▁the ▁camera ▁icon ▁again ▁to ▁be ▁re - pro mp ted , ▁or ▁ 2) ▁ na vi g ate ▁to ▁your ▁phone ' s ▁setting s ▁< ▁lo c ate ▁Ma p M y ▁app ▁per mission s ▁< ▁to gg le ▁camera ▁per mission s ▁on .
+GOLD SCORE: -254.0548
+
+[2020-11-09 16:08:20,027 INFO] 
+SENT 64: ['▁', 'TO', 'NE', '音', '色', 'を', '調', '節', 'します', '。', '▁M', 'G', '▁1,', '▁M', 'G', '▁2', '▁M', 'G', '▁O', 'U', 'T', 'タ', 'ップ', '&', 'ドラ', 'ッ', 'グ', 'して', 'パ', 'ッチ', '・', 'ケーブル', 'を', 'つ', 'な', 'ぎ', '、', 'M', 'G', 'による', 'モ', 'ジュ', 'レーション', '先', 'を選択します', '。']
+PRED 64: ▁Ad ju st ▁ TO NE ▁to ne s ▁M G ▁1, ▁M G ▁2 ▁M G ▁O U T ▁t ap ▁and ▁drag ▁the ▁p atch ▁c able ▁and ▁select ▁the ▁ mod ulation ▁destination ▁by ▁M G .
+PRED SCORE: -16.6403
+GOLD 64: ▁M G ▁1, ▁M G ▁2 ▁M G ▁O U T T ap ▁and ▁drag ▁to ▁connect ▁p atch ▁c able s ▁and ▁select ▁the ▁ mod ulation ▁destination ▁for ▁the ▁M G ▁( mod ulation ▁ gen er ator ). A MO UN T This ▁set s ▁the ▁amount ▁of ▁ mod ulation ▁for ▁the ▁M G ▁( M od ulation ▁Gen er ator ).
+GOLD SCORE: -125.7613
+
+[2020-11-09 16:08:20,027 INFO] 
+SENT 65: ['▁', 'ソフトウェア', 'が', 'デ', 'モ', '版', 'として', '起動', 'すると', '、', 'その後', '、', '30', '日間', 'は', 'デ', 'モ', '版', 'として', '動作', 'し', 'ま', '▁', 'す', '。']
+PRED 65: ▁When ▁the ▁software ▁start s ▁as ▁a ▁de mo ▁version , ▁then , ▁for ▁30 ▁days ▁it ▁run s ▁as ▁a ▁de mo ▁version .
+PRED SCORE: -12.8716
+GOLD 65: ▁When ▁software ▁run s ▁in ▁e val u ation ▁mode , ▁it ▁is ▁function al ▁for ▁30 ▁days .
+GOLD SCORE: -49.0088
+
+[2020-11-09 16:08:20,027 INFO] 
+SENT 66: ['▁', '同様に', 'アプリケーション', 'を開く', 'と', '、', 'アプリケーション', 'と', '通信', 'が', '行', 'える', '「', '相', '手', '」', 'の', '設定', 'を', '同じ', 'ように', '変更', 'できます', '。']
+PRED 66: ▁" S im il ar ly , ▁when ▁you ▁open ▁an ▁application , ▁you ▁can ▁change ▁the ▁setting s ▁of ▁"" op pon ent s "" ▁that ▁can ▁ com mun ic ate ▁with ▁the ▁application ."
+PRED SCORE: -17.9684
+GOLD 66: ▁As ▁with ▁other ▁log ▁ ent ries , ▁you ▁can ▁see ▁a ▁visual ▁ s na p sho t ▁of ▁the ▁user ' s ▁action s ▁by ▁double - cl ick ing ▁an ▁application , ▁or ▁select ing ▁it ▁and ▁then ▁click ing ▁the ▁Qu ick ▁Lo ok ▁icon ▁in ▁the ▁bottom ▁right ▁corner .
+GOLD SCORE: -147.3775
+
+[2020-11-09 16:08:20,027 INFO] 
+SENT 67: ['▁また', '、', '自', '社', 'ユーザー', 'から', '海外', 'の', '取引', '先', 'など', 'に', 'UR', 'L', 'を', '案', '内', 'した場合', '、', '日本語', 'で', '表示', 'される', 'の', 'でしょうか', '。']
+PRED 67: ▁Also , ▁if ▁you ▁guide ▁your ▁ UR L s ▁to ▁overseas ▁business ▁partner s , ▁etc . , ▁you ▁can ▁see ▁in ▁Japanese ?
+PRED SCORE: -19.9455
+GOLD 67: ▁This ▁depend s ▁on ▁language ▁setting s ▁of ▁a ▁user ▁browser , ▁and ▁if ▁language s ▁other ▁than ▁Japanese ▁and ▁Chinese ▁is ▁set as ▁a ▁higher ▁prior ity ▁on ▁the ▁setting s , ▁the ▁screen ▁will ▁then ▁be ▁displayed ▁in ▁English .
+GOLD SCORE: -165.3737
+
+[2020-11-09 16:08:20,027 INFO] 
+SENT 68: ['▁', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '―', '▁', 'ゲーム', 'データ', 'の', '削除', '▁', 'ゲーム', 'データ', 'を', '削除', 'するには', '、', 'サポート', 'チケット', 'を', '送', 'って', 'ください', '。']
+PRED 68: ▁Re mo ving ▁G ame ▁Data ▁To ▁delete ▁game ▁data , ▁please ▁send ▁a ▁support ▁ticket .
+PRED SCORE: -10.8858
+GOLD 68: ▁How ▁do ▁I ▁delete ▁my ▁game ▁data ? ▁To ▁delete ▁your ▁game ▁data , ▁please ▁send ▁us ▁a ▁request ▁through ▁the ▁support ▁port al , ▁st ating ▁that ▁you ▁want ▁to ▁delete ▁your ▁account . ▁To ▁protect ▁our ▁play ers ▁and ▁to ▁ensure ▁we ▁confirm ▁your ▁ ident ity , ▁you ▁must ▁sub mit ▁your ▁request ▁through ▁our ▁support ▁port al .
+GOLD SCORE: -180.6007
+
+[2020-11-09 16:08:20,028 INFO] 
+SENT 69: ['▁', 'これ', 'が', '当', 'て', 'は', 'ま', 'らない', '場合は', '、', '次の', 'セクション', 'に', '進', 'んで', 'ください', '。']
+PRED 69: ▁If ▁this ▁is ▁not ▁done , ▁go ▁to ▁the ▁next ▁section .
+PRED SCORE: -7.6895
+GOLD 69: ▁If ▁after ▁following ▁the ▁above ▁step s ▁you ▁are ▁still ▁ex per i en cing ▁the ▁same ▁issue , ▁the ▁next ▁step ▁will ▁be ▁to ▁dis able ▁the ▁G PU ▁( if ▁possible ).
+GOLD SCORE: -111.9358
+
+[2020-11-09 16:08:20,028 INFO] 
+SENT 70: ['▁', '登録', 'フォー', 'ム', 'から', 'ロ', 'グ', 'イン', '時に', '必要', 'とする', 'パスワード', 'を', '設定', 'します', '。']
+PRED 70: ▁From ▁the ▁registration ▁form , ▁set ▁the ▁pass word ▁you ▁need ▁to ▁log ▁in .
+PRED SCORE: -9.5667
+GOLD 70: ▁P le ase ▁f ill ▁in ▁the ▁ ver ification ▁code ▁after ▁re ce iv ing ▁the ▁email ▁from ▁the ▁email ▁address : ▁When ▁register ing , ▁you ▁will ▁need ▁to ▁set ▁your ▁pass word , ▁which ▁will ▁be ▁used ▁each ▁time ▁you ▁log ▁in .
+GOLD SCORE: -104.4360
+
+[2020-11-09 16:08:20,028 INFO] 
+SENT 71: ['▁', '次', 'に', '、', 'エクス', 'プロ', 'ー', 'ラ', 'で', '、', 'この', 'フォルダ', 'に', 'アクセス', 'します', '。']
+PRED 71: ▁Then , ▁in ▁Ex p lor er , ▁access ▁this ▁folder .
+PRED SCORE: -5.4400
+GOLD 71: ▁Open ▁the ▁H el p ▁System ▁In st all er ▁F old er , ▁then ▁the ▁m F ile B ag ID E . d ll ▁folder , ▁then ▁the ▁bag ▁folder .
+GOLD SCORE: -140.7290
+
+[2020-11-09 16:08:20,028 INFO] 
+SENT 72: ['▁この', 'ボタン', 'を', 'クリック', 'すると', 'ポ', 'ップ', 'アップ', 'が表示され', 'る', 'ので', '、', 'ウェ', 'ブ', 'マスター', 'の', 'メール', 'アドレス', 'を', '入力', 'し', '、', 'ど', 'の', '機能', 'の', '実装', '方法', 'を', '送信', 'する', 'か', '選択', 'します', '。']
+PRED 72: ▁C li ck ▁this ▁button ▁to ▁see ▁the ▁po p - up , ▁so ▁enter ▁the ▁email ▁address ▁of ▁the ▁web ma ster , ▁and ▁select ▁which ▁function al ▁implementation ▁method .
+PRED SCORE: -18.7559
+GOLD 72: ▁After ▁click ing ▁it , ▁you ▁will ▁see ▁a ▁new ▁window ▁where ▁you ▁can ▁in s ert ▁your ▁web ma ster ' s ▁email ▁address , ▁choose ▁for ▁which ▁feature ▁you ▁want ▁to ▁send ▁the ▁in struct ions ▁and ▁write ▁a ▁message ▁that ▁will ▁be ▁sent ▁to ▁your ▁web ma ster .
+GOLD SCORE: -109.8742
+
+[2020-11-09 16:08:20,028 INFO] 
+SENT 73: ['▁', 'キー', 'ボ', '▁', 'ド', 'ー', 'から', '入力', '可能な', '▁App', 'le', '▁', 'ロ', 'ゴ', 'について', 'も', '、', 'これ', 'を', '▁App', 'le', '▁Inc', '.', '▁', 'か', '▁', 'ら', 'の', '書', '面', 'による', '事', '前', 'の', '許', '諾', 'なし', 'に', '商業', '的な', '目的', 'で', '使用', 'すると', '、', '連', '邦', 'および', '▁', '州', 'の', '商標', '法', 'および', '不', '正', '競争', '防止', '法', '違', '反', 'となる', '場合', 'があります', '。']
+PRED 73: ▁If ▁you ▁use ▁this ▁for ▁commercial ▁purpose s ▁without ▁prior ▁written ▁per mission ▁from ▁App le ▁Inc . , ▁you ▁may ▁be ▁vi ol ated ▁by ▁the ▁Fe der al ▁and ▁State ▁Tra de mark ▁Law ▁and ▁the ▁Un f air ▁Comp et ition ▁Pre vent ion ▁Law .
+PRED SCORE: -24.8793
+GOLD 73: ▁No ▁part ▁of ▁this ▁public ation ▁may ▁be ▁re pro duce d ▁or ▁trans mitt ed ▁for ▁commercial ▁purpose s , ▁such ▁as ▁sell ing ▁co p ies ▁of ▁this ▁public ation ▁or ▁for ▁providing ...
+GOLD SCORE: -112.8899
+
+[2020-11-09 16:08:20,028 INFO] 
+SENT 74: ['▁16', '節', 'には', '、', 'そんな', '人々', 'が', 'イエス', '様', 'に', '恐れ', 'お', 'の', 'の', 'いて', 'こう', 'い', 'う', '風', 'に', '言った', 'と', 'あります', '。']
+PRED 74: ▁In ▁ verse ▁16 , ▁these ▁people ▁said ▁to ▁Jesus , ▁that ▁they ▁might ▁be ▁a f ra id .
+PRED SCORE: -16.8220
+GOLD 74: ▁" R ather ▁he ▁say s , ▁"" You ▁already ▁have ▁these ▁things . ▁Therefore ▁in ▁view ▁of ▁God ' s ▁ mer cy ▁and ▁love ▁to ward ▁us , ▁offer ▁yourself ▁as ▁a ▁living ▁ sa cri f ice . "" What ▁does ▁that ▁me an ?"
+GOLD SCORE: -161.8224
+
+[2020-11-09 16:08:20,029 INFO] 
+SENT 75: ['▁', '中に', 'は', '、', 'イエス', '様', 'は', '半分', '神', 'で', '半分', '人間', 'だった', '、', 'という', '人たち', 'も', 'います', 'け', 'ど', '、', 'それは', '実', 'は', '真', '実', 'ではありません', '。']
+PRED 75: ▁Some ▁say ▁that ▁Jesus ▁was ▁half ▁a ▁man ▁in ▁God , ▁but ▁it ▁is ▁not ▁true .
+PRED SCORE: -11.6206
+GOLD 75: ▁But ▁in ▁fight ing ▁God ' s ▁will , ▁it ▁made ▁it ▁im pos s ible ▁to ▁follow ▁God . ▁I ▁remember ▁during ▁that ▁time ▁in ▁Ha wa i i , ▁I ▁asked ▁my ▁friends ▁to ▁pray ▁for ▁me ▁and ▁as k ▁for ▁God ' s ▁direction ▁in ▁my ▁life .
+GOLD SCORE: -175.6042
+
+[2020-11-09 16:08:20,029 INFO] 
+SENT 76: ['▁', 'もし', '、', '神', '様', 'の', 'ことを', '完全に', '理解', 'でき', 'た', 'とした', 'ら', '、', 'む', 'し', 'ろ', '不', '安', 'になる', 'でしょう', '。']
+PRED 76: ▁If ▁you ▁were ▁able ▁to ▁fully ▁understand ▁God , ▁you ▁would ▁rather ▁be ▁an x ious .
+PRED SCORE: -12.2612
+GOLD 76: ▁But ▁if ▁we ▁keep ▁our ▁eyes ▁on ▁him , ▁we ▁will ▁make ▁it ▁past ▁those ▁tri al s ▁and ▁we ▁will ▁reach ▁the ▁ th ro ne ▁room ▁of ▁God ▁some day . S e con d , ▁he ▁is ▁the ▁perfect er ▁of ▁our ▁faith .
+GOLD SCORE: -169.8011
+
+[2020-11-09 16:08:20,029 INFO] 
+SENT 77: ['▁', 'でも', 'それが', '僕', 'の', '心', 'を', '奪', 'い', '、', '神', '様', 'が', '僕', 'に', 'して', '欲', 'しい', 'と思って', 'い', 'ること', 'から', '僕', 'を', '遠', 'ざ', 'け', 'てしまう', 'なら', '、', 'それは', '良い', 'こと', 'じ', 'ゃ', 'ない', '。']
+PRED 77: ▁But ▁if ▁it ▁take s ▁away ▁me ▁from ▁de pri ving ▁my ▁heart ▁and ▁think ing ▁that ▁God ▁want s ▁me , ▁it ' s ▁not ▁good .
+PRED SCORE: -17.5267
+GOLD 77: ▁But ▁if ▁it ▁capture s ▁my ▁heart , ▁and ▁it ▁take s ▁away ▁from ▁things ▁God ▁want s ▁me ▁to ▁do , ▁then ▁it ▁become s ▁a ▁problem . L o ok ▁at ▁ verse ▁ 23 . He ▁bring s ▁ pri nce s ▁to ▁ n aught ▁and ▁reduce s ▁the ▁rule rs ▁of ▁this ▁world ▁to ▁nothing .
+GOLD SCORE: -188.8754
+
+[2020-11-09 16:08:20,029 INFO] 
+SENT 78: ['▁Na', 'no', '▁Dis', 'per', 's', 'er', '(', '超', '高', '圧', '分', '散', '機', ')', '▁-', '▁', '日', '新', 'オー', 'ト', 'ク', 'レー', 'ブ', '▁N', 'H', '▁', '2000', 'モデル', 'は', '、', '最大', '25', 'H', 'P', 'の', '油', '圧', 'システム', 'を', '適用', 'して', '、', '40', ',', '000', 'p', 'si', '、2', 'l', '/', 'min', 'の', '流', '量', 'で', '製', '作', 'します', '。']
+PRED 78: ▁Na no ▁Dis per s er ▁( U l tra - hi g h - press ure ▁Dis per s er ) ▁- ▁ NI X ▁A U TO C LA V E ▁The ▁N H ▁ 2000 ▁model ▁use s ▁a ▁ hy dr au lic ▁system ▁of ▁up ▁to ▁25 H P ▁to ▁produce ▁at ▁a ▁flow ▁rate ▁of ▁40 , 000 p si , ▁2 l / min .
+PRED SCORE: -28.2419
+GOLD 78: ▁Na no ▁Dis per s er ▁- ▁ IL S H IN ▁A U TO C LA V E ▁CO . , L T D ▁N H 8 000 ▁is ▁a ▁type ▁with ▁Ma x . 75 H p ▁ hy dr au lic ▁pressure ▁system ▁and ▁Ma x .
+GOLD SCORE: -94.9240
+
+[2020-11-09 16:08:20,029 INFO] 
+SENT 79: ['▁その', '上で', '、', '体験', '者が', '迷', 'って', 'し', 'ま', 'わ', 'ない', 'ように', '背', 'の高い', 'オブジェクト', 'を', '入り', '口', '近く', 'に', '設置', 'して', '、', 'どこ', 'の', '場所', 'から', 'も', '目', '印', 'に', 'できるように', 'したり', 'と', '行った', '工', '夫', 'を', '盛', 'り', '込', 'んで', 'います', '。']
+PRED 79: ▁On ▁top ▁of ▁that , ▁we ▁have ▁set ▁up ▁t all ▁object s ▁near ▁the ▁entrance ▁so ▁that ▁the ▁experience rs ▁won ' t ▁get ▁lost , ▁and ▁we ▁have ▁in cor p or ated ▁the ▁idea s ▁we ▁have ▁done ▁so ▁that ▁we ▁can ▁be ▁able ▁to ▁mark ▁them ▁every where .
+PRED SCORE: -45.7720
+GOLD 79: ▁On ce ▁it ' s ▁done , ▁I ▁thought ful ly ▁adopt ed ▁some ▁idea s ▁such ▁as ▁ pla cing ▁a ▁t all ▁object ▁near ▁the ▁entrance ▁as ▁a ▁land mark ▁vi s ible ▁from ▁every where ▁so ▁that ▁visitors ▁never ▁lo se ▁their ▁way . ▁ — ▁The ▁work ▁includes ▁a ▁lot ▁of ▁ arch it ect ur al ▁approach es , ▁does n ' t ▁it ?
+GOLD SCORE: -180.0341
+
+[2020-11-09 16:08:20,029 INFO] 
+SENT 80: ['▁', '彼の', '作品', 'は', '共同', '作品', 'である', 'の', 'が', 'よく', 'あり', '、', '社会', '的', 'ふ', 'れ', 'あ', 'い', 'と', 'コミュニケーション', 'に', '基', 'づ', 'かれ', 'ています', '。']
+PRED 80: ▁His ▁works ▁are ▁often ▁co lla bor ated , ▁and ▁based ▁on ▁social ▁inter a ction ▁and ▁communication .
+PRED SCORE: -12.0832
+GOLD 80: ▁" H is ▁work ▁is ▁often ▁community - based ▁and ▁re lie s ▁upon ▁social ▁inter a ction , ▁as ▁is ▁beautiful ly ▁ ill ust r ated ▁by ▁his ▁series ▁"" S il ence ▁Ha s ▁An ▁E cho "" ▁( 2010 / 2012 ), ▁where ▁he ▁studies ▁the ▁em o tion al ▁and ▁p sy ch ological ▁after ma th ▁of ▁political ▁up he av al ▁and ▁ tra g ic ▁death ▁in ▁B ang k ok ."
+GOLD SCORE: -246.8853
+
+[2020-11-09 16:08:20,030 INFO] 
+SENT 81: ['▁', 'ペン', 'シ', 'ル', 'ベ', 'ニア', '大学', 'の', 'ファ', 'イン', 'アー', 'ツ', '科', 'で', '学', 'び', '、', 'ペン', 'シ', 'ル', 'ベ', 'ニア', '美', '術', 'ア', 'カ', 'デ', 'ミ', 'ー', 'にて', '学', '士', '号', 'を取得', 'しました', '。']
+PRED 81: ▁He ▁st ud i ed ▁at ▁the ▁F ine ▁Art s ▁Department ▁at ▁the ▁University ▁of ▁P en ns y l van ia , ▁and ▁received ▁a ▁Ba che lor ' s ▁degree ▁in ▁the ▁P en ns y l van ia ▁Art ▁Ac ad em y .
+PRED SCORE: -15.1940
+GOLD 81: ▁El ise ▁B ro ad way ▁( U ni ted ▁States ) ▁Re side nce : ▁July , ▁2016 ▁Qu al ification : ▁Ba che lor s ▁of ▁F ine ▁Art s ▁from ▁the ▁University ▁of ▁P en ns y l van ia , ▁C ert if ic ate ▁De gr ee ▁from ▁the ▁P en ns y l van ia ▁Ac ad em y ▁of ▁F ine ▁Art s .
+GOLD SCORE: -129.9771
+
+[2020-11-09 16:08:20,030 INFO] 
+SENT 82: ['▁', '梅', '雨', '入り', '▁', ':', '▁', 'ST', 'RO', 'K', 'E', '.']
+PRED 82: ▁ ST RO K E .
+PRED SCORE: -2.6897
+GOLD 82: ▁C L U CT ▁ NE W ▁I TE MS !! !! ▁ : ▁ ST RO K E .
+GOLD SCORE: -55.6128
+
+[2020-11-09 16:08:20,030 INFO] 
+SENT 83: ['▁', '打ち', '合わせ', '▁', ':', '▁', 'ST', 'RO', 'K', 'E', '.']
+PRED 83: ▁ ST RO K E .
+PRED SCORE: -2.7676
+GOLD 83: ▁C L U CT ▁ NE W ▁I TE MS !! !! ▁ : ▁ ST RO K E .
+GOLD SCORE: -54.0166
+
+[2020-11-09 16:08:20,030 INFO] 
+SENT 84: ['▁その', 'タイ', 'ミング', 'については', '特に', '考え', 'た', 'わ', 'け', 'ではなく', 'て', '。']
+PRED 84: ▁I ▁don ' t ▁think ▁about ▁that ▁ ti ming .
+PRED SCORE: -7.6538
+GOLD 84: ▁We ▁did n ' t ▁put ▁much ▁thought ▁into ▁the ▁ ti ming ▁of ▁that , ▁it ▁just ▁work ed ▁out ▁that ▁we ▁had ▁some ▁time ▁to ▁record , ▁and ▁the ▁st ud io ▁was ▁open .
+GOLD SCORE: -105.1817
+
+[2020-11-09 16:08:20,030 INFO] 
+SENT 85: ['▁', 'お', 'そ', '松', 'さん', '(', 'ぴ', 'え', 'ろ', '40', '周', '年', 'ver', '.', ')', '-', 'LINE', '着', 'せ', 'か', 'え', '|', 'LINE', 'S', 'TO', 'RE', '欲', 'しい', 'もの', 'リスト', 'を使って', 'み', 'よう', '!', 'スタン', 'プ', '・', '着', 'せ', 'か', 'え', 'の', 'ページ', 'の', '♡', 'ボタン', 'を', '押し', 'て', '、', '気', 'になる', 'アイテム', 'を', 'ど', 'ん', 'ど', 'ん', '追加', 'し', 'よう', '!']
+PRED 85: ▁O so ma tsu ▁( P i e ro ▁40 th ▁An ni vers ary ▁ ver . ) - LINE ▁Ka ra e ▁| ▁ LINE ▁S TO RE ▁How ▁to ▁make ▁a ▁W ish ▁List ! P res s ▁the ▁heart ▁button ▁on ▁a ▁st ick er ▁or ▁the me ' s ▁page ▁to ▁add ▁it ▁to ▁your ▁W ish ▁List !
+PRED SCORE: -18.6177
+GOLD 85: ▁he al ing ▁pen gu in 2 ( an im ation ▁ ver . ) ▁– ▁ LINE ▁st ick ers ▁| ▁ LINE ▁S TO RE ▁How ▁to ▁make ▁a ▁W ish ▁List ! P res s ▁the ▁heart ▁button ▁on ▁a ▁st ick er ▁or ▁the me ' s ▁page ▁to ▁add ▁it ▁to ▁your ▁W ish ▁List !
+GOLD SCORE: -86.0069
+
+[2020-11-09 16:08:20,030 INFO] 
+SENT 86: ['▁No', 'ns', 'ense', 'of', 'S', 'we', 'et', 'H', 'ous', 'e', 'L', 'i', 'ttle', 'De', 'er', '-', 'LINE', 'スタン', 'プ', '|', 'LINE', 'S', 'TO', 'RE', '欲', 'しい', 'もの', 'リスト', 'を使って', 'み', 'よう', '!', 'スタン', 'プ', '・', '着', 'せ', 'か', 'え', 'の', 'ページ', 'の', '♡', 'ボタン', 'を', '押し', 'て', '、', '気', 'になる', 'アイテム', 'を', 'ど', 'ん', 'ど', 'ん', '追加', 'し', 'よう', '!']
+PRED 86: ▁No ns ense of S we et H ous e L i ttle De er - LINE ▁St amp ▁| ▁ LINE ▁S TO RE ▁How ▁to ▁make ▁a ▁W ish ▁List ! P res s ▁the ▁heart ▁button ▁on ▁a ▁st ick er ▁or ▁the me ' s ▁page ▁to ▁add ▁it ▁to ▁your ▁W ish ▁List !
+PRED SCORE: -9.2925
+GOLD 86: ▁X - Ma s ▁De er ▁– ▁ LINE ▁st ick ers ▁| ▁ LINE ▁S TO RE ▁How ▁to ▁make ▁a ▁W ish ▁List ! P res s ▁the ▁heart ▁button ▁on ▁a ▁st ick er ▁or ▁the me ' s ▁page ▁to ▁add ▁it ▁to ▁your ▁W ish ▁List !
+GOLD SCORE: -45.7494
+
+[2020-11-09 16:08:20,031 INFO] 
+SENT 87: ['▁', 'オ', 'ト', 'ナ', '水', '彩', '画', ':', 'チョ', 'コ', 'ミ', 'ン', 'ト', '100%', '-', 'LINE', '着', 'せ', 'か', 'え', '|', 'LINE', 'S', 'TO', 'RE', '欲', 'しい', 'もの', 'リスト', 'を使って', 'み', 'よう', '!', 'スタン', 'プ', '・', '着', 'せ', 'か', 'え', 'の', 'ページ', 'の', '♡', 'ボタン', 'を', '押し', 'て', '、', '気', 'になる', 'アイテム', 'を', 'ど', 'ん', 'ど', 'ん', '追加', 'し', 'よう', '!']
+PRED 87: ▁O to na ▁Water co lor : ▁C ho co ▁Min t ▁ 100% - LINE ▁Ka ra e ▁| ▁ LINE ▁S TO RE ▁How ▁to ▁make ▁a ▁W ish ▁List ! P res s ▁the ▁heart ▁button ▁on ▁a ▁st ick er ▁or ▁the me ' s ▁page ▁to ▁add ▁it ▁to ▁your ▁W ish ▁List !
+PRED SCORE: -19.3144
+GOLD 87: ▁He ll o ▁K it ty ' s ▁W on der ful ▁Water co lor ▁– ▁ LINE ▁st ick ers ▁| ▁ LINE ▁S TO RE ▁How ▁to ▁make ▁a ▁W ish ▁List ! P res s ▁the ▁heart ▁button ▁on ▁a ▁st ick er ▁or ▁the me ' s ▁page ▁to ▁add ▁it ▁to ▁your ▁W ish ▁List !
+GOLD SCORE: -69.5024
+
+[2020-11-09 16:08:20,031 INFO] 
+SENT 88: ['▁', 'サン', 'プラ', 'ー', 'コントロール', 'から', '以下の', '▁S', 'te', 'in', 'ber', 'g', '▁V', 'ST', '▁', 'イン', 'ス', 'トゥ', 'ル', 'メント', 'に', 'オーディオ', 'サン', 'プ', 'ル', 'を', '転送', 'できます', '。']
+PRED 88: ▁You ▁can ▁transfer ▁audio ▁sample s ▁from ▁sample ▁control ▁to ▁the ▁following ▁S te in ber g ▁V ST ▁instrument s .
+PRED SCORE: -7.3214
+GOLD 88: ▁You ▁can ▁transfer ▁audio ▁sample s ▁from ▁Sa mpl er ▁Control ▁to ▁the ▁following ▁S te in ber g ▁V ST ▁instrument s : ▁G ro o ve ▁A g ent ▁G ro o ve ▁A g ent ▁SE ▁H AL ion ▁Pa d sho p ▁Pro
+GOLD SCORE: -118.1873
+
+[2020-11-09 16:08:20,031 INFO] 
+SENT 89: ['▁', 'これ', 'を', '防止', 'するには', '、', 'スマート', 'コントロール', 'を使用して', '手', '動', 'で', 'セ', 'グ', 'メント', 'を', '編集', 'します', '。']
+PRED 89: ▁To ▁prevent ▁this , ▁man ual ly ▁edit ▁se g ments ▁using ▁smart ▁control s .
+PRED SCORE: -6.6641
+GOLD 89: ▁This ▁is ▁due ▁to ▁the ▁fact ▁that ▁Music X M L ▁as ▁a ▁music ▁not ation ▁format ▁has ▁a ▁ graph ical ▁background ▁and ▁is ▁designed ▁for ▁ex ch ang ing ▁represent ation , ▁not ▁sound .
+GOLD SCORE: -158.2864
+
+[2020-11-09 16:08:20,031 INFO] 
+SENT 90: ['▁', 'ポ', 'ップ', 'アップ', 'メニュー', 'を', '開', 'き', '、「', 'St', 'and', 'ard', '▁Com', 'press', 'or', '」', '、「', 'T', 'ub', 'e', '▁Com', 'press', 'or', '」', '、', 'または', '「', 'V', 'int', 'age', 'C', 'om', 'press', 'or', '」', 'から', '選択', 'します', '。']
+PRED 90: ▁Open ▁the ▁po p - up ▁menu ▁and ▁select ▁St and ard ▁Com press or , ▁T ub e ▁Com press or , ▁or ▁V int age C om press or .
+PRED SCORE: -5.4920
+GOLD 90: ▁Open ▁the ▁po p - up ▁menu ▁to ▁select ▁between ▁St and ard ▁Com press or , ▁T ub e ▁Com press or , ▁and ▁V int age C om press or .
+GOLD SCORE: -15.2395
+
+[2020-11-09 16:08:21,133 INFO] 
+SENT 91: ['▁', '炉', '体', '傾', '動', '装置', '、', 'ラン', 'ス', '設備', '、', 'サ', 'ブ', 'ラン', 'ス', '設備', '、', '二', '次', '集', '塵', '設備', '、', '合', '金', '搬', '送', '・', '投', '入', '設備', '、', '鍋', '搬', '送', '台', '車', '、', '鍋', '補', '修', '装置', '、', '転', '炉', 'レン', 'ガ', '積', '機', 'などの', '補', '機', 'と', '合わせ', '、', '最', '強', 'の', '製', '鋼', '工場', 'を実現', 'します', '。']
+PRED 91: ▁F ur na ce ▁in cl in ation ▁equipment , ▁L ance ▁equipment , ▁Sub - L ance ▁equipment , ▁Second ary ▁du st ▁collection ▁equipment , ▁all o y ▁transport ation ▁and ▁in ject ion ▁equipment , ▁po t ▁transport ation ▁unit s , ▁po t ▁repair ▁equipment , ▁turn er ▁ bri ck ▁machine s , ▁etc .
+PRED SCORE: -42.4434
+GOLD 91: ▁Com bin ed ▁with ▁a u xi li ary ▁equipment , ▁such ▁as ▁convert er ▁t il ting ▁devices , ▁l ance ▁and ▁sub ▁l ance ▁facilities , ▁second ary ▁du st ▁collect ing ▁facilities , ▁all o y ▁con ve y ance ▁and ▁ char g ing ▁facilities , ▁la d le ▁transfer ▁car s , ▁la d le ▁maintenance ▁station s , ▁and ▁convert er ▁ bri ck ▁ lay ing ▁devices , ▁we ▁will ▁realize ▁the ▁most ▁powerful ▁steel ▁making ▁plant .
+GOLD SCORE: -152.7177
+
+[2020-11-09 16:08:21,133 INFO] 
+SENT 92: ['▁', 'ブ', 'ー', 'スト', '▁O', 'ps', '▁', 'から', 'レ', 'ア', 'プ', 'レ', 'ミ', 'ア', 'ム', '車', '輌', '、', 'そして', '▁', 'VI', 'II', '▁Mo', 'ther', 'land', '▁', 'も', '褒', '賞', 'として', '用意', 'されています', '!', '▁', '05', '▁', '月', '▁', '28', '▁', '日', '(', '月', ')', 'まで', 'に', '▁Gu', 'ard', 'ian', '▁', 'ST', 'G', '▁', 'を', '手', 'に', '入れ', 'ましょう', '!']
+PRED 92: ▁From ▁bo o st ▁O ps ▁to ▁rare ▁pre m ium ▁tank s , ▁and ▁ VI II ▁Mo ther land ▁are ▁also ▁available ▁for ▁re ward s !
+PRED SCORE: -15.2127
+GOLD 92: ▁You ▁can ▁earn ▁everything ▁from ▁Bo o st ▁O ps ▁to ▁rare ▁Pre m ium ▁tank s , ▁and ▁even ▁the ▁ al m ight y , ▁highly ▁co ve ted ▁ VI II ▁Mo ther land ▁ . ▁G et ▁your ▁Gu ard ian ▁ ST G ▁before ▁it ▁dis app ear s ▁on ▁May ▁ 28 ▁ !
+GOLD SCORE: -129.6642
+
+[2020-11-09 16:08:21,133 INFO] 
+SENT 93: ['▁', '砲', '弾', 'の', '自動', '装', '填', '中に', '射', '撃', 'を', '行った', '場合', '、', '自動', '装', '填', 'は', 'リ', 'セット', 'され', '、', 'その', '砲', '弾', 'の', '補', '充', 'は', 'や', 'り', '直', 'し', 'となります', '。']
+PRED 93: ▁When ▁shoot ing ▁during ▁the ▁automatic ▁f ill ing ▁of ▁the ▁art ill er y , ▁the ▁automatic ▁f ill ing ▁is ▁re set , ▁and ▁the ▁re ple n ish ment ▁of ▁the ▁art ill er y ▁is ▁re de sign ed .
+PRED SCORE: -21.5766
+GOLD 93: ▁If ▁at ▁any ▁time ▁you ▁fire ▁while ▁a ▁she ll ▁is ▁currently ▁auto - re lo ad ing , ▁the ▁auto - re lo ad ing ▁process ▁will ▁be ▁inter ru pt ed , ▁ca us ing ▁the ▁re lo ad ▁process ▁to ▁start ▁over .
+GOLD SCORE: -103.0094
+
+[2020-11-09 16:08:21,134 INFO] 
+SENT 94: ['▁', '特に', '、', '解', '説', 'が', '詳', 'しく', 'な', 'った', 'り', '、', 'たくさん', 'の', '例', 'を', '載', 'せ', 'ていた', 'り', 'する場合', '、', '解', '説', 'ページ', 'を作成', 'すること', 'は', '有効', 'です', '。']
+PRED 94: ▁E s pe cial ly , ▁if ▁you ▁have ▁a ▁de tail ed ▁de script ion , ▁or ▁if ▁you ▁have ▁a ▁lot ▁of ▁example s , ▁you ▁can ▁create ▁a ▁comment ary ▁page .
+PRED SCORE: -18.8200
+GOLD 94: ▁" If ▁you ▁wish ▁to ▁add ▁text ▁or ▁other ▁c ate g ories ▁to ▁the ▁c ate g ory ▁page ▁itself ▁( s uch ▁as ▁an ▁ exp lan ation ▁of ▁the ▁types ▁of ▁page s ▁included ), ▁then ▁go ▁to ▁the ▁c ate g ory ▁page ▁and ▁click ▁the ▁"" C re ate "" ▁button ▁to ▁create ▁it ."
+GOLD SCORE: -151.6234
+
+[2020-11-09 16:08:21,134 INFO] 
+SENT 95: ['▁', 'ページ', 'を', '編集', 'するには', 'アカウント', '登録', 'を', 'し', 'ロ', 'グ', 'イン', 'する必要があります', '。']
+PRED 95: ▁To ▁edit ▁a ▁page , ▁you ▁need ▁to ▁register ▁an ▁account ▁and ▁log ▁in .
+PRED SCORE: -7.9617
+GOLD 95: ▁If ▁you ▁had ▁a ▁F and om ▁account ▁prior ▁to ▁connect ing ▁with ▁ Facebook ▁or ▁ Google , ▁you ▁can ▁still ▁use ▁that ▁account ▁information ▁to ▁log ▁in ▁at ▁any ▁time .
+GOLD SCORE: -108.6882
+
+[2020-11-09 16:08:21,134 INFO] 
+SENT 96: ['▁', '対', '日', '関係', 'を', '改善', 'する', '意', '思', 'がある', 'の', 'だろう', 'か', 'と', '、', '疑', 'わ', 'ざ', 'る', 'を得', 'ない', '。']
+PRED 96: ▁I ▁have ▁to ▁do ub t ▁whether ▁I ▁would ▁like ▁to ▁improve ▁my ▁relationship ▁with ▁Japan .
+PRED SCORE: -13.7282
+GOLD 96: ▁As ▁such , ▁there ▁is ▁no ▁pro spect ▁that ▁they ▁will ▁become ▁ pri n ci p al ▁power ▁source s .
+GOLD SCORE: -66.1567
+
+[2020-11-09 16:08:21,134 INFO] 
+SENT 97: ['▁', '新しい', 'カード', 'リーダー', 'は', 'IC', 'チ', 'ップ', '専用', 'の', '端', '末', 'で', '、', 'カード', 'を', '端', '末', 'に', '差', 'し', '込', 'んで', '決', '済', 'を受け', '付け', 'ます', '。']
+PRED 97: ▁The ▁new ▁card ▁read er ▁is ▁a ▁terminal ▁dedicated ▁to ▁the ▁ IC ▁ chi p , ▁and ▁the ▁card ▁is ▁p lu gg ed ▁into ▁the ▁terminal ▁to ▁receive ▁payment .
+PRED SCORE: -20.5069
+GOLD 97: ▁The ▁case ▁let s ▁you ▁at ta ch ▁S qua re ▁Re ad er ▁for ▁contact less ▁and ▁ chi p ▁to ▁the ▁back ▁of ▁your ▁iPhone , ▁making ▁it ▁e as ier ▁to ▁accept ▁contact less ▁card s , ▁ chi p ▁card s ▁and ▁mobile ▁wall et s ▁when ▁you ' re ▁sell ing ▁on ▁the ▁go .
+GOLD SCORE: -207.7932
+
+[2020-11-09 16:08:21,134 INFO] 
+SENT 98: ['▁', '対応', '可能', '競', '技', '▁', '※', '▁', '施設', '名', '称', 'の', '横', 'に', '青', '色の', 'アイ', 'コン', 'のある', '施設', 'は', '、「', '東京', '2020', 'オ', 'リン', 'ピ', 'ック', '・', 'パ', 'ラ', 'リン', 'ピ', 'ック', '事', '前', 'トレーニング', 'キャンプ', 'の', 'オンライン', 'ガイド', '」', 'に', '掲載', 'されている', '施設', 'であること', 'を示し', 'ています', '。']
+PRED 98: ▁" O ffer ed ▁S port s ▁ ※ ▁The ▁facility ▁mark ed ▁by ▁the ▁green ▁icon ▁is ▁introduced ▁in ▁"" TOKYO ▁ 2020 ▁P RE - G AM ES ▁T RA IN ING ▁C AM PS ▁ ON LINE ▁G U ID E "" . ▁ ※ ▁The ▁facility ▁mark ed ▁by ▁the ▁green ▁icon ▁is ▁c ert ified ▁by ▁the ▁green ▁icon ."
+PRED SCORE: -19.3741
+GOLD 98: ▁" It ▁has ▁3 ▁natural - gra s s ▁field s , ▁1 ▁c lay ▁so cc er ▁court , ▁and ▁1 ▁natural - gra s s ▁ ru g by ▁court . ▁O ffer ed ▁S port s ▁ ※ ▁The ▁facility ▁mark ed ▁by ▁the ▁blue ▁icon ▁is ▁introduced ▁in ▁"" TOKYO ▁ 2020 ▁P RE - G AM ES ▁T RA IN ING ▁C AM PS ▁ ON LINE ▁G U ID E "" . ▁ ※ ▁The ▁ s port ▁facility ▁mark ed ▁by ▁the ▁green ▁icon ▁is ▁c ert ified ▁by ▁I F ▁( In ter n ation al ▁Fe der ations )."
+GOLD SCORE: -136.4802
+
+[2020-11-09 16:08:21,134 INFO] 
+SENT 99: ['▁', 'な', 'か', 'な', 'か', 'ない', 'の', 'ですが', '、', '一', '軒', 'だけ', 'あります', '。']
+PRED 99: ▁It ' s ▁not ▁easy , ▁but ▁there ▁are ▁only ▁one ▁room .
+PRED SCORE: -14.4383
+GOLD 99: ▁" N ow , ▁they ▁just ▁say , ▁"" H ave ▁a ▁ n ice ▁one ."""
+GOLD SCORE: -48.2850
+
+[2020-11-09 16:08:21,135 INFO] 
+SENT 100: ['▁', '多', '分', '本', 'を', '読', 'んで', 'い', 'ない', 'と', '、', '観', '終', 'わ', 'って', 'も', '「', '?', '?', '?', '」', 'って', '感じ', 'の', 'ところ', 'が', '結', '構', 'ある', 'と思います', '。', '▁', '監督', 'は', 'D', 'a', 'vid', '▁Y', 'ate', 's', '。']
+PRED 100: ▁" Ma y be ▁you ▁have n ' t ▁read ▁the ▁book , ▁even ▁if ▁you ▁have ▁finish ed ▁watch ing ▁it , ▁there ' s ▁a ▁lot ▁of ▁things ▁that ▁you ▁feel ▁like ▁"" ? ? ? "" . D a vid ▁Y ate s ▁is ▁the ▁director ."
+PRED SCORE: -35.0017
+GOLD 100: ▁Some ho w , ▁at ▁the ▁end ▁of ▁the ▁Space ▁Dis cover y ▁e ra , ▁at ▁the ▁end ▁of ▁the ▁H P ▁series , ▁and ▁what ▁with ▁the ▁earthquake ▁and ▁ radi ation ▁and ▁all , ▁it ▁feel s ▁like ▁this ▁is ▁the ▁end ▁of ▁our ▁dream s .
+GOLD SCORE: -172.1896
+
+[2020-11-09 16:08:21,135 INFO] 
+SENT 101: ['▁', '液', '晶', '偏', '光', '回', '折', '格', '子', 'を', '用', 'いた', '光', '渦', '・', 'ベ', 'クト', 'ル', 'ビー', 'ム', 'の', '生成', 'と', '検出', ',', '▁', '電子', '情報', '通信', '学', '会', '総合', '大', '会', ',', '▁2019', '年', '03', '月', '20', '日', '▁2.', '▁', 'チャ', 'ネ', 'ルド', 'ス', 'ペ', 'クト', 'ル', 'による', '分', '光', '偏', '光', '計', ',', '▁', '精', '密', '工学', '会', '2018', '年度', '秋', '季', '大', '会', 'シン', 'ポ', 'ジ', 'ウ', 'ム', ',', '▁2018', '年', '09', '月', '05', '日', '▁3.']
+PRED 101: ▁Gen er ation ▁and ▁detect ion ▁of ▁opt ical ▁ vo rt ex ▁and ▁ ve ctor ▁be am ▁using ▁ li qui d ▁crystal ▁di ff ra ction ▁la tt ice , ▁Comp re hen s ive ▁Meeting ▁of ▁the ▁Institute ▁of ▁E lect ron ic ▁Information ▁and ▁Communication s , ▁March ▁20 , ▁2019 ▁2.
+PRED SCORE: -25.1363
+GOLD 101: ▁Design ▁of ▁di ff ra ction ▁gr ating ▁with ▁t wi st ed ▁ ang le ▁distribution ▁of ▁ li qui d ▁crystal ▁using ▁ gene tic ▁ al go ri th m , ▁ 27 th ▁International ▁Li qui d ▁C ry s tal ▁Conference , ▁2018 年 07 月 26 日 ▁2.
+GOLD SCORE: -175.1849
+
+[2020-11-09 16:08:21,135 INFO] 
+SENT 102: ['▁', 'DO', 'DA', '公式', 'サイト', 'の', '結果', 'ページ', 'には', '、', '職', '種', '別', '、', '業', '種', '別', '、', '年代', '別', '、', 'それぞれ', 'の', '条件', 'で', 'スク', 'リー', 'ニング', 'が', 'できる', '形式', 'など', '、', '年', 'によって', '異なる', '部分', 'もあります', 'が', '、', 'より', 'く', 'わ', 'しい', '条件', 'での', '検索', 'が', 'できるように', 'な', 'っています', '。']
+PRED 102: ▁ DO DA ▁Of fi cial ▁We bs ite ▁Re s ult s ▁page s ▁v ary ▁depend ing ▁on ▁the ▁year , ▁such ▁as ▁v oc ation al , ▁v ari ed , ▁age - s pe ci f ic , ▁and ▁format s ▁that ▁can ▁be ▁screen ed ▁in ▁respect ive ▁conditions .
+PRED SCORE: -35.4830
+GOLD 102: ▁We ▁are ▁using ▁the ▁data ▁as ▁of ▁the ▁last ▁week ▁of ▁the ▁year . O ther ▁week ly ▁ rank ing s ▁can ▁be ▁confirm ed ▁on ▁the ▁W TA ▁official ▁website .
+GOLD SCORE: -115.1352
+
+[2020-11-09 16:08:21,135 INFO] 
+SENT 103: ['▁Gi', 'ft', '▁', '♥', '▁-', '▁So', 'ph', 'ie', '▁', 'et', '▁C', 'ho', 'co', 'la', 't', '▁', 'ソ', 'フィ', 'ー', '▁', 'エ', '▁', 'ショ', 'コ', 'ラ']
+PRED 103: ▁Gi ft ▁ <unk> ▁- ▁So ph ie ▁ et ▁C ho co la t
+PRED SCORE: -5.7139
+GOLD 103: ▁gift ▁- ▁So ph ie ▁ et ▁C ho co la t ▁ ソ フィ ー ▁ エ ▁ ショ コ ラ
+GOLD SCORE: -43.7705
+
+[2020-11-09 16:08:21,135 INFO] 
+SENT 104: ['▁', 'ア', 'カ', 'デ', 'ミ', 'ー', 'で', '使われ', 'ている', '言葉', 'に', '「', 'FA', 'B', 'i', 'ly', '」', 'という', 'もの', 'があります', 'が', '、', 'その', '言葉', 'には', '、', '刺激', 'や', '自', '信', 'を与え', 'て', 'く', 'れ', '、', 'それぞれ', 'の', '生', '徒', 'さん', 'の', '内', '面', 'にある', '「', 'FA', 'B', '」', 'を', '引き', '出', 'して', 'く', 'れる', 'ような', 'ポ', 'ジ', 'ティブ', 'な', '役割', 'モデル', 'や', '友人', '、', 'という', '意味', 'があります', '。']
+PRED 104: ▁" The ▁words ▁used ▁in ▁the ▁Ac ad em y ▁are ▁"" FA B i ly "" . ▁However , ▁the ▁words ▁are ▁me an ing ful ▁as ▁positive ▁role ▁model s ▁and ▁friends ▁that ▁give ▁us ▁st im ulation ▁and ▁con fi d ence ▁and ▁pull ▁out ▁the ▁"" FA B "" ▁inside ▁each ▁student ."
+PRED SCORE: -33.9563
+GOLD 104: ▁" The y ▁call ▁it , ▁their ▁"" FA B i ly "" ▁– ▁providing ▁positive ▁role ▁model s ▁and ▁friends ▁to ▁mo t iv ate , ▁encourage ▁and ▁bring ▁out ▁each ▁student ' s ▁in ner - "" FA B ""."
+GOLD SCORE: -105.1112
+
+[2020-11-09 16:08:21,136 INFO] 
+SENT 105: ['▁"', '「', 'フランス', 'には', 'こ', 'ん', 'な', '言葉', 'があります', '。', '▁""', 'les', '▁p', 'et', 'it', 's', '▁', 'ru', 'is', 'se', 'au', 'x', '▁fo', 'nt', '▁', 'les', '▁gr', 'and', 'es', '▁', 'ri', 'vi', 'er', 'es', '""', '▁(', '小さな', '流れ', 'は', '大きな', '主', '流', 'を', '生', 'み', '出す', ')」', '私たちは', 'キ', 'ム', '、', 'マーク', '、', 'そして', 'タイ', 'ラー', '基', '金', 'の', '皆', 'さん', 'に', '、', '私たち', 'を', '小さな', '流れ', 'に加えて', 'く', 'だ', 'さ', 'った', 'ことに', '感謝', 'したい', 'と思います', '。"']
+PRED 105: ▁" I ▁would ▁like ▁to ▁than k ▁K im , ▁Mar k , ▁and ▁the ▁T y ler ▁Foundation ▁for ▁giving ▁us ▁a ▁small ▁flow . "" ▁ les ▁p et it s ▁ ru is se au x ▁fo nt ▁ les ▁gr and es ▁ ri vi er es "" ▁( S ma ll ▁flow ▁produce s ▁great ▁main stream "" ) "
+PRED SCORE: -31.4039
+GOLD 105: ▁" The rap y ▁do g ▁Program ,"" ▁said ▁Fa iv re . ▁"" ... as ▁we ▁say ▁in ▁France : ▁"" les ▁p et it s ▁ ru is se au x ▁fo nt ▁ les ▁gr and es ▁ ri vi er es "" ▁( s ma ll ▁ stream s ▁make ▁large ▁and ▁major ▁river s "" ) ... so ▁I ▁would ▁like ▁to ▁than k ▁K im , ▁Mar k ▁and ▁the ▁T y ler ▁Foundation ▁for ▁allow ing ▁us ▁to ▁be ▁one ▁of ▁those ▁small ▁ stream s ."""
+GOLD SCORE: -186.7014
+
+[2020-11-09 16:08:21,136 INFO] 
+SENT 106: ['▁', '欲', '知', '詳', '情', ',', '請', '聯繫', ':', '▁', '中', '文', '媒', '體', '▁', '繆', '為', '夷', '▁', '電話', ':', '+', '86', '-', '21', '-', '3', '86', '1', '-', '00', '00', '▁', '轉', '100', '88', '▁', '電', '郵', ':', 'A', 'n', 'ge', 'la', '_', 'M', 'iao', '@', 's', 'mic', 's', '.', 'com', '▁', '英', '文', '媒', '體', '▁', '廖婉', '廷', '▁', '電話', ':', '+', '86', '-', '21', '-', '3', '86', '1', '-', '00', '00', '▁', '轉', '1', '60', '36', '▁', '電', '郵', ':', 'A', 'n', 'ny', '_', 'L', 'iao', '@', 's', 'mic', 's', '.', 'com']
+PRED 106: ▁For ▁more ▁information , ▁please ▁contact : ▁C hu bu ▁media ▁ <unk> ▁ <unk> ▁T el : ▁+ 86 - 21 - 3 86 1 - 00 00 ▁ <unk> 100 88 ▁E lect ric : ▁An ge la _ M iao @ s mic s . com ▁B rit ish ▁media ▁ <unk> ▁T el : ▁+ 86 - 21 - 3 86 1 - 00 00 00 ▁ <unk> 1 60 36 ▁E lect ric : ▁An ny _ L iao @ s mic s . com
+PRED SCORE: -28.4524
+GOLD 106: ▁For ▁further ▁information , ▁please ▁contact : ▁An ny ▁L iao ▁T el : ▁+ 86 - 21 - 3 86 1 - 00 00 ▁ ext . ▁1 60 36 ▁E mail : ▁An ny _ L iao @ s mic s . com
+GOLD SCORE: -62.9502
+
+[2020-11-09 16:08:21,136 INFO] 
+SENT 107: ['▁Po', 'ke', 'me', 'sh', '▁', 'AP', 'K', 'の', '主な', '特', '長', ',', '▁', 'アプリ', ':', '▁', '最初の', ',', '▁sc', 'ar', 'ica', '▁Po', 'ke', 'me', 'sh', '▁', 'AP', 'K', '▁', '公式', 'サイト', '.']
+PRED 107: ▁The ▁main ▁features ▁of ▁Po ke me sh ▁ AP K , ▁app : ▁first , ▁sc ar ica ▁Po ke me sh ▁ AP K ▁official ▁website .
+PRED SCORE: -7.2411
+GOLD 107: ▁K ey ▁Fe ature s ▁Of ▁Po ke me sh ▁A p k , ▁App : ▁before , ▁sc ar ica ▁Po ke me sh ▁ AP K ▁the ▁official ▁site .
+GOLD SCORE: -32.4473
+
+[2020-11-09 16:08:21,136 INFO] 
+SENT 108: ['▁', 'iPad', 'ケース', '販売', '予', '告', '▁–', '▁S', 'le', 'e', 've', 'C', 'ase', 'J', 'P', '▁', 'コメント', 'を', '残', 'す', '▁', 'コメント', 'を', 'キャ', 'ン', 'セル', '▁', 'メール', 'アドレス', 'が', '公開', 'されること', 'はありません', '。']
+PRED 108: ▁ iPad ▁C ase ▁Sa les ▁Not ice ▁– ▁S le e ve C ase J P ▁Le ave ▁Com ments ▁Can cel ▁comment s ▁Your ▁email ▁address ▁will ▁not ▁be ▁published .
+PRED SCORE: -12.4441
+GOLD 108: ▁ 新しい パ ソ コン ケース の 販売 開始 予 告 ▁– ▁S le e ve C ase J P ▁Le ave ▁a ▁Re p ly ▁Can cel ▁re p ly ▁Your ▁email ▁address ▁will ▁not ▁be ▁published .
+GOLD SCORE: -87.4869
+
+[2020-11-09 16:08:21,136 INFO] 
+SENT 109: ['▁', '流', '水', '▁–', '▁', 'ページ', '▁2', '▁–', '▁S', 'le', 'e', 've', 'C', 'ase', 'J', 'P']
+PRED 109: ▁F low ▁– ▁P age ▁2 ▁– ▁S le e ve C ase J P
+PRED SCORE: -4.4375
+GOLD 109: ▁CO V ER ▁– ▁ ページ ▁2 ▁– ▁S le e ve C ase J P
+GOLD SCORE: -23.1775
+
+[2020-11-09 16:08:21,137 INFO] 
+SENT 110: ['▁', 'か', 'の', '群', '衆', 'の', '者', 'たち', 'は', '食べ', 'よう', 'と', 'しない', 'ことに', 'な', 'っています', '。']
+PRED 110: ▁Some ▁people ▁do ▁not ▁want ▁to ▁eat .
+PRED SCORE: -7.3872
+GOLD 110: ▁" You ▁are ▁an ▁off ense ▁to ▁me , ▁because ▁you ▁do ▁not ▁set ▁your ▁mind ▁on ▁the ▁things ▁of ▁God , ▁but ▁the ▁things ▁of ▁people ."""
+GOLD SCORE: -91.9709
+
+[2020-11-09 16:08:21,137 INFO] 
+SENT 111: ['▁Ph', 'l', '.', '02', ':', '29', '.', '(', '練', '語', '版', ')', '▁', 'それ', 'で', '、', 'すべての', '喜', 'び', 'を', 'も', 'って', '主', 'に', 'あって', '彼', 'を', '迎', 'え', '入れ', 'なさい', '。', '▁そして', 'このような', '人々', 'を', '尊', '敬', 'し', 'なさい', '。']
+PRED 111: ▁Ph l . 02 : 29 .
+PRED SCORE: -4.5010
+GOLD 111: ▁Therefore , ▁receive ▁him ▁in ▁the ▁Lord ▁with ▁all ▁ jo y , ▁and ▁have ▁such ▁in ▁ho n or , ▁Ph l . 02 :30 . ▁because ▁on ▁account ▁of ▁the ▁work ▁of ▁Christ ▁he ▁came ▁near ▁un to ▁death , ▁risk ing ▁his ▁so ul ▁that ▁he ▁might ▁f ill ▁up ▁your ▁lack ▁of ▁service ▁to ▁me .
+GOLD SCORE: -187.4138
+
+[2020-11-09 16:08:21,137 INFO] 
+SENT 112: ['▁M', 't', '.', '16', ':', '10', '.', '〈', '逐', '語', '版', '〉', '▁その', '上で', '、', 'あなたが', 'た', 'は', 'まだ', '記憶', 'していない', 'の', 'ですか', '。']
+PRED 112: ▁M t . 16 : 10 . 〈 I mp ro ved 〉 ▁But ▁do ▁you ▁still ▁remember ?
+PRED SCORE: -6.5038
+GOLD 112: ▁M t . 17 : 27 . 〈 S i mpl ified 〉 ▁But , ▁in ▁order ▁not ▁to ▁off end ▁them , ▁go ▁to ▁the ▁sea ▁and ▁ cast ▁a ▁fish ▁ho ok ▁and ▁pick ▁up ▁the ▁first ▁fish ▁that ▁come s ▁up .
+GOLD SCORE: -139.5893
+
+[2020-11-09 16:08:21,137 INFO] 
+SENT 113: ['▁しかし', '、', '彼', 'が', 'イスラエル', 'に', '現', 'わ', 'される', 'ように', '、', 'この', '理由', 'で', '、', 'わたし', 'は', '水', 'の中に', 'バ', 'プ', 'テ', 'ス', 'マ', 'し', 'に', '来', 'た', 'のです', '」', '。']
+PRED 113: ▁" B ut ▁for ▁this ▁reason , ▁I ▁came ▁to ▁ ba pt ize ▁in ▁the ▁water , ▁as ▁he ▁appear ed ▁in ▁Israel ."""
+PRED SCORE: -13.3210
+GOLD 113: ▁" Ma ny ▁from ▁out ▁of ▁the ▁crowd ▁believe d ▁in ▁him ▁and ▁said , ▁"" The ▁Christ , ▁when ever ▁he ▁should ▁come ▁will ▁not ▁do ▁more ▁sign s ▁than ▁this ▁one ▁has ▁done , ▁will ▁he ?" ""
+GOLD SCORE: -147.6248
+
+[2020-11-09 16:08:21,137 INFO] 
+SENT 114: ['▁そして', '、', 'もし', 'わたし', 'が', '何か', 'の', 'ことで', '赦', 'した', 'と', 'すれば', '、', 'それは', '、', 'あなたが', 'た', 'の', 'ゆ', 'え', 'に', 'キリスト', 'のみ', '前', 'でした', 'のです', '。']
+PRED 114: ▁And ▁if ▁I ▁for gi ven ▁something , ▁it ▁was ▁only ▁Christ ▁for ▁you .
+PRED SCORE: -9.9178
+GOLD 114: ▁For ▁in ▁that ▁which ▁I ▁also ▁have ▁been ▁gr ac ious , ▁if ▁I ▁have ▁been ▁gr ac ious ▁in ▁anything , ▁it ▁is ▁because ▁of ▁you ▁in ▁the ▁face ▁of ▁Christ , ▁2 Co . 02 : 11 . ▁l est ▁we ▁may ▁be ▁over re ach ed ▁by ▁Sa tan , ▁for ▁we ▁are ▁not ▁ ign or ant ▁of ▁his ▁design s .
+GOLD SCORE: -202.8550
+
+[2020-11-09 16:08:21,137 INFO] 
+SENT 115: ['▁それは', '、', 'サ', 'タン', 'が', '、', 'あなたが', 'た', 'の', '自', '制', '力', 'の', 'ない', 'の', 'に', '乗', 'じ', 'て', 'あなたが', 'た', 'を', '誘', '惑', 'すること', 'の', 'ない', 'ため', 'です', '。']
+PRED 115: ▁It ▁is ▁because ▁Sa tan ▁will ▁not ▁ temp t ▁you ▁to ▁ride ▁without ▁your ▁self - con tro l .
+PRED SCORE: -13.7241
+GOLD 115: ▁Do ▁not ▁ def ra ud ▁one ▁another , ▁ex cept ▁if ▁it ▁be ▁by ▁agreement ▁for ▁a ▁season ▁in ▁order ▁that ▁you ▁might ▁de vo te ▁your s el ves ▁to ▁pray er , ▁and ▁you ▁should ▁be ▁the ▁same ▁again , ▁l est ▁Sa tan ▁may ▁try ▁you ▁because ▁of ▁your ▁lack ▁of ▁self ▁control .
+GOLD SCORE: -202.8169
+
+[2020-11-09 16:08:21,138 INFO] 
+SENT 116: ['▁', '古', '典', '伝', '承', 'の', '態', '勢', 'の', 'な', 'か', 'で', '、', '真', '摯', 'なる', '「', '温', '故', '知', '新', '」', 'の', '精神', 'で', '新', '機', '軸', 'を', '打ち', '出す', '事', 'も', '必要な', '事', 'と', '思', 'われ', 'ます', '。']
+PRED 116: ▁" In ▁the ▁post ure ▁of ▁the ▁class ical ▁tradition , ▁it ▁is ▁also ▁necessary ▁to ▁create ▁a ▁new ▁a xi s ▁in ▁the ▁spirit ▁of ▁"" W en ▁Z hen ▁new ,"" ▁which ▁is ▁true ."
+PRED SCORE: -31.2486
+GOLD 116: ▁" In ▁order ▁to ▁keep ▁traditional ▁music ▁ al ive , ▁I ▁believe ▁that ▁it ▁is ▁essential ▁to ▁come ▁up ▁with ▁innovation s . ▁We ▁should ▁do ▁that ▁in ▁the ▁spirit ▁of ▁the ▁say ing , ▁"" B y ▁study ing ▁the ▁old , ▁one ▁become s ▁able ▁to ▁understand ▁the ▁new ."""
+GOLD SCORE: -156.3738
+
+[2020-11-09 16:08:21,138 INFO] 
+SENT 117: ['▁', '家族', 'の中で', '怪', '我', 'を', 'した', 'の', 'は', '実', 'だけで', 'した', 'が', '、', 'おかげで', '軍', '隊', 'に', '入', 'る', 'ことができ', 'なく', 'な', 'りました', '。']
+PRED 117: ▁I ▁was ▁in ju red ▁in ▁my ▁family , ▁but ▁thanks ▁to ▁this , ▁I ▁was ▁not ▁able ▁to ▁enter ▁the ▁arm y .
+PRED SCORE: -17.2447
+GOLD 117: ▁For ▁J an ice , ▁the ▁con vent ions ▁of ▁the ▁scene ▁are ▁not ▁hard ▁and ▁fast ▁rule s , ▁but ▁rather ▁tool s ▁that ▁she ▁can ▁mo ld ▁and ▁use ▁to ▁create ▁something ▁that ▁is ▁all ▁her ▁own .
+GOLD SCORE: -170.6748
+
+[2020-11-09 16:08:21,138 INFO] 
+SENT 118: ['▁あなたは', 'タ', 'ブ', 'レット', 'ユーザー', 'は', '▁Windows', '▁8', '▁', 'の', 'ス', 'ナ', 'ップ', '機能', 'を使用する', 'ことができる', 'ことを', '確認', 'する必要があります', '。']
+PRED 118: ▁You ▁need ▁to ▁make ▁sure ▁that ▁table t ▁users ▁can ▁use ▁Windows ▁8 ▁ s na p ▁features .
+PRED SCORE: -8.0256
+GOLD 118: ▁The ▁test ▁you ▁are ▁developing ▁has a ▁two val id ation ▁step s ▁that ▁use ▁a ▁para meter ▁name d ▁To tal P ri ce .
+GOLD SCORE: -136.7933
+
+[2020-11-09 16:08:21,138 INFO] 
+SENT 119: ['▁日本', '、', '中国', '、', 'ヨーロッパ', 'に', '営業', '事務所', 'を', '開', '設', 'しています', '。']
+PRED 119: ▁We ▁have ▁opened ▁sales ▁office s ▁in ▁Japan , ▁China , ▁and ▁Europe .
+PRED SCORE: -6.0331
+GOLD 119: ▁By ▁opening ▁an ▁office s ▁in ▁Japan , ▁China ▁and ▁Europe , ▁C er es co ▁pro ved ▁its ▁ ability ▁to ▁establish ▁and ▁maintain ▁close ▁re l ations ▁with ▁its ▁client s .
+GOLD SCORE: -93.9701
+
+[2020-11-09 16:08:21,138 INFO] 
+SENT 120: ['▁El', 'as', 'tic', '▁C', 'lo', 'ud', 'の', 'ユーザー', 'コン', 'ソー', 'ル', 'で', '、', '[', 'S', 'na', 'p', 'sho', 't', ']', 'の', 'サ', 'ブ', 'メニュー', 'にある', '[', 'S', 'na', 'p', 'sho', 't', '▁count', ']', 'という', '高', '度', 'な', 'パラメータ', 'ー', 'が', 'その', '機能', 'です', '。']
+PRED 120: ▁In ▁the ▁El as tic ▁C lo ud ▁user ▁con so le , ▁an ▁advanced ▁para meter ▁called ▁S na p sho t ▁count ▁is ▁in ▁the ▁S na p sho t ▁sub men u .
+PRED SCORE: -10.6313
+GOLD 120: ▁In ▁order ▁to ▁allow ▁control ▁beyond ▁adapt ing ▁the ▁changes ▁to ▁the ▁data ▁( w hi ch ▁is ▁not ▁always ▁practical ), ▁we ▁included ▁an ▁advanced ▁para meter ▁in ▁the ▁El as tic ▁C lo ud ▁user ▁con so le ▁under ▁the ▁ s na p sho ts ▁sub ▁menu , ▁called ▁S na p sho t ▁count .
+GOLD SCORE: -136.2152
+
+[2020-11-09 16:08:22,408 INFO] 
+SENT 121: ['▁「', '工場', 'の', '必要', 'とする', 'もの', 'を見', 'つけ', '出し', '、', '分析', '、', '文書', '化', 'することが', '私の', '仕事', 'でした', '。', '▁そして', '業', '者', 'との', '契約', 'も', '行って', 'きました', '」', 'と', '玉', '井', 'さん', 'は', '語', 'った', '。']
+PRED 121: ▁" M y ▁job ▁was ▁to ▁find , ▁a na ly ze ▁and ▁document ▁what ▁I ▁need ed ▁for ▁the ▁fact ory , ▁and ▁we ▁had ▁contract s ▁with ▁the ▁industry ."""
+PRED SCORE: -26.0785
+GOLD 121: ▁" ( P ho to ▁by ▁R yo ▁I so be , ▁F LE AC T ▁Y ok o su ka ▁Public ▁Affairs ) "" M y ▁job ▁was ▁to ▁find ▁out ▁the ▁shop s ' ▁requirements , ▁a na ly ze ▁and ▁document ▁them , ▁and ▁close ▁contract s ▁with ▁the ▁v end ors ,"" ▁he ▁said ."
+GOLD SCORE: -117.4429
+
+[2020-11-09 16:08:22,408 INFO] 
+SENT 122: ['▁', '壊', 'れた', '▁3', '▁', '音', '声', 'パ', 'ック', '▁|', '▁', '海', 'グループ']
+PRED 122: ▁B ro ken ▁3 ▁V o ice ▁P ack ▁| ▁Sea ▁Group
+PRED SCORE: -5.7542
+GOLD 122: ▁Sea ▁fo g ▁and ▁the ▁Po lar ▁body ▁| ▁Sea ▁Group
+GOLD SCORE: -55.7390
+
+[2020-11-09 16:08:22,408 INFO] 
+SENT 123: ['▁S', 'ce', 'ne', '/', 'A', 's', 'ia', '日本', 'キ', 'ュ', 'レーション', 'を', '担当', 'して', 'く', 'れた', '大', '舘', '奈', '津', '子', 'と', 'ウィ', 'リア', 'ム', '・', 'アン', 'ド', 'リュー', 'ズ', 'の', '二', '人', 'も', '、「', '3', '.', '11', '」', 'を', '新たな', '想像', '力', 'の', '起', '点', 'に', '据', 'え', 'ます', '。', '▁そして', 'この', '地', '点', 'からの', 'ち', 'の', '動', '乱', '期', 'の', '日本', '社会', 'から', '生まれ', 'た', '「', '社会', '参', '与', 'を', '意識', 'した', 'アート', '・', 'プロジェクト', '」', 'や', '、「', '芸術', '的に', '地域', 'に', '参', '与', 'する', '社会', '運動', '」', 'を', '紹介', 'して', 'く', 'れ', 'ます', '。']
+PRED 123: ▁" O tsu na zu ko ▁and ▁W il li am ▁And rew s , ▁who ▁were ▁in ▁charge ▁of ▁S ce ne / A s ia ▁Japan ▁ cur ation , ▁will ▁set ▁the ▁"" 3 . 11 "" ▁as ▁the ▁start ing ▁point ▁of ▁new ▁im ag in ation . A nd ▁from ▁this ▁point , ▁we ▁will ▁introduce ▁"" A rt ▁Project ▁with ▁Con s c ious ness ▁of ▁So cial ▁Part ic ip ation "" ▁and ▁"" S o cial ▁Mo ve ment ▁in ▁an ▁artist ic ▁community ""."
+PRED SCORE: -54.9612
+GOLD 123: ▁" B o th ▁Na tsu ko ▁O d ate ▁and ▁W il li am ▁And rew s , ▁the ▁ cur ator s ▁for ▁S ce ne / A s ia ' s ▁show c ase ▁of ▁Japanese ▁art s , ▁place ▁"" 3 . 11 "" ▁as ▁a ▁start ing ▁point ▁for ▁new ▁ vision s , ▁in tro du cing ▁example s ▁of ▁social ly ▁engage d ▁art ▁projects ▁and ▁artist ically ▁engage d ▁social ▁movement s ▁that ▁em er g ed ▁out ▁of ▁the ▁t um ul tu ous ▁period ▁Japan ▁enter ed ▁after ▁the ▁2011 ▁disaster ."
+GOLD SCORE: -196.1175
+
+[2020-11-09 16:08:22,409 INFO] 
+SENT 124: ['▁', ',', '▁', '中', '世', 'の', '美', '術', 'に', '興味', 'がある', '人', 'に', '特に', '.', '▁また', '、', '追加', '提供', 'するための', 'プラ', 'ク', 'ティ', 'ス', 'を', '教会', 'に', 'します', '。']
+PRED 124: ▁Also ▁to ▁the ▁church ▁to ▁offer ▁additional ▁practice s .
+PRED SCORE: -9.7535
+GOLD 124: ▁Pa ul ▁recommend s ▁that ▁other ▁students ▁do ▁inter n ship s ▁in ▁San ▁Ju an ▁de ▁ el ▁Ho s pi tal , ▁above ▁all ▁those ▁me d ie val ▁art ▁interest .
+GOLD SCORE: -102.9624
+
+[2020-11-09 16:08:22,409 INFO] 
+SENT 125: ['▁', 'そ', 'も', 'そ', 'も', '今', '進', 'んだ', '先', 'に', '何', 'がある', 'か', 'わ', 'から', 'ず', '、', 'その', '日の', '目的', '地', 'に', '着', 'く', 'かどうか', 'も', 'さ', 'っ', 'ぱ', 'り', 'わ', 'から', 'ない', 'という', '状況', 'は', '想像', '以上', 'に', '体', '力', 'の', '消', '耗', 'を', '加', '速', 'させ', '、', '精神', '的な', 'キ', 'ツ', 'さ', 'を', '増', '大', 'させる', 'ように', '思', 'われ', 'ます', '。']
+PRED 125: ▁At ▁first , ▁I ▁don ' t ▁know ▁what ▁I ' ve ▁been ▁do ing ▁now , ▁and ▁I ▁don ' t ▁know ▁whether ▁or ▁not ▁I ▁get ▁to ▁the ▁destination ▁of ▁that ▁day , ▁the ▁situation ▁seems ▁to ▁ ac cel er ate ▁the ▁con sum p tion ▁of ▁physical ▁strength ▁and ▁increase ▁the ▁ ment al ▁k it ch en .
+PRED SCORE: -44.3029
+GOLD 125: ▁In ▁practice , ▁the ▁distance ▁to ▁L y on ▁was ▁more ▁than ▁written ▁in ▁number ▁and ▁the ▁real ity ▁present ed ▁a ▁real ▁battle ▁with ▁the ▁power ▁of ▁the ▁will . ▁In ▁the ▁first ▁place , ▁the ▁fact ▁that ▁you ▁don ' t ▁know ▁what ▁is ▁expect ing ▁you ▁after ▁the ▁next ▁corner ▁and ▁you ▁don ' t ▁know ▁whether ▁you ▁can ▁a rr ive ▁at ▁your ▁next ▁destination ▁burn s ▁you ▁up ▁much ▁more ▁than ▁you ▁think , ▁what ▁especially ▁make s ▁your ▁ ment al ▁ hu rd le ▁higher .
+GOLD SCORE: -307.7282
+
+[2020-11-09 16:08:22,409 INFO] 
+SENT 126: ['▁', 'タイトル', ':', '探', '偵', '▁', '神', '宮', '寺', '三', '郎', '▁', '灰', 'と', 'ダイヤモンド', '機', '種', ':', 'PS', 'P', '発売', '元', ':', 'アー', 'ク', 'システム', 'ワーク', 'ス', '発売', '日', ':', '200', '9', '/', '09', '/', '17', 'ジャ', 'ン', 'ル', ':', 'AD', 'V', '価格', ':', '¥', '5', ',', '0', '40', '初', '週', '販売', '本', '数', ':', '4', ',', '17', '2', '累', '計', '販売', '本', '数', ':', '8', ',', '19', '5', 'データ', '更新', '時間', ':', '2010', '/', '01', '/', '03']
+PRED 126: ▁Ti tle : ▁De t ect ive ▁J ing u - ji ▁Temple ▁S ab uro ▁D ia mon d S y st em : ▁P SP P ub li s her : ▁Ar c ▁System ▁Work s Re le ase ▁D ate : ▁200 9 / 09 / 17 G en re : ▁ AD V P ri ce : ▁ ¥ 5 , 0 40 F ir st ▁We ek ▁Sa les : ▁4 , 17 2 L i fe time ▁Sa les : ▁8 , 19 5 La st ▁U p d ate : ▁2010 / 01 / 03
+PRED SCORE: -16.5543
+GOLD 126: ▁Ti tle : ▁De t ect ive ▁J ing u u ji ▁Sa bu ro : ▁As he s ▁and ▁D ia mon d s S y st em : ▁P SP P ub li s her : ▁Ar c ▁System ▁Work s Re le ase ▁D ate : ▁200 9 / 09 / 17 G en re : ▁ AD V P ri ce : ▁ ¥ 5 , 0 40 F ir st ▁We ek ▁Sa les : ▁4 , 17 2 L i fe time ▁Sa les : ▁8 , 19 5 La st ▁U p d ate : ▁2010 / 01 / 03
+GOLD SCORE: -33.5975
+
+[2020-11-09 16:08:22,409 INFO] 
+SENT 127: ['▁また', '、', '活', '発', 'に参加', 'した場合', 'も', '、', 'その', '動', '機', 'は', '家族', 'の', '利益', 'と', '妻', 'として', 'の', '内', '助', 'といった', '伝統', '的', '女性', '規', '範', 'にも', 'と', 'づ', 'い', 'ていた', '。', '▁2.']
+PRED 127: ▁In ▁addition , ▁even ▁if ▁they ▁were ▁active ly ▁part ic ip ating , ▁the ▁mo t iv ation ▁was ▁based ▁on ▁traditional ▁female ▁no rm s ▁such ▁as ▁the ▁benefit s ▁of ▁the ▁family ▁and ▁the ▁internal ▁assistance ▁of ▁the ▁wife .
+PRED SCORE: -25.5320
+GOLD 127: ▁In ▁addition , ▁it ▁was ▁per mission ▁system ▁in ▁Taiwan , ▁and ▁families ▁who ▁were ▁ad mitt ed ▁a ▁change ▁of ▁the ▁ sur name , ▁did ▁not ▁reach ▁2 % .
+GOLD SCORE: -137.8192
+
+[2020-11-09 16:08:22,409 INFO] 
+SENT 128: ['▁', 'すぐに', '遠く', '離', 'れた', 'スター', 'ト', '地', '点', 'の', '谷', '底', 'は', '暗', '闇', 'へ', 'と', '消', 'え', 'ていきます', '。']
+PRED 128: ▁The ▁ val ley ▁bottom ▁of ▁the ▁start ing ▁point , ▁far ▁away , ▁dis app ear s ▁into ▁the ▁dark ness .
+PRED SCORE: -12.8624
+GOLD 128: ▁They ▁break ▁often , ▁and ▁drink ▁water ▁too ▁fast , ▁and ▁soon ▁the ▁dis t ant ▁view ▁of ▁where ▁they ▁began ▁on ▁the ▁ val ley ▁floor ▁ s lip s ▁into ▁dark ness .
+GOLD SCORE: -109.4106
+
+[2020-11-09 16:08:22,410 INFO] 
+SENT 129: ['▁', '条件', 'が', '▁', '偽', 'であれば', '、', 'コン', 'テ', 'ナ', '中の', 'ディ', 'レ', 'ク', 'ティブ', 'は', '無', '視', 'されます', '。']
+PRED 129: ▁If ▁the ▁condition ▁is ▁f al se , ▁the ▁direct ive ▁in ▁the ▁contain er ▁is ▁ ign or ed .
+PRED SCORE: -6.5412
+GOLD 129: ▁This ▁means ▁that ▁if ▁I ▁had ▁a ▁ RE SO UR CE ▁filter ▁on ▁the ▁st ack , ▁and ▁I ▁added ▁a ▁C ON NE C TI ON ▁filter , ▁the ▁C ON NE C TI ON ▁filter ▁would ▁be ▁ ign or ed .
+GOLD SCORE: -127.3669
+
+[2020-11-09 16:08:22,410 INFO] 
+SENT 130: ['▁', '以下の', 'ルー', 'チン', 'が', '設定', 'する', '正', '規', '化', '変換', 'に関する', 'パラメータ', 'は', ',', '▁G', 'R', 'P', 'H', '1', 'の', '内部', '変', '数', 'を', '管理', 'する', 'ルー', 'チン', 's', 'g', 'p', 'g', 'et', '/', 's', 'g', 'p', 'set', 'により', '▁', '一', 'つ', 'ず', 'つ', '参照', '/', '変更', 'すること', 'も', 'できる', '.']
+PRED 130: ▁The ▁para meter s ▁for ▁the ▁normal ization ▁con vers ion ▁set ▁by ▁the ▁following ▁ ro ut ine s ▁can ▁be ▁refer red ▁and ▁change d ▁by ▁ ro ut ine s g p g et / s g p set , ▁which ▁manage s ▁internal ▁v ari able s ▁of ▁G R P H 1 .
+PRED SCORE: -21.8127
+GOLD 130: ▁The ▁para meter s ▁for ▁normal ization ▁transform ation ▁set ▁by ▁the ▁ ro ut ine s ▁below ▁can ▁also ▁be ▁in qui red / ch ang ed ▁individual ly ▁using ▁the ▁S G p G ET / S G p S ET ▁ ro ut ine , ▁which ▁manage s ▁the ▁internal ▁v ari able s ▁in ▁G R P H 1 .
+GOLD SCORE: -97.1122
+
+[2020-11-09 16:08:22,410 INFO] 
+SENT 131: ['▁2', '番', 'め', 'の', '引', '数', 'は', ',', '▁1', '桁', 'の', '範', '▁', '囲', 'に', '描', 'く', 'ラ', 'ベル', 'の', '数', 'であり', ',', '▁', 'x', '軸', 'については', '1', 'となって', 'いて', ',', '▁10', 'n', 'の', 'ところ', '▁', 'に', 'のみ', 'ラ', 'ベル', 'が', '描', 'かれ', 'ます', '.', '▁また', ',', '▁', 'y', '軸', 'については', '3', 'となって', 'いて', ',', '▁10', 'n', '以', '▁', '外', 'にも', '▁2', '×', '10', 'n', '▁', ',', '▁5', '×', '10', 'n', 'に', 'ラ', 'ベル', 'が', '描', 'かれ', 'て', 'ます', '.', '▁この', '引', '数', '▁', 'が', '2', 'ならば', ',', '▁10', 'n', 'と', '▁2', '×', '10', 'n', '▁', 'に', 'ラ', 'ベル', 'が', '描', 'かれ', 'ます', '.']
+PRED 131: ▁The ▁second ▁ ar gu ment ▁is ▁the ▁number ▁of ▁label s ▁draw n ▁around ▁a ▁single - d ig it ▁number , ▁and ▁the ▁ x - ax is ▁is ▁draw n ▁only ▁by ▁10 n .
+PRED SCORE: -22.4576
+GOLD 131: ▁The ▁ ar gu ment ▁given ▁by ▁the ▁draw ▁ ro ut ine s ▁( U L X LO G / U L Y LO G ) ▁will ▁enable ▁a ▁specific ation ▁for ▁draw ing ▁several ▁label s ▁within ▁a ▁single ▁order ▁on ▁the ▁a xi s . ▁F ur ther mo re , ▁by ▁changing ▁the ▁internal ▁v ari able ▁hand led ▁by ▁U L p G ET / U L p S ET , ▁the ▁format ▁of ▁the ▁a xi s ▁label ▁can ▁be ▁change d .
+GOLD SCORE: -318.2380
+
+[2020-11-09 16:08:22,410 INFO] 
+SENT 132: ['▁', 'サ', 'ミ', 'ット', 'では', 'テ', 'レ', 'ライ', '・', 'ト', 'レン', 'ト', 'さん', 'の', '講演', 'に', '加え', '、', '経済', '平和', '研究所', '(', 'In', 'st', 'it', 'ute', '▁for', '▁Economic', 's', '▁and', '▁Pe', 'a', 'ce', ')', 'と', 'ロー', 'タ', 'リー', 'との', 'パートナー', 'シ', 'ップ', 'に', 'スポット', 'ライト', 'が', '当', 'て', 'られ', 'ました', '。']
+PRED 132: ▁At ▁the ▁ sum mit , ▁in ▁addition ▁to ▁Mr . ▁Te le ri ▁T ren to ' s ▁speech , ▁a ▁spot light ▁was ▁given ▁on ▁the ▁partner ship ▁between ▁the ▁Institute ▁for ▁Economic s ▁and ▁Pe a ce ▁and ▁Ro t ary .
+PRED SCORE: -23.1920
+GOLD 132: ▁The ▁con vent ion ▁got ▁its ▁un off i cial ▁start ▁F ri day , ▁ 22 ▁June , ▁with ▁a ▁two - day ▁Ro t ary ▁Pe a ce bu il ding ▁S um mit ▁that ▁feature d ▁a ▁speech ▁from ▁Dr . ▁T er er ai ▁T r ent ▁and ▁in s ight s ▁into ▁Ro t ary ' s ▁partner ship ▁with ▁the ▁Institute ▁for ▁Economic s ▁and ▁Pe a ce .
+GOLD SCORE: -172.3783
+
+[2020-11-09 16:08:22,410 INFO] 
+SENT 133: ['▁「', 'クラブ', '会', '員', 'の', '高', '齢', '化', 'が', '進', 'む', '中', '、', 'この', '衛星', 'クラブ', 'という', '新しい', '試', 'み', 'を取り', '入れ', 'る', 'よう', 'クラブ', 'を', '説', '得', 'して', 'み', 'たい', 'と思います', '。']
+PRED 133: ▁" I ▁would ▁like ▁to ▁per su ade ▁the ▁club ▁to ▁in cor po rate ▁a ▁new ▁ s ate ll ite ▁club , ▁"" A s ▁the ▁ aging ▁of ▁the ▁club ▁members ▁progress es , ▁I ▁want ▁to ▁per su ade ▁the ▁club ▁to ▁in cor po rate ▁new ▁attempt s ."
+PRED SCORE: -34.1572
+GOLD 133: ▁" It ' s ▁a ▁short - term , ▁trans ition al ▁step ▁on ▁the ▁way ▁to ▁becoming ▁a ▁full , ▁in dependent ▁Ro t ary ▁club . ▁"" I ▁want ▁to ▁per su ade ▁my ▁club s , ▁of ▁which ▁many ▁are ▁in ▁the ▁up per ▁age ▁ bra cket s , ▁to ▁really ▁go ▁for ▁ s ate ll ite ▁club s ."
+GOLD SCORE: -186.5732
+
+[2020-11-09 16:08:22,410 INFO] 
+SENT 134: ['▁', '会', '費', 'の', '支払い', '方法', 'については', '、', 'オンライン', 'での', '自動', '振', '込み', 'を', '利用', 'する', '会', '員', 'が', 'い', 'れば', '、', 'クラブ', 'の', 'クレジット', 'カード', '読み', '取り', '機', 'で', 'その', '都', '度', '支払い', 'を行う', '人', 'も', 'います', '。']
+PRED 134: ▁Reg ard ing ▁how ▁to ▁pay ▁for ▁member ship ▁fee s , ▁if ▁there ▁is ▁a ▁member ▁who ▁use s ▁automatic ▁transfer ▁online , ▁some ▁people ▁pay ▁for ▁the ▁credit ▁card ▁read er ▁for ▁the ▁club .
+PRED SCORE: -26.4315
+GOLD 134: ▁In ▁addition , ▁members ▁can ▁easily ▁schedule ▁re cur ring ▁due s ▁payment s ▁online , ▁and ▁a ▁Pa y P al ▁credit ▁card ▁read er ▁is ▁brought ▁to ▁meeting s ▁to ▁ fa ci lit ate ▁due s ▁payment . ▁E ar ly ▁on , ▁members ▁also ▁decided ▁they ▁want ed ▁the ▁last ▁meeting ▁of ▁the ▁month ▁to ▁be ▁a ▁social ▁event .
+GOLD SCORE: -241.7399
+
+[2020-11-09 16:08:22,411 INFO] 
+SENT 135: ['▁「', '子ども', 'が', '子ども', 'ら', 'しく', '」', 'い', 'られる', 'ために', 'と', '、', '幼', 'い', '子ども', 'たち', 'のために', 'アート', 'プログラム', 'を開始', 'した', '一方', 'で', '、', '十', '代', 'の', '若', '者', 'たち', 'も', 'プログラム', 'を', '手', '伝', 'い', 'ながら', 'リーダー', 'シ', 'ップ', 'の', '力', 'を', '磨', 'い', 'ています', '。']
+PRED 135: ▁" In ▁order ▁to ▁be ▁"" chi ld ren "" , ▁the ▁ te en ag ers ▁have ▁also ▁help ed ▁the ▁program ▁and ▁ poli sh ed ▁their ▁lead er ship ▁power ."
+PRED SCORE: -27.4252
+GOLD 135: ▁" D a w ley ▁say s ▁the ▁art ▁program ▁not ▁only ▁help ed ▁k id s ▁be ▁k id s ▁but ▁it ▁also ▁enable d ▁the ▁ te en ag ers ▁who ▁help ed ▁her ▁implement ▁the ▁class es , ▁giving ▁them ▁the ▁chance ▁to ▁develop ▁and ▁practice ▁their ▁lead er ship ▁skills . ▁"" The se ▁ te en ag ers ▁ gen u ine ly ▁care ▁about ▁their ▁community , ▁and ▁developed ▁important ▁ ment or ship ▁role s ▁with ▁children ▁who ▁need ▁it ,"" ▁she ▁say s ."
+GOLD SCORE: -262.1525
+
+[2020-11-09 16:08:22,411 INFO] 
+SENT 136: ['▁「', '私たち', 'には', '障', '壁', 'も', '国', '境', 'も', 'ありません', '。', '▁', '平和', 'を', '推進', 'し', '、', '多くの', '人たち', 'の', '人生', 'に', '変化', 'を', 'も', 'たら', 'す', 'ことができる', 'のです', '」', 'と', 'ビデオ', 'の中で', '語', 'りました', '。']
+PRED 136: ▁" He ▁said ▁in ▁the ▁video , ▁"" We ▁have ▁no ▁bar ri ers ▁and ▁border s , ▁and ▁we ▁can ▁promote ▁peace ▁and ▁bring ▁changes ▁to ▁our ▁live s ."""
+PRED SCORE: -19.3611
+GOLD 136: ▁" C la ud et e ▁S ul z ba ch er , ▁a ▁member ▁of ▁the ▁Ro t ary ▁Club ▁of ▁San ta ▁C ru z ▁do ▁S ul , ▁Ri o ▁Grand e ▁do ▁S ul , ▁Brazil , ▁who ▁has ▁organ ized ▁more ▁than ▁1, 600 ▁fund ra is ing ▁events , ▁said ▁"" We ▁don ' t ▁have ▁bar ri ers , ▁we ▁don ' t ▁have ▁border s , ▁we ▁can ▁promote ▁peace , ▁and ▁we ▁can ▁change ▁the ▁live s ▁of ▁so ▁many ▁people ."""
+GOLD SCORE: -261.1372
+
+[2020-11-09 16:08:22,411 INFO] 
+SENT 137: ['▁その', '現象', 'の', '原因', 'は', '▁', '現', '20', '世代', 'が', '社会', 'について', '明確', 'な', '理解', 'を', '欠', 'い', 'ており', '、', '職', '場', '生活', 'が', 'どのような', 'もの', 'か', '全', 'く', '分', 'から', 'ない', 'から', 'である', '。']
+PRED 137: ▁The ▁reason ▁for ▁this ▁p hen ome n on ▁is ▁that ▁20 ▁generation s ▁have ▁a ▁clear ▁understanding ▁of ▁society , ▁and ▁they ▁do ▁not ▁know ▁what ▁kind ▁of ▁work place ▁life ▁is .
+PRED SCORE: -21.2742
+GOLD 137: ▁It ▁may ▁not ▁be ▁their ▁own ▁f ault , ▁but ▁actually ▁it ▁pro ves ▁that ▁our ▁children ▁lack ▁of ▁correct ▁and ▁clear ▁understanding ▁of ▁the ▁community ▁and ▁what ▁the ▁care er ▁life ▁look s ▁like , ▁so ▁how ▁can ▁they ▁be ▁comp et ent ▁in ▁such ▁competitive ▁world ? !
+GOLD SCORE: -179.6524
+
+[2020-11-09 16:08:22,411 INFO] 
+SENT 138: ['▁', 'なる', 'ほど', '、', '日本', 'には', 'ない', '味', '。', '▁', '二', '人', 'で', '行って', '、', '二', '種類', '頼', 'んで', '半分', 'ず', 'つ', 'シェア', 'って', 'の', 'が', '良い', '。']
+PRED 138: ▁It ' s ▁good ▁to ▁go ▁to ▁two ▁people , ▁as k ▁two ▁kind s , ▁and ▁share ▁one ▁by ▁one ▁half .
+PRED SCORE: -20.1555
+GOLD 138: ▁W hi ch ▁make s ▁sense , ▁it ▁does n ' t ▁taste ▁like ▁anything ▁Japanese . I ▁as king ▁for ▁two ▁different ▁f ill ing s , ▁which ▁is ▁a ▁good ▁way ▁to ▁share , ▁especially ▁if ▁there ▁are ▁two ▁of ▁you . N ext ▁time ▁I ▁want ▁to ▁have ▁the ▁Vietnam es e ▁' B á n h ▁m <unk> ' ▁sand wi ch .
+GOLD SCORE: -217.6006
+
+[2020-11-09 16:08:22,411 INFO] 
+SENT 139: ['▁', 'い', 'まだ', 'に', 'ケー', 'タ', 'リング', 'は', '続け', 'ている', 'よう', 'ですが', '。']
+PRED 139: ▁It ▁seems ▁that ▁ca ter ing ▁continue s .
+PRED SCORE: -8.8867
+GOLD 139: ▁What ? ▁ ホ ン コン や き そ ば ▁But ▁it ▁was ▁e as ier ▁to ▁make ▁with ▁f ry ing ▁ pan ▁ , , , .
+GOLD SCORE: -160.6057
+
+[2020-11-09 16:08:22,411 INFO] 
+SENT 140: ['▁', 'そんな', 'に', '難しい', '構造', 'でも', 'な', 'さ', 'そう', '(', '鍵', 'を', '差', 'し', '込', 'んだ', '時に', '解', '除', 'される', 'ハード', 'キー', 'が', 'あって', 'あ', 'とは', '回転', 'した', 'ことを', '検', '知', 'している', 'だけ', '?', ')', 'な', 'ので', '、', '小型', '化', 'して', '色', 'も', '黒', 'と', 'か', '目', '立', 'た', 'ない', 'バ', 'リ', 'エ', 'ーション', 'も', '用意', 'して', 'ほ', 'しい', '。']
+PRED 140: ▁It ' s ▁a ▁very ▁difficult ▁structure ▁( w hi ch ▁only ▁detect s ▁the ▁ ro tation ▁of ▁the ▁hard ▁key ▁when ▁the ▁key ▁is ▁remove d ▁when ▁the ▁key ▁is ▁p lu gg ed ? ), ▁so ▁I ▁want ▁to ▁prepare ▁a ▁v ari ation ▁that ▁is ▁small er ▁and ▁black er , ▁too .
+PRED SCORE: -51.5772
+GOLD 140: ▁It ' s ▁un like ly ▁to ▁be ▁a ▁so ▁ ri gi d ▁( on ly ▁once ▁a ▁hard ▁key ▁has ▁been ▁turn ed ▁is ▁it ▁release d ▁after ▁in s er ting ? ) ▁so , ▁would ▁like ▁some ▁disc re et ▁v ari ations ▁in ▁size , ▁and ▁different ▁co lo ur s , ▁like ▁black , ▁to ▁be ▁made ▁available .
+GOLD SCORE: -169.8604
+
+[2020-11-09 16:08:22,412 INFO] 
+SENT 141: ['▁', 'ヌ', 'ード', 'ト', 'ラン', 'プ', 'と', 'か', '、', '面', '白い', 'の', 'が', 'あ', 'れば', 'つ', 'い', 'つ', 'い', '買', 'っ', 'てしまう', '。']
+PRED 141: ▁If ▁you ' re ▁interest ed ▁in ▁a ▁ nu de ▁t ru mp , ▁or ▁if ▁you ' re ▁interest ed , ▁you ' ll ▁always ▁buy ▁it .
+PRED SCORE: -21.3976
+GOLD 141: ▁I ' ll ▁buy ▁them , ▁as ▁long ▁as ▁they ▁are ▁interest ing , ▁like ▁they ' re ▁like ▁these ▁N ud e ▁play ing ▁card s .
+GOLD SCORE: -74.7612
+
+[2020-11-09 16:08:22,412 INFO] 
+SENT 142: ['▁', '『', '源', '氏', '物', '語', '』', 'への', '造', '詣', 'が', '深', 'く', '、', '同', '作品', 'の', '美', '術', '作品', 'として', 'の', '歴史', '、', '注文', '者', '、', 'また', '女性', '読', '者', '、', '注', '釈', '者', '、', '様々な', '芸術', '家', 'による', '受', '容', 'に関する', '論文', 'は', '10', '点', '以上', 'に', 'の', 'ぼ', 'る', '。']
+PRED 142: ▁His tor y , ▁order ers , ▁women ▁read ers , ▁an no un ce ers , ▁and ▁various ▁artist s ▁are ▁deep ly ▁con struct ed ▁in ▁Gen ji ▁Ta le .
+PRED SCORE: -27.2212
+GOLD 142: ▁Professor ▁M c Co rm ick ' s ▁on go ing ▁interest ▁in ▁The ▁Ta le ▁of ▁Gen ji ▁has ▁result ed ▁in ▁close ▁to ▁a ▁do ze n ▁public ations ▁on ▁the ▁work ' s ▁art if act ual ▁history ▁and ▁p at ron age , ▁as ▁well ▁as ▁its ▁re cept ion ▁by ▁female ▁read ers , ▁ex eg et ical ▁comment ator s , ▁and ▁a ▁variety ▁of ▁artist s .
+GOLD SCORE: -192.0493
+
+[2020-11-09 16:08:22,412 INFO] 
+SENT 143: ['▁', 'レ', 'ジ', 'ド', 'ン', 'ス', '▁', 'ミ', 'ラ', 'ド', 'ール', '▁', 'マ', 'ジョ', 'レ', 'ル', 'の', 'ウェブサイト', 'では', '、', 'より', '快適', 'に', '閲', '覧', 'していた', 'だけ', 'る', 'よう', '、', '技術', '、', '分析', 'および', 'マーケティング', 'などの', '目的', 'で', '、', '独', '自', 'に', '発行', 'する', 'Cookie', 'と', 'サー', 'ド', 'パー', 'ティー', 'Cookie', 'を使用し', 'ています', '。']
+PRED 143: ▁To ▁provide ▁you ▁with ▁the ▁best ▁experience , ▁Re side nce ▁Mi ra d or ▁Ma j or el ▁use s ▁its ▁own ▁and ▁third - part y ▁cookies ▁on ▁its ▁website ▁for ▁technical , ▁a na ly tic al ▁and ▁market ing ▁purpose s .
+PRED SCORE: -7.0738
+GOLD 143: ▁To ▁provide ▁you ▁with ▁the ▁best ▁experience , ▁R é side nce ▁Mi ra d or ▁Ma j or el le ▁use s ▁its ▁own ▁and ▁third - part y ▁cookies ▁on ▁its ▁website ▁for ▁technical , ▁a na ly tic al ▁and ▁market ing ▁purpose s .
+GOLD SCORE: -25.8066
+
+[2020-11-09 16:08:22,412 INFO] 
+SENT 144: ['▁', '香港', 'で', 'レン', 'タ', 'カー', 'を', '予約', 'すると', 'あなたの', '旅行', 'を', 'より', '簡単に', 'することができます', 'が', '、', 'あなたが', 'したい', '最後の', 'ことは', 'あなたの', '賃', '貸', '料', 'のために', '多', 'す', 'ぎ', 'る', '支払い', 'です', '。']
+PRED 144: ▁If ▁you ▁book ▁a ▁re n tal ▁car ▁in ▁Hong ▁Kong , ▁you ▁can ▁make ▁your ▁trip ▁e as ier , ▁but ▁the ▁last ▁thing ▁you ▁want ▁is ▁too ▁much ▁payment ▁for ▁your ▁re n tal ▁fee .
+PRED SCORE: -14.4801
+GOLD 144: ▁You ▁can ▁re nt ▁a ▁car ▁in ▁three ▁simple ▁step s : ▁Se arch : ▁Se arch ▁for ▁the ▁pick ▁up ▁location ▁and ▁the ▁date ▁of ▁collection ▁you ▁want ▁in ▁our ▁car ▁re n tal ▁search ▁engine ▁Comp ar e : ▁in ▁a ▁real - time ▁over view , ▁comp ar e ▁all ▁companies , ▁car s ▁available , ▁different ▁terms ▁and ▁of ▁course ▁the ▁price .
+GOLD SCORE: -251.0606
+
+[2020-11-09 16:08:22,412 INFO] 
+SENT 145: ['▁', 'インターネット', '回', '線', '、', 'バー', '、', '視', '聴', '覚', '機器', '、', '会議', '室', 'があります', '。']
+PRED 145: ▁There ▁are ▁inter net ▁line s , ▁bar s , ▁audio vis ual ▁equipment ▁and ▁conference ▁room s .
+PRED SCORE: -6.7641
+GOLD 145: ▁It ▁has ▁inter net ▁access , ▁bar , ▁audio vis ual ▁equipment , ▁conference .
+GOLD SCORE: -20.3578
+
+[2020-11-09 16:08:22,412 INFO] 
+SENT 146: ['▁c', ':', 'ow', 'ner', '▁', 'には', '▁c', ':', 'con', 'tain', 'er', '▁', 'が', '含まれ', '、', 'さらに', 'そこに', 'は', '▁c', ':', 'e', 'vent', 'S', 'our', 'ce', '▁', 'が', '含まれ', 'ます', '。']
+PRED 146: ▁c : ow ner ▁includes ▁c : con tain er , ▁and ▁c : e vent S our ce .
+PRED SCORE: -6.2257
+GOLD 146: ▁To ▁use ▁the ▁ li bra ries , ▁include ▁force : work space AP IA c cess ▁or ▁force : ut il ity bar AP IA c cess ▁in ▁your ▁L ight ning ▁component , ▁respect ive ly .
+GOLD SCORE: -193.2153
+
+[2020-11-09 16:08:22,413 INFO] 
+SENT 147: ['▁', '暗', '号', '化', 'Re', 'al', 'm', 'の', 'デ', 'バッグ', '▁', 'これまで', '、', 'Re', 'al', 'm', 'の', '暗', '号', '化', 'の', '仕', '組み', 'は', 'M', 'ach', '▁S', 'ign', 'al', '▁Han', 'd', 'ling', 'に', '多く', 'を', '依存', 'し', 'ていました', '。', '▁その', 'ことが', 'LL', 'D', 'B', 'の', '動作', 'に', '干', '渉', 'し', 'ていました', '。']
+PRED 147: ▁C ry p to cur r ency ▁Re al m ▁de bu gg ing ▁Un t il ▁now , ▁Re al m ' s ▁en crypt ion ▁system ▁re ly ed ▁much ▁on ▁Ma ch ▁S ign al ▁Han d ling , ▁which ▁inter fer ed ▁with ▁ LL D B ▁operation s .
+PRED SCORE: -22.7454
+GOLD 147: ▁De bu gg ing ▁En crypt ed ▁Re al m s ▁Un t il ▁now , ▁the ▁mechanism ▁used ▁by ▁our ▁ n ative ▁en crypt ion ▁function al ity ▁re li ed ▁he a vi ly ▁on ▁Ma ch ▁ex cept ion ▁hand ling , ▁which ▁inter fer ed ▁with ▁the ▁operation ▁of ▁ LL D B .
+GOLD SCORE: -104.5531
+
+[2020-11-09 16:08:22,413 INFO] 
+SENT 148: ['▁La', 'ra', 'vel', 'は', 'ポ', 'ピ', 'ュ', 'ラー', 'な', 'Mo', 'no', 'log', 'ロ', 'グ', 'ライブラリ', 'ー', 'を使用し', 'ています', '。', 'Mo', 'no', 'log', 'が', '提供', 'する', '様々な', 'ハン', 'ド', 'ラー', 'を', '利用', 'することができます', '。']
+PRED 148: ▁La ra vel ▁use s ▁a ▁popular ▁Mon o log ▁log ▁ li bra ry .
+PRED SCORE: -6.7305
+GOLD 148: ▁Since ▁La ra vel ▁use s ▁the ▁popular ▁Mon o log ▁log g ing ▁ li bra ry , ▁you ▁can ▁take ▁advantage ▁of ▁the ▁variety ▁of ▁hand ler s ▁that ▁Mon o log ▁offers .
+GOLD SCORE: -32.4439
+
+[2020-11-09 16:08:22,413 INFO] 
+SENT 149: ['▁', '学', '者', 'の中に', 'は', '、', 'シ', 'ム', 'ノ', 'ン', 'が', 'これまで', 'ず', 'っ', 'と', 'ドイツ', 'と', '通', 'じ', 'ていた', 'の', 'だ', 'という', '見', '方', 'を', 'する', 'もの', 'が', '出', 'て', 'き', 'ており', '、', 'その', '一方', 'で', 'この', '見', '方', 'を', '否', '定', 'する', 'もの', 'が', 'いた', '。', '▁', 'シ', 'ム', 'ノ', 'ン', 'の', 'ことを', '、', '政治', 'には', '関心', 'の', '無', 'い', '男', 'で', '、', '本', '質', '的に', '日', '和', '見', '主義', '者', 'だ', 'が', '、', '決', 'して', 'ドイツ', 'の', '協力', '者', 'など', 'ではない', '、', 'と', '解', '釈', 'していた', 'の', 'である', '。']
+PRED 149: ▁A m ong ▁the ▁ s cho lar s , ▁S im n on ▁has ▁come ▁up ▁with ▁a ▁view ▁that ▁S im n on ▁has ▁long ▁been ▁ ac com pan i ed ▁by ▁German y , ▁and ▁on ▁the ▁other ▁hand ▁it ▁de ni ed ▁this ▁view . S im n on ▁is ▁a ▁man ▁who ▁is ▁not ▁interest ed ▁in ▁ poli tic s , ▁and ▁in ▁ es s ence ▁it ▁is ▁a ▁Japanese - Japan es e ▁ vision ist , ▁but ▁it ▁is ▁not ▁a ▁German ▁co - o per ator .
+PRED SCORE: -59.6136
+GOLD 149: ▁Si men on ' s ▁conduct ▁during ▁the ▁war ▁is ▁a ▁matter ▁of ▁consider able ▁con tro vers y , ▁with ▁some ▁ s cho lar s ▁in c line d ▁to ▁view ▁him ▁as ▁having ▁been ▁a ▁co lla bor ator ▁with ▁the ▁German s ▁while ▁others ▁dis ag re e , ▁view ing ▁Si men on ▁as ▁having ▁been ▁an ▁a poli tic al ▁man ▁who ▁was ▁essential ly ▁an ▁ op port un ist ▁but ▁by ▁no ▁means ▁a ▁co lla bor ator .
+GOLD SCORE: -237.4659
+
+[2020-11-09 16:08:22,413 INFO] 
+SENT 150: ['▁', '二', '人の', '連', 'れ', '子', 'を', '引き', '取り', '、', '翌', '年', 'オ', 'ックス', 'フォー', 'ド', 'に', '家', 'を', '買', 'って', '移', 'り', '住', 'む', '。']
+PRED 150: ▁T ake ▁two ▁ d aught ers , ▁and ▁b ought ▁a ▁house ▁in ▁O x for d , ▁the ▁following ▁year .
+PRED SCORE: -16.8413
+GOLD 150: ▁S ever al ▁of ▁his ▁st ories ▁were ▁published , ▁which ▁brought ▁him ▁enough ▁income ▁to ▁buy ▁a ▁house ▁in ▁O x for d ▁for ▁his ▁family ▁to ▁in ha bit , ▁which ▁he ▁name d ▁Ro w an ▁O ak .
+GOLD SCORE: -141.8427
+
+[2020-11-09 16:08:23,696 INFO] 
+SENT 151: ['▁', 'ク', 'ウェ', 'ン', 'ティ', 'ン', 'は', 'ヘッド', 'との', '結婚', 'に', '反', '発', 'する', 'が', '、', 'キャ', 'ディ', 'は', 'すでに', '心', 'に', '決め', 'ている', '。']
+PRED 151: ▁K w ent ing ▁re vol ves ▁against ▁his ▁ mar ri age ▁with ▁his ▁head , ▁but ▁Ca d dy ▁has ▁already ▁decided ▁to ▁mind .
+PRED SCORE: -19.1577
+GOLD 151: ▁Pre gn ant ▁and ▁alone , ▁Ca d dy ▁then ▁ mar ries ▁H er ber t ▁He ad , ▁who m ▁Qu ent in ▁find s ▁re p ul s ive , ▁but ▁Ca d dy ▁is ▁re s ol ute : ▁she ▁must ▁ mar ry ▁before ▁the ▁birth ▁of ▁her ▁child .
+GOLD SCORE: -168.8375
+
+[2020-11-09 16:08:23,696 INFO] 
+SENT 152: ['▁19', '6', '3', '年', '(', '昭', '和', '38', '年', ')', 'より', '連', '載', 'を', '始め', 'た', '『', '白い', '巨', '塔', '』', 'は', '大学', '病院', 'の', '現実', 'を', '描', 'いた', '鋭', 'い', '社会', '性', 'で', '話', '題', 'を', '呼び', '、', '田', '宮', '二', '郎', '主', '演', 'で', '映画', '化', 'された', 'ほか', '、', '数', '回', 'に', '亘', 'り', 'テレビ', 'ドラ', 'マ', '化', 'された', '。']
+PRED 152: ▁In ▁19 6 3 , ▁the ▁white ▁ gi ant ▁ pa go da , ▁which ▁began ▁its ▁ s erial ▁ s equ ence , ▁was ▁in vit ed ▁to ▁speak ▁with ▁a ▁sh ar p ▁social ity ▁that ▁de pic ts ▁the ▁real ity ▁of ▁the ▁university ▁hospital , ▁and ▁it ▁was ▁film ed ▁at ▁the ▁Ta no mi ya ▁Ji ro , ▁and ▁it ▁became ▁a ▁ te le vision ▁ d ra ma ▁for ▁several ▁times .
+PRED SCORE: -55.4172
+GOLD 152: ▁N yo ke i ▁Ka zo ku ▁( 女 系 家族 , ▁19 6 3 ), ▁made ▁into ▁a ▁ te le vision ▁ d ra ma ▁eight ▁times .
+GOLD SCORE: -106.8811
+
+[2020-11-09 16:08:23,696 INFO] 
+SENT 153: ['▁19', '23', '年', '、', '両', '親', 'の', '家', 'は', 'コ', 'ネ', 'チ', 'カ', 'ット', 'の', 'カン', 'タ', 'ベ', 'リ', 'に', 'あった', 'が', 'ブラ', 'ウン', 'は', 'ウ', 'ッド', 'スト', 'ック', 'にある', '寄', '宿', '学校', 'に', '入', 'る', '。']
+PRED 153: ▁In ▁19 23 , ▁his ▁parents ' ▁house ▁was ▁in ▁Can ta be li , ▁Connect ic ut , ▁but ▁B row n ▁enter ed ▁a ▁school ▁in ▁W o od s to ck .
+PRED SCORE: -18.0297
+GOLD 153: ▁In ▁19 23 ▁she ▁attend ed ▁Cha te au ▁B ri ll ian t mon t ▁ board ing ▁school ▁in ▁La us an ne , ▁S w it z er land , ▁while ▁her ▁parents ▁were ▁living ▁in ▁India ▁and ▁Can ter bu ry , ▁Connect ic ut .
+GOLD SCORE: -142.4426
+
+[2020-11-09 16:08:23,696 INFO] 
+SENT 154: ['▁', '『', 'ガ', 'リ', 'ヴァ', 'ー', '旅行', '記', '』', '▁', '『', 'ガ', 'リ', 'ヴァ', 'ー', '旅行', '記', '』', 'は', '17', '26', '年に', '発行', 'された', '。']
+PRED 154: ▁G al iber ▁Travel ▁Bo ok ▁The ▁G al iber ▁Travel ▁Bo ok ▁was ▁published ▁in ▁17 26 .
+PRED SCORE: -10.6937
+GOLD 154: ▁G ul li ver ' s ▁Travel s , ▁a ▁large ▁port ion ▁of ▁which ▁S wi ft ▁w ro te ▁at ▁W o od bro ok ▁House ▁in ▁County ▁La o is , ▁was ▁published ▁in ▁17 26 .
+GOLD SCORE: -133.0288
+
+[2020-11-09 16:08:23,696 INFO] 
+SENT 155: ['▁この', '物', '語', 'は', 'も', 'とも', 'と', '、', '彼', 'が', '息', '子', 'ア', 'ラ', 'ステ', 'ア', 'のために', '執', '筆', 'し', '、', 'その', 'ことで', '物', '語', 'の', '主', '人', '公', 'である', '「', 'ヒ', 'キ', 'ガ', 'エル', '屋', '敷', 'の', 'ヒ', 'キ', 'ガ', 'エル', '」', '」', 'の', 'わ', 'が', 'まま', 'ぶ', 'り', 'を', '親', '子', 'で', '分', 'か', 'ち', '合', 'った', 'の', 'である', '。']
+PRED 155: ▁" This ▁story ▁was ▁original ly ▁written ▁for ▁his ▁ son ▁Al as te a , ▁and ▁therefore , ▁the ▁pro ta g on ist ▁of ▁the ▁story , ▁"" H i ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁Hi ki ga el ' s ▁ son ."
+PRED SCORE: -47.8030
+GOLD 155: ▁During ▁this ▁de ca de , ▁G ra ha me ▁became ▁a ▁father . ▁The ▁way ward , ▁head str ong ▁nature ▁he ▁saw ▁in ▁his ▁little ▁ son ▁A la st air ▁he ▁transform ed ▁into ▁the ▁ s wa gg er ing ▁Mr . ▁To ad , ▁one ▁of ▁its ▁four ▁ pri n ci p al ▁character s .
+GOLD SCORE: -232.9515
+
+[2020-11-09 16:08:23,697 INFO] 
+SENT 156: ['▁', 'DC', 'R', '-', '20', '25', 'PRO', '高', '品', '位', 'テ', 'レ', 'レン', 'ズ', 'は', '2', '群', '4', '枚', '構成', 'の', '新', '設計', 'により', '中心', '解', '像', '力', '2', '60', '本', '(', 'M', 'T', 'F', '30', '%', '値', ')', 'の', '高', '解', '像', '力', '、', '低', '収', '差', 'を実現', 'した', '2', '.', '2', 'x', '望', '遠', 'レン', 'ズ', 'です', '。']
+PRED 156: ▁The ▁ DC R - 20 25 PRO ▁High ▁De fin ition ▁Te le le le le ne s ▁is ▁a ▁2. 2 x ▁ tel ep ho to ▁l ens ▁that ▁achieve s ▁a ▁high ▁resolution ▁power ▁of ▁2 60 ▁unit s ▁( M T F 30 % ), ▁and ▁a ▁low ▁a ber ration .
+PRED SCORE: -30.9174
+GOLD 156: ▁The ▁l ens ▁is ▁particularly ▁designed ▁to ▁be ▁in ▁focus ▁through ▁the ▁whole ▁ zo om ▁range ▁of ▁up ▁to ▁5 x * .
+GOLD SCORE: -104.6685
+
+[2020-11-09 16:08:23,697 INFO] 
+SENT 157: ['▁2', '年', '後', '、', 'それら', '古い', 'raw', '画像', 'を取り', '出', 'して', '、', '当時', 'と同じ', '結果', '(', '画像', ')', 'を得る', 'ことに', '意味', 'がある', 'でしょうか', '。', '▁', '何', '故', 'なら', '、', 'そ', 'の間に', 'R', 'a', 'w', 'The', 'rap', 'ee', 'の', '性能', 'は', '飛', '躍', '的に', '向上', 'している', 'と', '思', 'われ', 'ます', 'し', '、', '貴', '方', 'も', '新しい', 'モ', 'ニ', 'ター', 'を', '手', 'に', '入れ', 'ている', 'かもしれません', '。']
+PRED 157: ▁T wo ▁years ▁later , ▁do ▁you ▁me an ▁taking ▁out ▁these ▁old ▁ raw ▁images ▁and ▁getting ▁the ▁same ▁results ▁( im age s ) ▁at ▁the ▁time ? For ▁this ▁reason , ▁Ra w The rap ee ' s ▁performance ▁seems ▁to ▁be ▁ d ra matic ally ▁improving , ▁and ▁you ▁may ▁also ▁get ▁new ▁monitor s .
+PRED SCORE: -33.6702
+GOLD 157: ▁If ▁two ▁years ▁later ▁you ▁want ▁to ▁go ▁back ▁to ▁an ▁old ▁ raw ▁file , ▁perhaps ▁getting ▁the ▁same ▁result ▁as ▁you ▁did ▁two ▁years ▁ago ▁is ▁not ▁the ▁best ▁idea , ▁because ▁Ra w The rap ee ' s ▁cap abilities ▁would ▁have ▁great ly ▁improve d ▁in ▁that ▁time , ▁you ▁may ▁have ▁acquire d ▁a ▁better ▁monitor , ▁and ▁your ▁taste ▁and ▁ski ll ▁would ▁also ▁have ▁e vol ved .
+GOLD SCORE: -199.6792
+
+[2020-11-09 16:08:23,697 INFO] 
+SENT 158: ['▁"', 'これ', 'を選択', 'すると', '、', '画像', 'が', '明', 'る', 'く', 'なる', '(', '前', '述', 'の', '""', '標準', '""', 'に', '戻', 'す', ')', '。"']
+PRED 158: ▁" When ▁you ▁select ▁this , ▁the ▁image ▁will ▁bright en ▁( re tur n ▁to ▁the ▁"" st and ard "" ▁above )."
+PRED SCORE: -13.1552
+GOLD 158: ▁" H ow ever , ▁I ' ve ▁added ▁a ▁check bo x ▁"" S ur ro und ▁( s ce ne ) ▁dark "", ▁which ▁can ▁be ▁ activ ated ▁if ▁necessary ."
+GOLD SCORE: -115.1407
+
+[2020-11-09 16:08:23,697 INFO] 
+SENT 159: ['▁', 'ロ', 'グ', 'イン', 'して', 'から', '編集', 'すると', '、', '編集', '履', '歴', 'を', 'あ', 'と', 'で', '確認', 'することができます', '。']
+PRED 159: ▁After ▁log g ing ▁in ▁and ▁edit ing , ▁you ▁can ▁see ▁the ▁edit ing ▁history ▁after ward s .
+PRED SCORE: -12.1191
+GOLD 159: ▁Gen ma ▁was ▁private ly ▁think ing , ▁as ▁he ▁would ▁later ▁ad mit , ▁that ▁Mr . ▁Ku mon ▁would ▁use ▁the ▁technique s ▁to ▁become ▁a ▁band it .
+GOLD SCORE: -144.1804
+
+[2020-11-09 16:08:23,697 INFO] 
+SENT 160: ['▁', '概要', '▁', '当', 'レポート', 'では', '、', '世界', '各', '地', 'の', '自己', '完', '結', '型', '呼', '吸', '器', '(', 'SC', 'BA', ')', '市場', 'について', '調査', 'し', '、', '企業', '、', '地域', '、', '製品', 'の', '種類', '及び', '最終', '産業', 'の', '角', '度', 'から', '、', '世界の', '自己', '完', '結', '型', '呼', '吸', '器', '(', 'SC', 'BA', ')', '市場', 'の', '状況', 'と', '予測', 'を', '分析', 'し', '、', '製品', '種類', '、', '用途', '、', '主要な', '企業', 'の', 'プロ', 'ファイル', 'など', 'を', 'まとめ', 'ています', '。']
+PRED 160: ▁The ▁ SC BA ▁market ▁analysis ▁is ▁provided ▁for ▁the ▁international ▁market s ▁including ▁development ▁trend s , ▁applications , ▁and ▁major ▁region s ' ▁profile s .
+PRED SCORE: -17.6353
+GOLD 160: ▁The ▁report ▁provides ▁a ▁basic ▁over view ▁of ▁the ▁industry ▁including ▁de fin ition s , ▁class ification s , ▁applications ▁and ▁industry ▁ cha in ▁structure .
+GOLD SCORE: -27.8884
+
+[2020-11-09 16:08:23,697 INFO] 
+SENT 161: ['▁', '概要', '▁', '当', 'レポート', 'では', '、', '世界', '各', '地', 'の', 'P', 'V', 'DC', '市場', 'について', '調査', 'し', '、', '企業', '、', '地域', '、', '製品', 'の', '種類', '及び', '最終', '産業', 'の', '角', '度', 'から', '、', '世界の', 'P', 'V', 'DC', '市場', 'の', '状況', 'と', '予測', 'を', '分析', 'し', '、', '製品', '種類', '、', '用途', '、', '主要な', '企業', 'の', 'プロ', 'ファイル', 'など', 'を', 'まとめ', 'ています', '。']
+PRED 161: ▁The ▁report ▁provides ▁a ▁basic ▁over view ▁of ▁the ▁global ▁P V DC ▁market ▁including ▁development ▁trend s , ▁competitive ▁landscape ▁analysis , ▁and ▁key ▁region s ▁development ▁status .
+PRED SCORE: -18.3948
+GOLD 161: ▁The ▁A lu min um ▁C h lo ro hy d rate ▁market ▁analysis ▁is ▁provided ▁for ▁the ▁international ▁market ▁including ▁development ▁history , ▁competitive ▁landscape ▁analysis , ▁and ▁major ▁region s ' ▁development ▁status .
+GOLD SCORE: -60.5079
+
+[2020-11-09 16:08:23,698 INFO] 
+SENT 162: ['▁', '概要', '▁', '当', 'レポート', 'では', '、', '世界', '各', '地', 'の', 'フ', 'ッ', '素', '芳', '香', '族', 'PI', 'フィルム', '市場', 'について', '調査', 'し', '、', '企業', '、', '地域', '、', '製品', 'の', '種類', '及び', '最終', '産業', 'の', '角', '度', 'から', '、', '世界の', 'フ', 'ッ', '素', '芳', '香', '族', 'PI', 'フィルム', '市場', 'の', '状況', 'と', '予測', 'を', '分析', 'し', '、', '製品', '種類', '、', '用途', '、', '主要な', '企業', 'の', 'プロ', 'ファイル', 'など', 'を', 'まとめ', 'ています', '。']
+PRED 162: ▁The ▁F lu or ous ▁A ro matic ▁ PI ▁F il m ▁market ▁analysis ▁is ▁provided ▁for ▁the ▁international ▁market ▁including ▁development ▁trend s , ▁applications , ▁and ▁major ▁region s ' ▁profile s .
+PRED SCORE: -22.2414
+GOLD 162: ▁The ▁3 - ami no pro p y lt ri e th ox y s il an e ▁Industry ▁market ▁analysis ▁is ▁provided ▁for ▁the ▁international ▁market ▁including ▁development ▁history , ▁competitive ▁landscape ▁analysis , ▁and ▁major ▁region s ' ▁development ▁status .
+GOLD SCORE: -131.4028
+
+[2020-11-09 16:08:23,698 INFO] 
+SENT 163: ['▁「', '内容', 'を', 'も', 'た', 'ない', '」', '例', 'として', 'は', '「', '新', '・', '方法', '主義', '宣', '言', '」', 'の', '同', '語', '反', '復', '、', '時間', 'を', '伝え', 'る', 'だけ', 'の', '「', '鳩', '時計', '」', '、', 'や', '曜', '日の', 'お知らせ', '、', 'オー', 'クション', '自', '体', 'を', '目的', 'とする', '「', '新', '・', '方法', 'オー', 'クション', '」', 'が', '挙', 'げ', 'られる', '。']
+PRED 163: ▁" For ▁example , ▁"" N e w - M et ho d ist an cy ▁De c lar ation "" ▁refer s ▁to ▁the ▁ ph ra se ▁of ▁"" N e w - M et ho d ist an cy ▁De c lar ation "", ▁"" D o ve ▁C lock "", ▁and ▁"" N e w - M et ho d ▁A uction "" ▁aim ed ▁at ▁a uction ▁itself ."
+PRED SCORE: -32.5955
+GOLD 163: ▁" A s ▁for ▁"" no ▁content ,"" ▁we ▁can ▁think ▁of ▁works ▁like ▁their ▁ ta ut ological ▁"" N e w - M et ho dic ist ▁Man if est o ,"" ▁ pla in ▁de c lar ation ▁of ▁the ▁days ▁of ▁the ▁week ▁or ▁simple ▁time ▁announce ment ▁in ▁"" c uck oo ▁ clock ,"" ▁and ▁"" N e w - M et ho d ▁A uction "" ▁that ▁a uction ed ▁its ▁a uction ▁process ▁itself ."
+GOLD SCORE: -232.2320
+
+[2020-11-09 16:08:23,698 INFO] 
+SENT 164: ['▁本', '文書', 'は', '次', 'に', '挙', 'げ', 'る', '▁Q', 'RE', 'F', '▁', 'チーム', 'メンバー', 'により', '編集', '、', '翻訳', 'と', '▁', '拡張', 'が', '行われ', 'ています', '。']
+PRED 164: ▁This ▁document ▁is ▁edit ed , ▁trans late d ▁and ▁extend ed ▁by ▁Q RE F ▁team ▁members .
+PRED SCORE: -8.3343
+GOLD 164: ▁" This ▁document ▁has ▁been ▁edit ed , ▁trans late d , ▁and ▁expand ed ▁by ▁the ▁following ▁Q RE F ▁team ▁members : ▁English ▁original s ▁for ▁original ▁"" Q u ick ▁Re fer ence . . ."""
+GOLD SCORE: -90.3034
+
+[2020-11-09 16:08:23,698 INFO] 
+SENT 165: ['▁', '実', '際', 'ど', 'の', 'くらい', 'の', '人が', 'タ', 'トゥ', 'ー', 'している', 'の', 'でしょうか', '?', 'は', 'た', 'また', '家族', 'に', '相', '談', 'と', 'か', 'している', 'の', 'でしょうか', '?', '700', '人', 'に', '聞', 'い', 'ち', 'ゃ', 'いました', '。']
+PRED 165: ▁How ▁many ▁people ▁are ▁t at to os ?
+PRED SCORE: -7.8501
+GOLD 165: ▁Q & M e ▁asked ▁ 700 ▁people ▁to ▁find ▁out ▁the ▁ ra ti o ▁of ▁those ▁who ▁has ▁t at to os , ▁as ▁well ▁as ▁the ▁general ▁im press ion , ▁family ▁opinion , ▁etc ...
+GOLD SCORE: -127.8908
+
+[2020-11-09 16:08:23,698 INFO] 
+SENT 166: ['▁', '独', '特', 'の', '周', '口', '小', '膜', '域', '▁(', 'ad', 'or', 'al', '▁zone', '▁of', '▁me', 'mb', 'ran', 'el', 'le', ',', '▁A', 'Z', 'M', ')', 'を', 'も', 'つ', 'が', '、', '▁', '繊', '毛', 'は', '細胞', '全体', 'に', '一', '様', 'にある', '。']
+PRED 166: ▁It ▁has ▁a ▁unique ▁per ip her al ▁zone ▁of ▁me mb ran el le , ▁A Z M , ▁but ▁the ▁hair ▁is ▁un i form ▁throughout ▁the ▁ cell .
+PRED SCORE: -17.1497
+GOLD 166: ▁Si mi lar ▁to ▁Con dy lo s to ma , ▁but ▁lack s ▁ und ul ating ▁me mb ra ne ; ▁with ▁ ci li ated ▁per ist om al ▁field ▁( H ow ▁to ▁know ▁the ▁pro to zo a , ▁19 79 ).
+GOLD SCORE: -192.0914
+
+[2020-11-09 16:08:23,698 INFO] 
+SENT 167: ['▁', 'チ', 'ップ', 'NT', 'C', 'サー', 'ミ', 'スタ', 'の', '特', '長', '▁N', 'TC', 'サー', 'ミ', 'スタ', 'は', '、', '温度', 'に対する', '電気', '抵抗', 'が', '負', 'の', '温度', '係', '数', '(', 'NT', 'C', ':', 'N', 'eg', 'ative', '▁T', 'em', 'per', 'ature', '▁Co', 'efficient', ')', 'を', 'も', 'ち', '、', 'その', '変化', '率', 'が', 'き', 'わ', 'めて', '大きな', '半', '導', '体', 'セ', 'ラ', 'ミ', 'ックス', 'を', '利用', 'した', '感', '熱', '抵抗', '素', '子', 'です', '。']
+PRED 167: ▁Fe ature s ▁of ▁the ▁Chi p ▁N TC ▁The rm ist or ▁The rm ist or ▁has ▁a ▁negative ▁temperature ▁fact or ▁( NT C : N eg ative ▁T em per ature ▁Co efficient ), ▁and ▁has ▁a ▁very ▁large ▁se mi con duct or ▁ cer am ics .
+PRED SCORE: -23.2628
+GOLD 167: ▁Ad v ant age s ▁of ▁P TC ▁limit ▁temperature ▁sensor s ▁P TC ▁the rm ist ors ▁are ▁temperature - dependent ▁re s ist ors ▁based ▁on ▁special ▁se mi con duct or ▁ cer am ics ▁with ▁a ▁high ▁positive ▁temperature ▁co efficient ▁( P TC ).
+GOLD SCORE: -132.5605
+
+[2020-11-09 16:08:23,699 INFO] 
+SENT 168: ['▁', 'だ', 'から', '、', '見', 'て', '感', '動', 'する', 'の', 'だけ', 'れ', 'ど', 'ね', '...']
+PRED 168: ▁So , ▁I ' m ▁im press ed ▁by ▁looking ▁at ▁it .
+PRED SCORE: -12.5313
+GOLD 168: ▁Re me mber , ▁it ' s ▁a ▁small ▁world ▁in ▁online ▁class ified s , ▁so ▁be ▁good ▁to ▁your ▁ne ig h b our .
+GOLD SCORE: -91.4523
+
+[2020-11-09 16:08:23,699 INFO] 
+SENT 169: ['▁B', 'lu', '-', 'ray', '▁', 'ディスク', '、', 'DVD', '、', 'T', 'ru', 'e', 'The', 'at', 'er', '▁3', 'D', '▁', '再生', '時に', '必要な', 'システム', '要件', '▁', 'OS']
+PRED 169: ▁Re qui re ments ▁for ▁B lu - ray ▁Dis c , ▁ DVD , ▁T ru e The at er ▁3 D ▁Play back ▁ OS
+PRED SCORE: -10.0949
+GOLD 169: ▁System ▁Re qui re ments ▁for ▁B lu - ray ▁Dis c , ▁ DVD , ▁and ▁T ru e The at er ▁3 D ▁Play back ▁O per ating ▁System
+GOLD SCORE: -20.0434
+
+[2020-11-09 16:08:23,699 INFO] 
+SENT 170: ['▁', 'シン', 'オ', 'ウ', '地方', 'の', '神', '話', 'では', '、「', 'ディ', 'アル', 'ガ', '」', 'が', '生まれ', 'た', 'ことで', '、', 'この', '世界の', '「', '時間', '」', 'が', '動き', '出', 'した', 'と', 'されています', '。']
+PRED 170: ▁" In ▁the ▁my th ology ▁of ▁the ▁S in - O u ▁region , ▁"" D ial ga "" ▁was ▁b orn , ▁and ▁the ▁"" time "" ▁of ▁the ▁world ▁is ▁said ▁to ▁have ▁move d ."
+PRED SCORE: -23.9614
+GOLD 170: ▁Di al ga ▁has ▁the ▁ ability ▁to ▁war p ▁time ▁by ▁slow ing ▁it ▁down , ▁speed ing ▁it ▁up , ▁and ▁even ▁stop ping ▁it ▁ al to ge ther , ▁and ▁S in no h ▁region ▁my th ology ▁say s ▁that ▁time ▁began ▁moving ▁when ▁Di al ga ▁was ▁b orn .
+GOLD SCORE: -165.7173
+
+[2020-11-09 16:08:23,699 INFO] 
+SENT 171: ['▁', 'ド', 'ロー', 'が', '提供', 'されている', '場合', '、', 'P', 'in', 'na', 'cle', 'サイト', 'の', '賭', 'け', '情報', 'に', '掲載', 'されている', '通り', '、', '下', '記', 'の', 'ル', 'ール', 'が', '適用', 'されます', '。']
+PRED 171: ▁If ▁the ▁draw ▁is ▁provided , ▁the ▁following ▁rule s ▁apply , ▁as ▁shown ▁in ▁the ▁P in na cle ▁site ▁be t ▁information .
+PRED SCORE: -12.7334
+GOLD 171: ▁" When ▁the ▁draw ▁is ▁offer ed , ▁as ▁state d ▁on ▁our ▁site ▁under ▁Wa ger ing ▁Information : ▁"" If ▁the ▁w age ring ▁offer ▁on ▁a ▁match ▁includes ▁the ▁draw ▁as ▁a ▁third ▁option ▁and ▁the ▁match ▁end s ▁in ▁a ▁draw , ▁w ag ers ▁on ▁the ▁draw ▁will ▁be ▁paid , ▁while ▁w ag ers ▁on ▁either ▁fight er ▁will ▁be ▁lost ."
+GOLD SCORE: -268.4786
+
+[2020-11-09 16:08:23,699 INFO] 
+SENT 172: ['▁', 'け', 'れ', 'ど', 'も', '、', 'ピ', 'ナ', 'クル', 'の', 'ライ', 'ブ', 'ディ', 'ー', 'ラー', 'カ', 'ジ', 'ノ', 'は', '他', '社', 'の', 'オ', 'ペ', 'レー', 'ター', 'と', '契約', 'している', 'ので', '、', 'ピ', 'ナ', 'クル', '以外', 'の', 'お客様', 'も', 'この', 'カ', 'ジ', 'ノ', 'オプション', 'を', '利用', 'しています', '。']
+PRED 172: ▁However , ▁since ▁Pi na cle ' s ▁live ▁deal er ▁ca si no ▁contract s ▁with ▁other ▁ o per ator s , ▁other ▁than ▁Pi na cle s ▁use ▁this ▁ca si no ▁option .
+PRED SCORE: -15.7210
+GOLD 172: ▁However , ▁P in na cle ▁contract ed ▁a ▁separate ▁ o per ator ▁for ▁the ▁L ive ▁De al er ▁Ca si no , ▁therefore ▁not ▁only ▁P in na cle ▁client s ▁have ▁access ▁to ▁this ▁Ca si no ▁option . B e ca use ▁of ▁this , ▁the ▁same ▁table s ▁may ▁reflect ▁different ▁limit s ▁for ▁No n - P in na cle ▁client s .
+GOLD SCORE: -152.2702
+
+[2020-11-09 16:08:23,700 INFO] 
+SENT 173: ['▁', '絶', '対', 'に', '、', 'パ', 'トリ', 'ック', 'の', '方', 'も', '、', '来', 'シーズン', 'は', 'また', '気', '持ち', 'を', '引き', '締', 'めて', '来る', 'と思う', 'ので', '。']
+PRED 173: ▁A bs ol ute ly , ▁even ▁Pa tric k s , ▁I ▁think ▁that ▁next ▁season ▁will ▁also ▁be ▁t ight en ed .
+PRED SCORE: -19.0938
+GOLD 173: ▁Then ▁finally , ▁... I ▁don ' t ▁know ▁whether ▁I ▁de serv ed ▁to ▁ win , ▁as ▁I ▁could ▁not ▁watch ▁both ▁of ▁our ▁performance s , ▁but ▁this ▁ win ning ▁make s ▁me ▁feel ▁con f ident , ▁for ▁sure .
+GOLD SCORE: -161.2122
+
+[2020-11-09 16:08:23,700 INFO] 
+SENT 174: ['▁picture', 's', '▁de', 'pt', '.', '▁【', '希望', 'の', '国', '|', '世界の', '映画', '祭', 'シリーズ', '】', '▁', 'プレゼン', 'ト', 'キャンペーン', '第', '2', '弾', 'を実施', '致', 'します', '。', '▁この', '写真', 'への', 'ナイ', 'ス', 'な', 'コメント', 'または', '映画', '『', '希望', 'の', '国', '』', 'の', '感', '想', '、', 'コメント', 'など', 'を', '書', 'いて', 'メール', 'で', 'ご', '応', '募', 'ください', '。']
+PRED 174: ▁" P ho to s ▁de pt . ▁【 L oo king ▁Co unt ry | F il m ▁Festival ▁Se ries ▁of ▁the ▁World 】 ▁P le ase ▁apply ▁for ▁a ▁ n ice ▁comment ▁on ▁this ▁photo ▁or ▁an ▁e - mail ▁to ▁write ▁comment s , ▁comment s , ▁etc ."
+PRED SCORE: -35.1030
+GOLD 174: ▁T AI PE I ▁| ▁in ▁memory ▁of ▁THE ▁L AND ▁O F ▁ HO PE ▁world ▁pre mi er e ▁series . ▁ win ▁T AI PE I ▁G OL D EN ▁H OR SE ▁P r ize !! ▁photo : ▁the ▁director ▁ SO NO ▁ SI ON ▁in ▁front ▁of ▁THE ▁L AND ▁O F ▁ HO PE ▁sign ▁for ▁the ▁Taiwan ▁pre mi er e . ▁send ▁your ▁comment s ▁on ▁the ▁film ▁THE ▁L AND ▁O F ▁ HO PE , ▁or ▁comment s ▁on ▁this ▁photo ▁to ▁ win ▁T AI PE I ▁G OL D EN ▁H OR SE ▁pre m ium ▁items . ▁( pri ze ▁includes ; ▁a ▁Festival ▁Program ▁2012 ▁edit ion , ▁a ▁Festival ▁To te ▁with ▁log o , ▁an ▁ ang es β ▁su it c ase ▁b uck le ▁and ▁iPhone 5 ▁she ll ▁case ▁with ▁the ▁festival ▁log o ).
+GOLD SCORE: -629.5034
+
+[2020-11-09 16:08:23,700 INFO] 
+SENT 175: ['▁picture', 's', '▁de', 'pt', '.', '▁|', '▁B', 'log', '▁Sa', 'tur', 'day', ',', '▁21', '▁January', ',', '▁2011', '▁', 'クリ', 'ス', '・', 'ノー', 'ラン', 'に', 'な', 'れる', 'のか', '?', '▁', '脚', '本', '力', 'で', '一', '気', 'に', '花', '道', 'に', '!']
+PRED 175: ▁picture s ▁de pt . ▁| ▁B log ▁Sa tur day , ▁21 ▁January , ▁2011 ▁Do ▁you ▁become ▁a ▁Christ ▁N or land ?
+PRED SCORE: -10.3840
+GOLD 175: ▁Sa tur day , ▁21 ▁January ▁2011 ▁J . C . C han d or , ▁who ▁is ▁a ▁ ro ok ie ▁director ▁with ▁great ▁pro mi se , ▁has ▁ lea pt ▁directly ▁to ▁the ▁top ▁level ▁due ▁to ▁his ▁good ▁ski ll ▁as ▁a ▁ script w ri ter .
+GOLD SCORE: -204.1247
+
+[2020-11-09 16:08:23,700 INFO] 
+SENT 176: ['▁19', '14', '年に', 'ヌ', 'ル', 'ミ', 'は', 'トゥ', 'ル', 'ク', 'スポーツ', '協会', 'に', '入', '会', 'し', '、', '以降', '、', 'ラン', 'ナー', 'として', 'の', 'キャ', 'リア', 'を通して', 'その', '代表', '役', 'を務め', 'ました', '。']
+PRED 176: ▁In ▁19 14 , ▁N ur mi ▁join ed ▁the ▁T ur k ▁S port s ▁Association , ▁and ▁later ▁serve d ▁as ▁a ▁lead er ▁in ▁his ▁care er .
+PRED SCORE: -15.5003
+GOLD 176: ▁In ▁19 14 ▁Pa av o ▁N ur mi ▁join ed ▁T ur un ▁U r he il u li it to , ▁a ▁local ▁sports ▁club ▁that ▁he ▁was ▁to ▁represent ▁all ▁through ▁his ▁care er . ▁On ▁ 29 ▁May ▁19 20 ▁in ▁T ur ku ▁he ▁set ▁his ▁first ▁F in n ish ▁national ▁record . ▁The ▁distance ▁was ▁3 000 ▁me tre s ▁and ▁the ▁time ▁8 . 36 , 2 .
+GOLD SCORE: -324.3216
+
+[2020-11-09 16:08:23,701 INFO] 
+SENT 177: ['▁それは', 'これらの', '縦', 'の', '通', '路', 'の', '内', '側', 'を', '移動', 'するための', 'もの', 'で', '、', '今', 'でも', '使われ', 'ています', '。']
+PRED 177: ▁It ▁is ▁still ▁used ▁to ▁move ▁inside ▁these ▁ ver tic al ▁pass age s .
+PRED SCORE: -9.1594
+GOLD 177: ▁" The ▁long est ▁two ▁wall s ▁are ▁mark ed , ▁at ▁regular ▁inter val s , ▁by ▁small ▁not ches , ▁called ▁"" ped ar o le "", ▁which ▁made ▁it ▁possible ▁to ▁move ▁within ▁these ▁ ver tic al ▁channel s ."
+GOLD SCORE: -148.8306
+
+[2020-11-09 16:08:23,701 INFO] 
+SENT 178: ['▁', 'ま', 'んだ', 'ら', 'け', '通', '販', '▁|', '▁', 'ミュ', 'ー', 'ジ', 'カル', '▁', 'テ', 'ニ', 'ス', 'の', '王', '子', '様', '▁2', 'nd', '▁', '青', '学', 'V', 'S', '氷', '帝', '▁', '全国', '▁', '荒', '牧', '慶', '彦', '▁', '甲', '斐', '裕', '次', '郎', '▁', '生', '写真', '▁-', '▁', '宇', '都', '宮', '店', 'からの', '出', '品']
+PRED 178: ▁Man d ar ake ▁| ▁Music al ▁T en ni s ▁P ri nce ▁2 nd ▁A o ga ku ▁V S ▁I ce ▁Em per or ▁National ▁A ra ma ki ▁K ei hi ko ▁Ko shi ya ▁Yu ji ro ▁B ir th ▁Photo s ▁- ▁Ex hi bit ions ▁from ▁U tsu no mi ya
+PRED SCORE: -28.0951
+GOLD 178: ▁Man d ar ake ▁| ▁P ri nce ▁of ▁T en ni s ▁Music al
+GOLD SCORE: -17.8666
+
+[2020-11-09 16:08:23,701 INFO] 
+SENT 179: ['▁', '同時に', '制御', 'する', 'に', '近い', '注', '入', '▁0', ',', '1', '▁', '等', '張', '性', '塩', '化', 'ナ', 'トリ', 'ウ', 'ム', '溶', '液', 'の', 'ミ', 'リ', 'リ', 'ット', 'ル', '▁(', '反応', 'の', '結果', 'を', '評価', 'します', '▁3', '▁', 'いい', 'え', ').']
+PRED 179: ▁At ▁the ▁same ▁time ▁in ject ion ▁close ▁to ▁control ▁0 , 1 ▁m ill il it ers ▁of ▁so d ium ▁ ch lor ide ▁solution ▁( as ses s ▁the ▁results ▁of ▁the ▁reaction ▁3 ▁no ).
+PRED SCORE: -13.3906
+GOLD 179: ▁ <unk> л я ▁ к о н т р о л я ▁ о д н о в р е м е н н о ▁ р я д о м ▁ в в о д я т ▁0 , 1 ▁m l ▁of ▁is o ton ic ▁so d ium ▁ ch lor ide ▁solution ▁( res ult ▁of ▁the ▁reaction ▁is ▁as ses s ed ▁3 ▁no ).
+GOLD SCORE: -165.2145
+
+[2020-11-09 16:08:23,701 INFO] 
+SENT 180: ['▁', ',', '▁', 'プラン', 'ジャー', 'を', '押し', ',', '▁', '特別な', 'リスク', 'に', '.', '▁', 'ワ', 'ク', 'チン', 'の', '残り', 'の', '数', 'を', '入力', 'します', '。']
+PRED 180: ▁En ter ▁the ▁remain ing ▁number ▁of ▁ va cc ine s .
+PRED SCORE: -3.4254
+GOLD 180: ▁V ac c in ation ▁should ▁be ▁carried ▁out , ▁if ▁possible , ▁before ▁the ▁start ▁of ▁flu ▁season ▁( in ▁a ut um n ▁and ▁winter ).
+GOLD SCORE: -104.6727
+
+[2020-11-09 16:08:24,805 INFO] 
+SENT 181: ['▁', '.', '▁', 'コ', 'リン', 'エ', 'ステ', 'ラー', 'ゼ', '阻', '害', '薬', ',', '▁', 'ア', 'セ', 'チ', 'ル', 'コ', 'リン', 'の', '破壊', 'を', '遅', 'く', 'ことが', '.']
+PRED 181: ▁In hi bit ors ▁of ▁ cho line ster ase , ▁that ▁slow ▁down ▁the ▁de struct ion ▁of ▁a ce ty l cho line .
+PRED SCORE: -7.9319
+GOLD 181: ▁U su ally , ▁ cho line ster ase ▁in hi bit ors ▁are ▁well ▁to ler ated ▁treatment ▁subject ▁to ▁the ▁prop er ▁do s age ▁and ▁administration ▁mode .
+GOLD SCORE: -98.0956
+
+[2020-11-09 16:08:24,805 INFO] 
+SENT 182: ['▁', ',', '▁', '税', '込', '.', '▁', '滴', 'の', '形', 'で', 'ロー', 'カル', '用', ').']
+PRED 182: ▁For ▁local ▁use ▁in ▁the ▁form ▁of ▁drop s .
+PRED SCORE: -4.9856
+GOLD 182: ▁Un known , ▁Do ▁no r f lo x ac in ▁pen et rate s ▁into ▁the ▁ mi lk ▁of ▁ n ur s ing ▁women .
+GOLD SCORE: -117.8362
+
+[2020-11-09 16:08:24,805 INFO] 
+SENT 183: ['▁', '痛', 'み', 'は', '感', '覚', '異', '常', 'を', '伴', 'います', '▁(', 'ビ', 'ナ', 'ム', 'ド', '感', '覚', ',', '▁p', 'ol', 'za', 'ni', 'ya', '昆', '虫', ',', '▁a', 'can', 'the', 's', 'the', 's', 'ia', ')', '▁', '一方', 'または', '両方の', '腰', 'の', '外', '表面', '上', '.']
+PRED 183: ▁Pa in ▁ ac com pan i ed ▁by ▁sensor y ▁ ab n or mal ities ▁( bin am do ▁ s ens ations , ▁p ol za ni ya ▁in s ect s , ▁a can the s ia ) ▁on ▁one ▁or ▁both ▁ wa ist ▁out er ▁surface .
+PRED SCORE: -16.5733
+GOLD 183: ▁The ▁pain ▁is ▁ ac com pan i ed ▁by ▁ par es the s ia s ▁( be nu mb ed ▁ s ens ation , ▁p ol za ni ya ▁in s ect , ▁a can the s the s ia ) ▁on ▁the ▁out er ▁surface ▁of ▁one ▁or ▁both ▁hi ps .
+GOLD SCORE: -51.0515
+
+[2020-11-09 16:08:24,805 INFO] 
+SENT 184: ['▁', '現在', '研究', '室', 'で', '最も', '力', 'を', '入れ', 'ている', 'の', 'は', ',', '▁', '大', '規模', '共有', '・', '分', '散', 'メモリ', '型', '並', '列', '計算', '機', 'を', '用', 'いた', '超', '並', '列', '数', '値', 'シ', 'ミュ', 'レーション', ',', '▁', '及び', 'その', 'ための', 'アル', 'ゴ', 'リズム', 'に関する', '研究', 'で', ',', '▁', '有', '限', '差', '分', '法', 'や', '有', '限', '要素', '法', 'の', '並', '列', '計算', 'をはじめ', 'として', ',', '▁', '多', '重', '格', '子', '法', ',', '▁', '領域', '分', '割', '法', 'など', '.']
+PRED 184: ▁C ur r ent ly , ▁research ▁on ▁ ul tra - par all el ed ▁ nu mer ical ▁ s im ulation s ▁using ▁large - scale ▁share d ▁and ▁dis tribute d ▁memory ▁para ll el ▁computer s ▁and ▁ al go ri th m s ▁for ▁such ▁purpose s ▁is ▁focus ed ▁on ▁para ll el ▁comp ut ing ▁of ▁ fin ite ▁difference ▁method s ▁and ▁ fin ite ▁element ▁method s , ▁such ▁as ▁multi p lic ate ▁gr id ▁method s ▁and ▁region ▁sp lit ▁method s .
+PRED SCORE: -46.6421
+GOLD 184: ▁C ur r ent ly , ▁our ▁main ▁research ▁em p ha sis ▁is ▁on ▁para ll el ▁ nu mer ical ▁ al go ri th m s ▁and ▁their ▁application , ▁the ▁target ▁of ▁which ▁is ▁large - scale ▁ s im ulation ▁in ▁wide ▁field s , ▁ rang ing ▁from ▁part ic le ▁ phy s ics ▁to ▁bi ological ▁science .
+GOLD SCORE: -151.4576
+
+[2020-11-09 16:08:24,806 INFO] 
+SENT 185: ['▁(', '搭', '乗', '者', '障害', '補', '償', '▁', '死亡', '1', '名', 'に', 'つき', '2,000', '万', '円', '▁', '入', '院', '1', '万', '円', '/', '4', '日間', '▁', '通', '院', '1', '万', '円', '/', '4', '日間', '(', '東京', '海', '上', '日', '動', '保険', ')', ')']
+PRED 185: ▁( C rew er ' s ▁dis ability ▁comp ens ation ▁ 2,000 , 000 ▁J P Y ▁per ▁person , ▁ad mission ▁ 10,000 ▁J P Y / 4 ▁days ▁( To ki o ▁Mar ine ▁& ▁Ni chi do ▁In sur ance )
+PRED SCORE: -27.0920
+GOLD 185: ▁( To ki o ▁Mar ine ▁Ni chi do ▁In sur ance ▁Co . , ▁Ltd . )
+GOLD SCORE: -14.1215
+
+[2020-11-09 16:08:24,806 INFO] 
+SENT 186: ['▁P', 'hi', 'lo', 'so', 'phy', ',', '▁photograph', 'y', ',', '▁and', '▁some', '▁other', '▁things', '.', '▁', 'ア', 'リスト', 'テ', 'レス', 'は', '人間', 'の', '魂', '(', 'ps', 'uch', 'ê', ')', 'を', '3', 'つの', '部分', 'に', '分', 'け', 'て', '考える', '。']
+PRED 186: ▁P hi lo so phy , ▁photograph y , ▁and ▁some ▁other ▁things .
+PRED SCORE: -3.1665
+GOLD 186: ▁P hi lo so phy , ▁photograph y , ▁and ▁some ▁other ▁things .
+GOLD SCORE: -3.1665
+
+[2020-11-09 16:08:24,806 INFO] 
+SENT 187: ['▁', '好き', 'という', '気', '持ち', 'は', 'ある', 'が', '、', 'それを', '基', 'に', '行為', 'すること', 'は', 'できない', '。']
+PRED 187: ▁There ▁is ▁a ▁feeling ▁that ▁you ▁like , ▁but ▁you ▁can ' t ▁ act ▁based ▁on ▁it .
+PRED SCORE: -14.3296
+GOLD 187: ▁And ▁it ▁did ▁feel ▁good , ▁while ▁I ▁was ▁at ▁it , ▁to ▁give ▁to ▁ char ities ▁and ▁do ▁good ▁to ▁others , ▁as ▁scientific ▁studies ▁predict .
+GOLD SCORE: -139.1066
+
+[2020-11-09 16:08:24,806 INFO] 
+SENT 188: ['▁その', 'ために', '、', '軍', '用', '機', 'F', '-', '16', 'や', 'B', '-', '16', 'を', '新', '型', 'の', 'F', '-', '35', '統合', '打', '撃', '戦', '闘', '機', 'と', '交', '代', 'させる', 'こと', 'になる', 'だろう', '。']
+PRED 188: ▁To ▁do ▁this , ▁it ▁will ▁replace ▁the ▁military ▁air craft ▁F - 16 ▁and ▁B - 16 ▁with ▁the ▁new ▁F - 35 ▁integrated ▁fight er .
+PRED SCORE: -16.0502
+GOLD 188: ▁To ▁that ▁effect , ▁they ▁would ▁command ▁the ▁new ▁F - 35 ▁Jo int ▁St ri ke ▁F ight er ▁air pla ne , ▁to ▁replace ▁their ▁F - 16 ▁and ▁B - 16 ▁military ▁air pla ne s ▁which ▁are ▁un able ▁to ▁transport ▁nuclear ▁bo mb s .
+GOLD SCORE: -120.2942
+
+[2020-11-09 16:08:24,806 INFO] 
+SENT 189: ['▁この', '会議', 'の', '目的', 'は', '、', 'すべての', '中', '東', '諸国', 'を', '参加', 'させる', 'こと', 'にある', '。']
+PRED 189: ▁The ▁purpose ▁of ▁this ▁meeting ▁is ▁to ▁participate ▁in ▁all ▁the ▁Mi d d le ▁East ▁countries .
+PRED SCORE: -8.0508
+GOLD 189: ▁The ▁meeting ▁aim s ▁to ▁bring ▁together ▁all ▁Mi d d le ▁East ern ▁countries , ▁some ▁of ▁which ▁share ▁a ▁long ▁history ▁of ▁dis ag re ement , ▁such ▁as ▁I ran ▁and ▁Israel .
+GOLD SCORE: -81.6765
+
+[2020-11-09 16:08:24,806 INFO] 
+SENT 190: ['▁', 'ソ', 'コ', 'フ', '氏', 'は', 'IP', 'S', 'の', '取', '材', 'に対して', '、「', '軍', '縮', 'に関して', '米', 'ロ', '両', '国', 'が', '何', 'ら', 'か', 'の', '合意', 'に', '至', 'ること', 'は', '望', 'ま', 'しい', 'こと', 'ですが', '、', '一方', '的な', '譲', '歩', 'は', 'あり', 'え', 'ない', 'と思います', '。']
+PRED 190: ▁" S o ko v ▁re p li ed ▁on ▁I PS , ▁"" It ▁is ▁de s ir able ▁that ▁both ▁the ▁U . S . ▁and ▁Russia ▁reach ▁some ▁agreement ▁on ▁dis ar ma ment , ▁but ▁there ▁is ▁no ▁un il ate ral ▁con cess ion ."
+PRED SCORE: -27.1717
+GOLD 190: ▁" S ok o v ▁to ld ▁I PS : ▁"" W hi le ▁it ▁would ▁be ▁good ▁for ▁both ▁side s ▁to ▁agree ▁something ▁on ▁dis ar ma ment , ▁con cess ions ▁are ▁un like ly ▁and ▁I ' m ▁not ▁hope ful ▁that ▁anything ▁positive ▁will ▁happen ▁soon ."""
+GOLD SCORE: -123.5703
+
+[2020-11-09 16:08:24,807 INFO] 
+SENT 191: ['▁1', '曲', '目の', '『', '虹', '』', 'では', '、', '牛', '島', 'さん', 'から', '虹', 'を', '意味', 'する', '手', '話', 'の', '振', 'り', 'を', '教え', 'て', '貰', 'い', '、', '園', '児', 'も', '一緒に', '振', 'り', 'を', '付け', '、', 'み', 'ん', 'な', 'の', '心', 'が', 'ひとつ', 'になり', 'ました', '。']
+PRED 191: ▁" In ▁the ▁first ▁ piece ▁"" R in b ow "", ▁Mr . ▁U shima ▁t aught ▁me ▁the ▁words ▁of ▁"" R in b ow ,"" ▁me an ing ▁"" R in b ow ,"" ▁and ▁the ▁children ▁ cho re o graph ed ▁together ."
+PRED SCORE: -43.3633
+GOLD 191: ▁" In ▁her ▁first ▁song , ▁a ▁Japanese ▁one ▁title d ▁"" N i ji ▁( R a in b ow ), "" ▁Ka zu mi ▁t aught ▁the ▁sign ▁language ▁for ▁a ▁rain b ow , ▁which ▁the ▁kind er gar ten ers ▁then ▁learn ed . ▁The ▁audience ▁and ▁the ▁ s ing er ▁thus ▁came ▁together ▁on ▁an ▁em o tion al ▁level ."
+GOLD SCORE: -195.9948
+
+[2020-11-09 16:08:24,807 INFO] 
+SENT 192: ['▁', '周', '回', 'トラック', 'の', '意味', 'で', '「', 'p', 'ist', '」', 'という', '単', '語', 'が', '存在', 'する', 'の', 'は', 'トル', 'コ', '語', 'くらい', 'し', 'か', '見', '当たり', 'ません', 'ので', '、', 'その', '線', 'は', 'ない', 'でしょう', '。']
+PRED 192: ▁" In ▁the ▁me an ing ▁of ▁the ▁per ip her y ▁track , ▁there ▁is ▁only ▁a ▁ word ▁"" p ist "", ▁so ▁there ▁is ▁no ▁line ."
+PRED SCORE: -18.4483
+GOLD 192: ▁" T h at ' s ▁got ▁to ▁be ▁too ▁much ▁listen ing ▁to ▁g ang ster ▁ rap s . ▁Min d ▁you , ▁"" pi s ta "" ▁is ▁just ▁"" tra ck "" ▁in ▁Italian ▁and ▁Sp an ish , ▁and ▁there ▁is ▁no ▁such ▁ word ▁as ▁"" p ist "" ▁in ▁English , ▁so ▁it ▁just ▁does n ' t ▁work ▁like ▁that ."
+GOLD SCORE: -212.4708
+
+[2020-11-09 16:08:24,807 INFO] 
+SENT 193: ['▁', '私', 'も', '以前', '乗', 'っていた', '、', 'ス', 'バル', 'の', 'B', 'ra', 't', 'という', 'モデル', 'が', '売', 'られ', 'ていました', '。']
+PRED 193: ▁I ▁was ▁ ri ding , ▁and ▁the ▁model , ▁B ra t , ▁was ▁sold .
+PRED SCORE: -15.0154
+GOLD 193: ▁A ro und ▁Ma tsu moto , ▁I ▁found ▁a ▁Sub ar u ▁B ra t , ▁a ▁rare ▁model ▁sold ▁mainly ▁in ▁North ▁America , ▁which ▁I ▁own ed ▁once ▁in ▁the ▁past .
+GOLD SCORE: -109.7465
+
+[2020-11-09 16:08:24,807 INFO] 
+SENT 194: ['▁', '平和', 'であった', '日本', 'が', '帝', '国', '主義', ',', '軍', '国', '主義', 'の', '国家', 'に', '変', 'わ', 'って', '行く', 'とは', '思い', 'ません', 'か', '?']
+PRED 194: ▁I ▁don ' t ▁think ▁that ▁Japan , ▁which ▁was ▁peace , ▁will ▁turn ▁into ▁a ▁nation ▁of ▁imp erial ism ▁and ▁military ism ?
+PRED SCORE: -17.6756
+GOLD 194: ▁E di son ▁would ▁as k ▁the ▁N RC ▁to ▁find ▁that ▁there ▁are ▁no ▁significant ▁safety ▁issues ▁with ▁the ▁license ▁am end ment , ▁me an ing ▁that ▁the ▁ com mission ▁could ▁issue ▁the ▁am end ment ▁before ▁hold ing ▁public ▁he ar ing s ▁on ▁it .
+GOLD SCORE: -208.1750
+
+[2020-11-09 16:08:24,807 INFO] 
+SENT 195: ['▁', 'フラ', 'ワー', 'デ', 'ザ', 'イ', 'ナー', '・', 'パー', 'ソ', 'ナ', 'ル', 'カラー', 'ア', 'ド', 'バイ', 'ザー', '▁', '根', '津', '奈', '実', '▁(', '▁Ne', 'zu', '▁Na', 'mi', '▁', ')', '▁', 'エ', 'コール', '▁', 'ド', '▁', 'デ', 'コ', 'ラ', 'シ', 'オン', '▁', 'フ', 'ロー', 'ラ', 'ル', '▁', 'リ', 'ベル', 'テ', '(', '東京', '表', '参', '道', ')', 'にて', '、', '初', '級', 'から', '上', '級', 'コース', '、', '▁', 'ウェ', 'ディング', 'フラ', 'ワー', 'の', '講', '師', 'を', '長', '年', '務', 'める', '。']
+PRED 195: ▁F low er ▁Design er / P ers on al ▁Co lor ▁Ad vis or ▁Ne zu ▁Na mi ▁( ▁Ne zu ▁Na mi ▁ ) ▁E c all ▁de cor ation ▁F low er ▁Re b el te ▁( T ok yo ▁O mo te s and o ) ▁has ▁long ▁serve d ▁as ▁a ▁first - cl as s , ▁advanced ▁course ▁and ▁we d ding ▁flow er ▁in struct or .
+PRED SCORE: -37.5021
+GOLD 195: ▁F low er ▁Design er ▁ ・ ▁Personal ▁Co lor ▁Ad vis er ▁Na mi ▁Ne zu ▁( ▁ 根 津 ▁ 奈 実 ▁ ) ▁Ex per i ence ▁in ▁tea ch ing ▁flow er ▁ ar range ment ▁as ▁well ▁as ▁we d ding ▁flow er ▁ ar range ment ▁and ▁its ▁total ▁co or d in ation , ▁over ▁12 ▁years , ▁from ▁begin ner ▁to ▁professional , ▁at ▁O mo te s and o , one ▁of ▁the ▁most ▁fashion able ▁dis tric ts ▁in ▁Tokyo .
+GOLD SCORE: -220.9175
+
+[2020-11-09 16:08:24,807 INFO] 
+SENT 196: ['▁', '本当に', '、', 'ア', 'ッ', 'ラー', 'は', '知', 'って', '、', '聴', '覚', 'される', '恐れ', 'て', 'い', 'ません', '」', '。']
+PRED 196: ▁" T ru ly , ▁All ah ▁know s , ▁and ▁does ▁not ▁fear ▁he ar ing ."""
+PRED SCORE: -10.8369
+GOLD 196: ▁" V er i ly , ▁All ah ▁is ▁He ar ing , ▁K n ow ing ""."
+GOLD SCORE: -35.9155
+
+[2020-11-09 16:08:24,808 INFO] 
+SENT 197: ['▁Not', '▁De', 'ep', ',', 'B', 'ut', '▁Sp', 're', 'ad', '▁[', 'A', 'no', 'ther', '▁Di', 'men', 'sion', ']', ':', '▁', 'な', 'な', 'つ', '星', 'の', '乗', '客', '専用', '貸', '切', 'バス', 'か', 'な', '。']
+PRED 197: ▁Not ▁De ep , B ut ▁Sp re ad ▁[ A no ther ▁Di men sion ] : ▁A ▁special ▁bus ▁for ▁passenger s .
+PRED SCORE: -9.4229
+GOLD 197: ▁Not ▁De ep , B ut ▁Sp re ad ▁[ A no ther ▁Di men sion ] : ▁Le t ' s ▁Go !!
+GOLD SCORE: -23.9942
+
+[2020-11-09 16:08:24,808 INFO] 
+SENT 198: ['▁N', 'SE', '-', 'S', '36', '1', '-', '05', '5', '▁', '観光', '船', '▁', '船', '上の', '詳細', 'ページ', '▁|', '▁', '著作権', 'フリー', '音楽', '・', '音', '源', '・', 'B', 'G', 'M', '素材', '▁Na', 'sh', '▁Music', '▁Library', '▁(', 'ナ', 'ッシュ', '▁', 'ミュ', 'ー', 'ジ', 'ック', '▁', 'ライブラリ', 'ー', ')']
+PRED 198: ▁N SE - S 36 1 - 05 5 ▁Tour ist ▁Shi p ▁De tail s ▁- ▁Music / S F X ▁| ▁Na sh ▁Music ▁Library ▁( R o y al ty ▁Free ▁Music ▁Library )
+PRED SCORE: -5.8463
+GOLD 198: ▁N SE - S 36 1 - 05 6 R ol ler ▁Co a ster ▁De tail s ▁- ▁Music / S F X ▁| ▁Na sh ▁Music ▁Library ▁( R o y al ty ▁Free ▁Music ▁Library )
+GOLD SCORE: -38.3160
+
+[2020-11-09 16:08:24,808 INFO] 
+SENT 199: ['▁N', 'SE', '-', 'S', '1', '11', '-', '96', '▁', 'ス', 'パー', 'ク', '▁3', 'の', '詳細', 'ページ', '▁|', '▁', '著作権', 'フリー', '音楽', '・', '音', '源', '・', 'B', 'G', 'M', '素材', '▁Na', 'sh', '▁Music', '▁Library', '▁(', 'ナ', 'ッシュ', '▁', 'ミュ', 'ー', 'ジ', 'ック', '▁', 'ライブラリ', 'ー', ')']
+PRED 199: ▁N SE - S 1 11 - 96 S par k ▁3 ▁De tail s ▁- ▁Music / S F X ▁| ▁Na sh ▁Music ▁Library ▁( R o y al ty ▁Free ▁Music ▁Library )
+PRED SCORE: -4.7987
+GOLD 199: ▁N SE - S 1 11 - 8 4 T h und er ▁4 ▁De tail s ▁- ▁Music / S F X ▁| ▁Na sh ▁Music ▁Library ▁( R o y al ty ▁Free ▁Music ▁Library )
+GOLD SCORE: -33.3691
+
+[2020-11-09 16:08:24,808 INFO] 
+SENT 200: ['▁M', 'N', '-', 'S', '05', '1', '-', '7', '700', '▁', '波', '止', '場', '1', 'の', '詳細', 'ページ', '▁|', '▁', '著作権', 'フリー', '音楽', '・', '音', '源', '・', 'B', 'G', 'M', '素材', '▁Na', 'sh', '▁Music', '▁Library', '▁(', 'ナ', 'ッシュ', '▁', 'ミュ', 'ー', 'ジ', 'ック', '▁', 'ライブラリ', 'ー', ')']
+PRED 200: ▁M N - S 05 1 - 7 700 ▁De tail s ▁- ▁Music / S F X ▁| ▁Na sh ▁Music ▁Library ▁( R o y al ty ▁Free ▁Music ▁Library )
+PRED SCORE: -5.3393
+GOLD 200: ▁M N - S 05 1 - 79 00 H ar bor ▁5 ▁De tail s ▁- ▁Music / S F X ▁| ▁Na sh ▁Music ▁Library ▁( R o y al ty ▁Free ▁Music ▁Library )
+GOLD SCORE: -35.8971
+
+[2020-11-09 16:08:24,808 INFO] 
+SENT 201: ['▁b', 'log', ':', '▁List', 'en', 'ing', '▁T', 'est', '▁(', 'E', 'x', 'am', '.', ')', '▁50', '万人', 'のうち', '3', '80', '人', 'ほど', 'が', 'う', 'ま', 'く', '聞', 'き', '取', 'れ', 'なかった', 'そう', 'だ', 'が', ',', '1000', '分', 'の', '1', '以下', 'であり', ',', '中に', 'は', 'プ', 'レー', 'ヤ', 'ー', 'を', '落', 'とした', 'など', '受', '験', '者の', 'ミ', 'ス', 'による', 'もの', 'も', '含まれ', 'ている', '.', 'どちら', 'に', 'せ', 'よ', ',', '騒', 'ぐ', 'ほど', 'の', 'こと', 'ではない', '.', 'もう', '一度', '試験', 'を', 'すれば', 'よい', 'だけ', 'の', '話', 'である', '.']
+PRED 201: ▁B log : ▁List en ing ▁T est ▁( E x am . ) ▁Al th o ugh ▁about ▁3 80 ▁of ▁the ▁ 500 , 000 ▁were ▁not ▁able ▁to ▁he ar ▁well , ▁it ▁was ▁less ▁than ▁one ▁thousand ▁minutes , ▁and ▁some ▁of ▁them ▁included ▁mis take s ▁of ▁the ▁ex am .
+PRED SCORE: -34.8428
+GOLD 201: ▁b log : ▁a ▁sp am ▁I ▁have ▁found ▁a ▁interest ing ▁ SP AM ▁ mail , ▁which ▁includes ▁technical ▁ ph ra ses , ▁but ▁it ▁does n ' t ▁make ▁sense :
+GOLD SCORE: -142.2221
+
+[2020-11-09 16:08:24,808 INFO] 
+SENT 202: ['▁ただし', '、', '予', '備', '実験', '結果', 'の', 'ない', '申請', 'に関して', 'も', '、', '内容', 'に応じて', '採', '択', 'される', 'ことがあります', '。']
+PRED 202: ▁However , ▁depend ing ▁on ▁the ▁content s ▁of ▁the ▁application ▁without ▁pre li min ary ▁test ▁results .
+PRED SCORE: -14.1464
+GOLD 202: ▁" H ow ever , ▁applications ▁without ▁any ▁pre li min ary ▁results ▁will ▁also ▁be ▁app ro ved ▁depend ing ▁on ▁the ▁content s . ▁( b ) ▁If ▁your ▁sample s ▁or ▁method s ▁are ▁quite ▁new ▁to ▁B io - SP M ▁measurement s , ▁we ▁will ▁select ▁your ▁pro pos al ▁as ▁a ▁"" P re li min ary ▁In ve st ig ation ""."
+GOLD SCORE: -166.2462
+
+[2020-11-09 16:08:24,809 INFO] 
+SENT 203: ['▁', 'ヒ', 'ー', 'リング', 'リー', 'ディング', 'の', '役', '目', '悩', 'み', 'を', '根', 'っ', 'こ', 'から', '解', '消', 'する', '、', '心', 'の', '傷', 'を', 'い', 'や', 'すこと', 'は', 'な', 'か', 'な', 'か', '容易', 'な', 'こと', 'ではなく', '、', '長期', '戦', 'になる', '可能性', 'もあります', '。']
+PRED 203: ▁It ▁is ▁not ▁easy ▁to ▁ hu rt ▁your ▁heart , ▁but ▁it ▁is ▁possible ▁to ▁become ▁a ▁long - term ▁battle .
+PRED SCORE: -20.1744
+GOLD 203: ▁But , ▁once ▁you ▁feel ▁it ▁and ▁re son ate ▁with ▁the ▁truth , ▁it ▁will ▁be ▁a ▁powerful ▁spirit ual ▁experience . M y ▁role ▁Re s ol ving ▁root ▁cause s ▁of ▁concern s ▁or ▁he al ing ▁a ▁long - la s ting ▁em o tion al ▁ wo und ▁would ▁be ▁by ▁no ▁means ▁easy .
+GOLD SCORE: -206.6333
+
+[2020-11-09 16:08:24,809 INFO] 
+SENT 204: ['▁2003', '年', '、', '日本の', '手', 'づくり', '時計', 'の', '第一', '者', '、', '篠', '原', '康', '治', '(', 'K', 'O', 'J', 'I', '▁S', 'HI', 'NO', 'HA', 'RA', ')', '氏', 'に', '師', '事', '。']
+PRED 204: ▁In ▁2003 , ▁he ▁st ud i ed ▁K O J I ▁S HI NO HA RA , ▁the ▁first ▁Japanese ▁hand ma de ▁ clock .
+PRED SCORE: -10.5971
+GOLD 204: ▁In ▁2003 , ▁I ▁started ▁to ▁learn ▁from ▁the ▁best ▁watch ▁make r ▁in ▁Japan , ▁Ko ji ▁Shi mo ha ra .
+GOLD SCORE: -50.9473
+
+[2020-11-09 16:08:24,809 INFO] 
+SENT 205: ['▁', '一', '枚', 'の', '布', 'を', 'バッグ', 'として', '扱', 'う', 'ために', 'は', '結', 'び', '方', 'に', 'アイ', 'ディ', 'ア', 'が必要', 'です', '。']
+PRED 205: ▁In ▁order ▁to ▁hand le ▁a ▁ piece ▁of ▁ clo th ▁as ▁a ▁bag , ▁you ▁need ▁an ▁idea ▁to ▁connect .
+PRED SCORE: -12.9068
+GOLD 205: ▁However ▁from ▁the ▁19 70 s , ▁instead ▁of ▁using ▁a ▁Fu ro shi ki ▁w ra pping ▁ clo th , ▁people ▁started ▁to ▁use ▁plastic ▁and ▁paper ▁bag s ▁due ▁to ▁the ▁em er g ence ▁of ▁super mark et s ▁across ▁Japan .
+GOLD SCORE: -154.6771
+
+[2020-11-09 16:08:24,809 INFO] 
+SENT 206: ['▁日本', 'と', 'アメリカ', 'では', 'メニュー', 'が', '違い', 'ます', 'が', '、', 'どのように', 'メニュー', 'を', '決め', 'ている', 'の', 'でしょうか', '。']
+PRED 206: ▁In ▁Japan ▁and ▁the ▁United ▁States , ▁the ▁menu ▁is ▁different , ▁but ▁how ▁do ▁you ▁de ci de ▁on ▁the ▁menu ?
+PRED SCORE: -11.8339
+GOLD 206: ▁And ▁if ▁the ▁people ▁are ▁ ed uc ated ▁and ▁they ▁know , ▁you ▁just ▁have ▁to ▁provide ▁the ▁best ▁product , ▁and ▁they ▁will ▁know , ▁understand , ▁see k ▁you ▁out ▁as ▁well .
+GOLD SCORE: -141.7490
+
+[2020-11-09 16:08:24,809 INFO] 
+SENT 207: ['▁', 'でも', 'でも', '、', 'そこ', 'で', '昨', '晩', 'の', 'メイン', 'ス', 'ピー', 'カー', '、', 'Ma', 'rk', '▁Mo', 're', 'y', '氏', 'は', '▁', '私の', '葛', '藤', 'する', '疑', '問', 'に', 'こう', '答え', 'て', 'く', 'れ', 'ました', '。']
+PRED 207: ▁But ▁there , ▁last ▁night ' s ▁main ▁speak er , ▁Mar k ▁Mo re y , ▁re p li ed ▁on ▁my ▁st ru gg le ▁question .
+PRED SCORE: -16.9380
+GOLD 207: ▁The ▁main ▁speak er , ▁cre ative ▁artist , ▁ vision ary ▁ ed uc ator , ▁cultural ▁engine er , ▁Ma k ▁Mo re y ▁answer ed ▁to ▁my ▁question ▁about ▁that ▁with ▁ gen tle ▁eyes ▁and ▁voice .
+GOLD SCORE: -140.8150
+
+[2020-11-09 16:08:24,809 INFO] 
+SENT 208: ['▁しかし', '、', 'あなたが', '光', '輝', 'いて', 'く', 'だ', 'さ', 'ること', 'によって', '▁', '明', 'か', 'り', 'が', '差', '込み', '、', '希望', 'を与え', '、', 'そして', '導', 'く', 'ことに', 'つ', 'な', 'が', 'ります', '。']
+PRED 208: ▁However , ▁by ▁ shi ning ▁light , ▁the ▁light s ▁p lu g , ▁give ▁hope ▁and ▁lead .
+PRED SCORE: -15.6782
+GOLD 208: ▁However , ▁as ▁you ▁are ▁ shi ning ▁so ▁bright ly ▁like ▁a ▁st ar ▁in ▁the ▁dark ▁sky , ▁you ▁are ▁bring ing ▁light ▁and ▁hope ▁into ▁people ' s ▁heart ▁and ▁in s pi re ▁them ▁to ▁also ▁sh ine ▁and ▁become ▁the ▁light ▁themselves .
+GOLD SCORE: -151.4317
+
+[2020-11-09 16:08:24,810 INFO] 
+SENT 209: ['▁', 'どのように', '私は', '別の', '言語', 'で', 'mu', 'ti', 'ling', 'ual', 'アン', 'ケー', 'ト', 'の', '作成', 'について', '行く', 'の', 'ですか', '?', '▁', 'まず', '英語', '/', 'メイン', 'の', '言語', 'で', '調査', 'を作成', 'します', 'に', '移動', 'します', '。']
+PRED 209: ▁How ▁do ▁I ▁go ▁about ▁creating ▁a ▁mu ti ling ual ▁question na i re ▁in ▁another ▁language ?
+PRED SCORE: -8.4227
+GOLD 209: ▁However , ▁if ▁you ▁feel ▁un com for t able ▁answer ing ▁any ▁questions , ▁you ▁can ▁with d raw ▁from ▁the ▁survey ▁at ▁any ▁point .
+GOLD SCORE: -73.9525
+
+[2020-11-09 16:08:24,810 INFO] 
+SENT 210: ['▁その', 'ため', '、', '軸', 'が', '接', 'する', '部分', 'には', '、', '動き', 'による', '磨', '耗', 'で', '精度', 'が', '落ち', 'た', 'り', '、', '故', '障', 'しない', 'こと', 'が必要', 'になります', '。']
+PRED 210: ▁Therefore , ▁it ▁is ▁necessary ▁to ▁wear ▁and ▁ ac cur ac y ▁due ▁to ▁movement , ▁or ▁fail ure .
+PRED SCORE: -15.7055
+GOLD 210: ▁Therefore , ▁the ▁areas ▁with ▁which ▁the ▁ sha ft s ▁are ▁in ▁contact ▁are ▁required ▁to ▁with st and ▁wear ▁so ▁as ▁not ▁to ▁reduce ▁their ▁ ac cur ac ies ▁or ▁fail . To ▁achieve ▁this , ▁a ▁stone ▁is ▁used ▁as ▁an ▁end .
+GOLD SCORE: -116.6627
+
+[2020-11-09 16:08:28,184 INFO] 
+SENT 211: ['▁', '腕', 'の', '動き', 'で', '自', '家', '発電', 'する', '電', '池', '交換', 'の', 'い', 'らない', 'キ', 'ネ', 'ティ', 'ック', 'の', '世界', '戦略', '共通', 'モデル', 'として', '、', '時計', '界', 'の', '著', '名', 'デ', 'ザ', 'イ', 'ナー', '、', 'ヨ', 'ル', 'グ', '・', 'イ', 'ゼ', 'ック', '氏', 'による', 'デザイン', 'の', 'アー', 'ク', 'チュ', 'ラ', 'を', '発売', '。']
+PRED 211: ▁As ▁a ▁common ▁model ▁of ▁K ine tic ' s ▁global ▁st rate g ic ▁st rate g ies ▁that ▁don ' t ▁replace ▁ ba tter ies ▁with ▁arm ▁movement s , ▁we ▁release d ▁the ▁ ar c tu ra ▁of ▁design ▁by ▁the ▁famous ▁design er ▁of ▁the ▁ clock ▁world , ▁Jo ru g ▁I ze c .
+PRED SCORE: -46.1848
+GOLD 211: ▁The ▁Ar c tu ra ▁was ▁designed ▁by ▁the ▁international ly ▁re no wn ed ▁watch ▁design er ▁J or g ▁H y s ek ▁and ▁launch ed ▁as ▁a ▁st rate g ic ▁model ▁for ▁global ly ▁market ing ▁K ine tic . ▁The ▁K ine tic , ▁generate d ▁its ▁own ▁electric ity ▁from ▁the ▁mo tion ▁of ▁its ▁arm s , ▁e li min ating ▁the ▁need ▁for ▁ ba tter y ▁replace ment .
+GOLD SCORE: -177.6599
+
+[2020-11-09 16:08:28,185 INFO] 
+SENT 212: ['▁(', '3', ')', 'ホ', 'スト', 'イン', 'タ', 'フェ', 'ー', 'ス', 'ポート', '数', 'を', '増', 'や', 'し', ',', 'SC', 'SI', 'で', '最大', '8', '台', ',', 'ファイ', 'バー', 'チャ', 'ネ', 'ル', 'で', '最大', '4', '台', 'の', 'サー', 'バ', 'を', 'ディスク', 'ア', 'レイ', '装置', 'に', 'ダイ', 'レ', 'クト', 'に', '接続', 'することが', '可能', '(', 'ラ', 'ック', 'マ', 'ウン', 'ト', '筐', '体', ').']
+PRED 212: ▁( 3 ) ▁In crea s ing ▁the ▁number ▁of ▁host ▁interface ▁port s , ▁it ▁is ▁possible ▁to ▁connect ▁up ▁to ▁eight ▁server s ▁in ▁ SC SI ▁and ▁up ▁to ▁four ▁server s ▁directly ▁to ▁the ▁dis k ▁ ar ray ▁device ▁( R ack ▁Mo unt ).
+PRED SCORE: -23.4484
+GOLD 212: ▁( 4 ) The ▁dis k ▁ ar ray ▁management ▁program ▁central ized ▁management ▁of ▁ ar ray ▁configuration ▁setting s , ▁f ault ▁monitor ing ▁and ▁ al ert s , ▁and ▁security ▁setting s .
+GOLD SCORE: -135.8997
+
+[2020-11-09 16:08:28,185 INFO] 
+SENT 213: ['▁', '理', '研', 'B', 'RC', 'では', '神', '戸', '国', '▁', '際', '展示', '場', '3', '号', '館', 'の', 'ナ', 'ショ', 'ナ', 'ル', 'バイオ', 'リ', 'ソース', 'プロジェクト', '(', 'N', 'B', 'R', 'P', ')', 'コー', 'ナー', 'に', '出', '展', '▁', 'いたします', '。']
+PRED 213: ▁At ▁ RI K EN ▁B RC , ▁we ▁will ▁exhibit ▁at ▁the ▁National ▁B io Re source s ▁Project ▁( N B R P ) ▁corner ▁of ▁Ko be , ▁No . ▁3 ▁Bu il ding .
+PRED SCORE: -17.7706
+GOLD 213: ▁" We ▁are ▁please d ▁to ▁welcome ▁you ▁on ▁the ▁"" N ation al ▁B io Re source ▁Project ▁( N B R P ) "" ▁bo o th ▁in ▁the ▁Ko be ▁International ▁Ex hi b ition ▁Hall ▁3 ."
+GOLD SCORE: -56.6456
+
+[2020-11-09 16:08:28,185 INFO] 
+SENT 214: ['▁', '照', '射', '時間', 'は', '0.0', '1', '~', '2', '.', '99', '秒', 'まで', '、', '動物', 'の', 'サイズ', 'に応じて', '0.0', '1', '秒', '単', '位', '設定', 'できます', '。']
+PRED 214: ▁The ▁ ir radi ation ▁time ▁is ▁ 0.0 1 ▁to ▁2. 99 ▁second s , ▁depend ing ▁on ▁the ▁size ▁of ▁the ▁animal .
+PRED SCORE: -10.2808
+GOLD 214: ▁Can ▁effective ly ▁focus ▁micro wa ve ▁energy ▁only ▁on ▁the ▁head ▁of ▁an ▁animal .
+GOLD SCORE: -69.1076
+
+[2020-11-09 16:08:28,185 INFO] 
+SENT 215: ['▁', 'お', 'い', 'しく', 'て', 'し', 'か', 'も', 'お', '手', '頃', 'の', 'ワイン', 'で', 'ほ', 'ろ', '酔', 'い', 'になり', 'ながら', '▁', 'ゆ', 'る', '〜', 'い', '感じ', 'で', 'お', 'し', 'ゃ', 'べ', 'り', 'を', 'し', '笑', 'い', 'を', '共', 'に', 'し', '、', '▁', '目の', '前に', '繰', 'り', '広', 'げ', 'られる', '世界', 'を', 'な', 'が', 'め', 'た', '。']
+PRED 215: ▁While ▁it ▁became ▁ dr unk ▁with ▁delicious ▁and ▁ aff or d able ▁wine s , ▁he ▁ ch at ted ▁with ▁a ▁ n ice ▁feeling ▁and ▁la ugh ed ▁together , ▁and ▁he ▁became ▁a ▁world ▁that ▁can ▁be ▁perform ed ▁in ▁front ▁of ▁him .
+PRED SCORE: -43.1782
+GOLD 215: ▁We ▁g rew ▁t ip sy ▁over ▁good ▁but ▁in exp ens ive ▁wine ▁and ▁talk ed ▁and ▁la ugh ed ▁easily ▁while ▁watch ing ▁the ▁world ▁move ▁in ▁front ▁of ▁us ▁– ▁the ▁bo red ▁looking ▁ val et ▁that ▁slightly ▁re s emb led ▁Ro nal do , ▁a ▁mix ▁of ▁both ▁local s ▁and ▁tourist s ▁constant ly ▁pass ing ▁by , ▁movement ▁in ▁the ▁window s ▁across ▁the ▁street .
+GOLD SCORE: -286.1733
+
+[2020-11-09 16:08:28,185 INFO] 
+SENT 216: ['▁', '妻', 'を', '心', 'から', '愛', 'しています', 'が', ',', '不', '平', 'を', '言った', 'ことは', '一度', 'も', 'ありません', '。']
+PRED 216: ▁I ▁love ▁my ▁wife ▁since re ly , ▁but ▁I ▁do ▁not ▁have ▁to ▁say ▁un f air ly .
+PRED SCORE: -13.6786
+GOLD 216: ▁On ▁our ▁ mission , ▁we ▁had ▁the ▁ pri vi le ge ▁of ▁ serv ing ▁with ▁B ro ther ▁Yu ki no be ▁Sa to ▁from ▁who m ▁we ▁received ▁this ▁Christ ma s ▁let ter .
+GOLD SCORE: -133.3120
+
+[2020-11-09 16:08:28,186 INFO] 
+SENT 217: ['▁', '主', 'が', 'その', '子供', 'たち', 'を', '扱', 'う', 'とき', 'の', '裁', 'き', 'の', '原則', 'は', ',', '次の', 'ように', '言い', '表', 'わ', 'せる', 'と思う', '。']
+PRED 217: ▁The ▁principle ▁of ▁the ▁ ju d g ment ▁when ▁the ▁Lord ▁deal s ▁with ▁his ▁children ▁is ▁to ld ▁as ▁follow s .
+PRED SCORE: -14.4697
+GOLD 217: ▁Mr s . ▁B ar ker ▁believe s ▁that ▁if ▁the ▁book s ▁are ▁ gen u ine , ▁they ▁could ▁be ▁unique ▁e vid ence ▁of ▁Christ ian ▁activity ▁as ▁early ▁as ▁ 33 AD ▁- ▁about ▁the ▁time ▁Jesus ▁is ▁thought ▁to ▁have ▁been ▁ cr uc ified .
+GOLD SCORE: -189.4571
+
+[2020-11-09 16:08:28,186 INFO] 
+SENT 218: ['▁', '番', '組', 'は', '、', 'コ', 'コ', 'ライ', 'フ', 'で', '着', '用', 'した', 'ウェ', 'ディング', 'ド', 'レス', 'の', '話', '題', 'から', 'スター', 'ト', '。']
+PRED 218: ▁The ▁program ▁start s ▁from ▁the ▁to pic ▁of ▁a ▁we d ding ▁dress ▁wear ing ▁in ▁a ▁co co - li fe .
+PRED SCORE: -14.7605
+GOLD 218: ▁We ▁talk ed ▁about ▁the ▁easy - to - we ar ▁we d ding ▁dress ▁that ▁I ▁w ore ▁for ▁Co - Co ▁Li fe ▁ mag az ine ▁in ▁the ▁beginning , ▁and ▁share d ▁some ▁e pi so des ▁of ▁our ▁relationship ▁and ▁ mar ri age ▁life .
+GOLD SCORE: -147.9775
+
+[2020-11-09 16:08:28,186 INFO] 
+SENT 219: ['▁', 'モ', 'ダン', 'リ', 'ビ', 'ング', '神', '田', '▁-', '▁Mo', 'der', 'n', '▁Li', 'ving', '▁Tokyo', '▁', '物', '件', '情報', '▁2013', '年', '7', '月に', 'オープン', 'した', 'モ', 'ダン', 'リ', 'ビ', 'ング', '神', '田', 'は', '都', '心', '部', 'に位置し', 'ており', '、', '複', '数', '駅', '(', 'J', 'R', '・', '地', '下', '鉄', ')', 'を', 'ご利用', '頂', 'け', 'て', '東京', '各', 'エリア', 'への', 'アクセス', '抜', '群', 'です', '。']
+PRED 219: ▁Mo der n ▁Li ving ▁Kan da ▁- ▁Mo der n ▁Li ving ▁Tokyo ▁Pro per ty ▁Information ▁Mo der n ▁Li ving ▁Kan da , ▁which ▁opened ▁in ▁July ▁2013 , ▁is ▁located ▁in ▁the ▁city ▁ cent re , ▁and ▁is ▁access ible ▁to ▁many ▁station s ▁( J R ▁and ▁sub way ).
+PRED SCORE: -25.0735
+GOLD 219: ▁It ▁is ▁in ▁Na ka no , ▁4 ▁minutes ▁walk ▁from ▁No ga ta ▁Station , ▁an ▁area ▁with ▁an ▁extreme ly ▁reason able ▁cost ▁of ▁living , ▁with ▁easy ▁access ▁to ▁all ▁of ▁Tokyo ▁city ▁center .
+GOLD SCORE: -131.5392
+
+[2020-11-09 16:08:28,186 INFO] 
+SENT 220: ['▁', 'ミ', 'ヅ', 'マ', 'アート', 'ギャラリー', 'では', '5', '月', '25', '日', '(', '水', ')', 'より', '、', 'O', '▁J', 'UN', '展', '「', '飛', 'び', '立', 'つ', '鳩', 'に', '、', '驚', 'く', '私', '」', 'を', '開催', 'いたします', '。']
+PRED 220: ▁" M i tsu ma ▁Art ▁G al le ry ▁will ▁be ▁held ▁on ▁W ed ne s day , ▁May ▁25 th , ▁at ▁the ▁O ▁J UN ▁exhibition ▁"" F ly ing ▁Do ve , ▁I ▁am ▁surprise d ""."
+PRED SCORE: -26.5286
+GOLD 220: ▁Mi zu ma ▁Art ▁G al le ry ▁is ▁ho n our ed ▁to ▁present ▁O ▁J UN ' s ▁so lo ▁exhibition ▁' A ▁do ve ▁f ly ing ▁away , ▁I ▁am ▁surprise d ' , ▁opening ▁on ▁W ed ne s day ▁25 th ▁May .
+GOLD SCORE: -77.3334
+
+[2020-11-09 16:08:28,186 INFO] 
+SENT 221: ['▁', '※', '半', '角', 'カ', 'ナ', '、', '機', '種', '依存', '文字', '、', '外', '字', 'を使用する', 'と', '文字', '化', 'け', 'を', '起こ', 'し', '、', 'お問い合わせ', '内容', 'を', '正', 'しく', '確認', 'することができ', 'ません', '。']
+PRED 221: ▁If ▁you ▁use ▁se mi - ang le ▁can na es , ▁model - dependent ▁character s , ▁and ▁external ▁character s , ▁you ▁will ▁not ▁be ▁able ▁to ▁correct ly ▁confirm ▁your ▁in qui ry .
+PRED SCORE: -23.2184
+GOLD 221: ▁P le ase ▁provide ▁a ▁de tail ed ▁in qui ry ▁and ▁sp ec ify ▁the ▁information ▁you ▁are ▁as king ▁for . ▁* ▁H al f ▁size ▁k ana ▁character s , ▁character s ▁for ▁specific ▁PC ▁model s / so ft ware , ▁and ▁non st and ard ▁character s ▁may ▁become ▁ gar bl ed , ▁and ▁we ▁will ▁be ▁un able ▁to ▁understand ▁your ▁in qui ry ▁prop er ly .
+GOLD SCORE: -198.6461
+
+[2020-11-09 16:08:28,186 INFO] 
+SENT 222: ['▁', '笑', '▁', '多', '分', 'あなた', 'も', '私', 'と同じ', 'ように', '、', '自分の', '人生', 'に', 'いる', '人々', 'を', '箱', 'の中に', '当', 'て', 'は', 'め', 'よう', 'として', 'る', '?', 'そして', 'もし', 'も', '私達', 'が', '決め', 'た', '箱', 'の', '四', '角', '型', '全体', 'を', '誰', 'か', 'が', '満', 'た', 'さ', 'ない', 'と', '、', '欲', '求', '不', '満', 'になった', 'り', '苦', '痛', 'を', '感じ', 'た', 'り', 'する', '?', '...']
+PRED 222: ▁And ▁if ▁we ▁do ▁not ▁meet ▁the ▁whole ▁square ▁of ▁the ▁bo x ▁we ▁have ▁decided , ▁you ▁will ▁feel ▁f ru str ated ▁or ▁pain ful ?
+PRED SCORE: -22.6085
+GOLD 222: ▁And ▁then ▁we ▁get ▁f ru str ated ▁or ▁bit ter ▁if ▁the ▁person ▁does n ' t ▁f ill ▁in ▁the ▁whole ▁square ▁we ▁determine d ... ▁we ▁feel ▁a ▁ vo id ... ▁we ▁feel ▁in com ple te ▁if ▁all ▁the ▁little ▁bo x es ▁that ▁are ▁ s up pos ed ▁to ▁be ▁in ▁our ▁life ▁don ' t ▁wear ▁a ▁name ▁t ag ... ▁the ▁sp ous e ▁bo x , ▁the ▁best ▁friend ▁bo x , ▁the ▁good ▁mother ▁bo x , ▁the ▁support ing ▁ sis ter ▁bo x , ▁the ▁X - bo x ▁( s or ry ...
+GOLD SCORE: -346.7241
+
+[2020-11-09 16:08:28,187 INFO] 
+SENT 223: ['▁', 'まず', '、', '入', 'って', 'す', 'ぐ', 'の', '大きな', '部屋', 'に', '、', 'サ', 'ヴ', 'ォ', 'イ', 'ア', '家', 'の', '要', '人の', '肖', '像', '画', 'が', 'ず', 'ら', 'っ', 'と', '並', 'んで', 'いて', '、', '訪れ', 'る', '人々', 'が', '「', 'お', 'っ', '」', 'と', '声', 'を', '上げ', 'る', '効果', 'を', '出', 'しています', '。']
+PRED 223: ▁" F ir st ▁of ▁all , ▁in ▁the ▁big ▁room , ▁the ▁port ra it s ▁of ▁the ▁Sa vo i re ▁representative s ▁are ▁line d ▁with ▁a ▁lot ▁of ▁things , ▁and ▁the ▁people ▁who ▁are ▁visit ing ▁have ▁the ▁effect ▁of ▁ ra is ing ▁the ▁voice ▁"" o h ""."
+PRED SCORE: -48.8739
+GOLD 223: ▁F ir st , ▁in ▁a ▁large ▁room ▁near ▁the ▁entrance , ▁there ▁were ▁many ▁port ra it s ▁of ▁the ▁Sa vo y ▁family ▁displayed ▁in ▁a ▁st y li sh ▁manner , ▁which ▁had ▁the ▁' w ow ' ▁fact or .
+GOLD SCORE: -93.8961
+
+[2020-11-09 16:08:28,187 INFO] 
+SENT 224: ['▁', 'AT', '/', 'R', 'T', 'は', '、', '腫', '瘍', '抑', '制', '遺伝子', 'である', 'S', 'MA', 'RC', 'B', '1', 'および', '、', '頻', '度', 'は', '少ない', 'が', 'S', 'M', 'AR', 'CA', '4', 'の', '体', '細胞', '変', '異', 'および', '生', '殖', '細胞', '変', '異', 'に', '関連', 'している', '。']
+PRED 224: ▁ AT / R T ▁is ▁as so ci ated ▁with ▁S MA RC B 1 , ▁a ▁ tu mor ▁ s up press ion ▁ gene , ▁and ▁S M AR CA 4 ▁mu tation s ▁and ▁re pro duct ive ▁ cell ▁mu tation s .
+PRED SCORE: -14.5583
+GOLD 224: ▁ AT / R T ▁has ▁been ▁link ed ▁to ▁so matic ▁and ▁ ger m line ▁mu tation s ▁of ▁S MA RC B 1 ▁and , ▁less ▁common ly , ▁S M AR CA 4 , ▁both ▁of ▁which ▁are ▁ tu mor ▁ s up press or ▁ gene s .
+GOLD SCORE: -70.0039
+
+[2020-11-09 16:08:28,187 INFO] 
+SENT 225: ['▁J', 'hen', 'é', '▁A', 'i', 'ko', '▁(', 'ジェ', 'ネ', 'イ', '・', 'アイ', 'コ', ')', '▁', 'fe', 'at', '.']
+PRED 225: ▁ fe at .
+PRED SCORE: -3.8256
+GOLD 225: ▁C h ri s ▁B row n ▁( クリ ス ・ ブラ ウン ) ▁ fe at .
+GOLD SCORE: -52.5335
+
+[2020-11-09 16:08:28,187 INFO] 
+SENT 226: ['▁Ha', 'do', 'op', '▁2.', '2', '▁', 'では', '、', 'C', 'LA', 'SS', 'PA', 'TH', 'の', '設定', 'に', 'ワイ', 'ルド', 'カード', 'を使用し', 'ており', '、', '古い', '▁j', 's', 'v', 'c', '▁', 'では', 'それが', 'う', 'ま', 'く', '解決', 'され', 'ません', '(', '例えば', '、', '&', 're', 'f', '(', 'im', 'age', 's', '/', 'de', 'b', 'ian', '.', 'p', 'ng', ',', 'n', 'ol', 'ink', ')', ';', 'De', 'b', 'ian', '▁', 's', 'que', 'e', 'ze', ')。']
+PRED 226: ▁In ▁Ha do op ▁2. 2 , ▁it ▁use s ▁wild ▁card s ▁to ▁set ▁up ▁C LA SS PA TH , ▁and ▁in ▁old ▁j s v c ▁it ▁does ▁not ▁solve ▁well ▁( e . g . , ▁& re f ( im age s / de b ian . p ng , n ol ink ) ; De b ian ▁ s que e ze ).
+PRED SCORE: -21.6810
+GOLD 226: ▁If ▁set ▁to ▁' ▁' ( i . e . ▁space ), ▁no ▁user ▁will ▁be ▁allow ed ▁to ▁sub mit ▁job s .
+GOLD SCORE: -102.8667
+
+[2020-11-09 16:08:28,187 INFO] 
+SENT 227: ['▁', '治療', 'の', '最初の', '6', 'カ', '月', '以', '内', 'に', '用', '量', '低', '減', 'した', '患者', 'は', '、', '最初の', '6', 'ヵ', '月', '間', 'ア', 'ファ', 'チ', 'ニ', 'ブ', '40', '▁m', 'g', 'を', '1', '日', '1', '回', '投', '与', 'された', '患者', 'と', '同', '等の', 'P', 'F', 'S', '中央', '値', 'を示し', 'た', '▁(', 'それぞれ', '、', '12', '.', '8', 'カ', '月', 'と', '1', '1.0', 'カ', '月', ')。', '▁', '高', '齢', '患者', 'での', '結果', '肺', '癌', '患者', 'の', '3', '分', 'の', '1', '超', 'が', '75', '歳', '以上', 'な', 'ので', '、', 'この', '集', '団', 'における', '新', '薬', 'の', '有効', '性', 'と', '安全', '性', 'が', '重要', 'である', '。']
+PRED 227: ▁P at ient s ▁who ▁reduce d ▁do se ▁within ▁the ▁first ▁six ▁months ▁of ▁treatment ▁show ed ▁the ▁central ▁P F S , ▁e qui val ent ▁to ▁the ▁patient s ▁who ▁were ▁ad min ist er ed ▁once ▁a ▁day , ▁for ▁the ▁first ▁six ▁months ▁of ▁a fa tin ib ▁40 ▁m g ▁( 12 . 8 ▁months ▁and ▁1 1.0 ▁months ▁respect ive ly ). A s ▁a ▁result ▁of ▁ el der ly ▁patient s , ▁more ▁than ▁one - th ir d ▁of ▁the ▁patient s ▁with ▁l ung ▁can cer ▁is ▁over ▁ 75 ▁years ▁old , ▁the ▁effective ness ▁and ▁safety ▁of ▁new ▁drug s ▁in ▁this ▁population ▁is ▁important .
+PRED SCORE: -51.6443
+GOLD 227: ▁P at ient s ▁who ▁received ▁do se ▁reduction s ▁within ▁the ▁first ▁6 ▁months ▁of ▁treatment ▁experience d ▁similar ▁media n ▁P F S ▁results ▁as ▁those ▁who ▁were ▁treat ed ▁with ▁a fa tin ib ▁ <unk> ▁40 ▁m g ▁O D ▁for ▁the ▁first ▁6 ▁months ▁( 12 . 8 ▁and ▁1 1.0 ▁months , ▁respect ive ly ). F in ding s ▁in ▁ el der ly ▁patient s A s ▁more ▁than ▁one ▁third ▁of ▁patient s ▁with ▁l ung ▁can cer ▁are ▁at ▁least ▁ 75 ▁years ▁old , ▁the ▁e ff ica cy ▁and ▁safety ▁of ▁new ▁age nt s ▁matter s ▁in ▁this ▁population .
+GOLD SCORE: -172.2311
+
+[2020-11-09 16:08:28,188 INFO] 
+SENT 228: ['▁', '転', '移', '性', '非', '小', '細胞', '肺', 'が', 'ん', 'に対して', '効果', 'があり', '忍', '容', '性', 'の高い', '一', '次', 'ン', '治療', 'の', 'レ', 'ジ', 'メン', 'の', 'ニーズ', 'が', '満', 'た', 'されていない', 'ため', '、', 'K', 'E', 'Y', 'NO', 'TE', '-', '04', '2', 'では', '、', 'P', 'D', '-', 'L', '1', '(', '腫', '瘍', '比', '率', 'ス', 'コ', 'ア', '[', 'T', 'PS', ']', '▁', '≥', '▁1', '%', ')', 'を', '発', '現', 'している', 'が', 'E', 'G', 'F', 'R', 'と', 'AL', 'K', 'は', '陰', '性', 'である', '未', '治療', 'の', '局', '所', '進', '行', 'または', '転', '移', '性', '肺', '腫', '瘍', 'が', 'ん', '患者', 'を', '対象', 'に', 'ペン', 'ブ', 'ロ', 'リ', 'ズ', 'マ', 'ブ', 'の', '役割', 'を', '検討', 'した', '[', '3', ']', '。']
+PRED 228: ▁K E Y NO TE - 04 2 ▁has ▁express ed ▁P D - L 1 ▁( T um or ▁ ra ti o ▁sc ore ▁[ T PS ] ▁ <unk> ▁1 % ), ▁but ▁E G F R ▁and ▁ AL K ▁ex am in ed ▁the ▁role ▁of ▁P emb ro li zu ma b ▁for ▁patient s ▁with ▁un tre ated ▁local ▁progress ion ▁or ▁me ta s ta tic ▁l ung ▁ tu mor ▁can cer , ▁which ▁is ▁negative ▁[ 3 ] .
+PRED SCORE: -34.1419
+GOLD 228: ▁As ▁there ▁is ▁an ▁un me t ▁need ▁with ▁regard ▁to ▁more ▁effective ▁and ▁to ler able ▁first - line ▁re gi men s ▁for ▁me ta s ta tic ▁N SC L C , ▁K E Y NO TE - 04 2 ▁invest ig ated ▁the ▁role ▁of ▁p emb ro li zu ma b ▁in ▁patient s ▁with ▁previous ly ▁un tre ated , ▁local ly ▁advanced ▁or ▁me ta s ta tic ▁l ung ▁t um our s ▁of ▁any ▁his t ology ▁that ▁express ed ▁P D - L 1 ▁( t um our ▁pro port ion ▁sc ore ▁[ T PS ] ▁ <unk> ▁1 ▁ % ) ▁but ▁show ed ▁no ▁ s ens it is ing ▁E G F R ▁or ▁ AL K ▁ al ter ations ▁[ 3 ] .
+GOLD SCORE: -232.5552
+
+[2020-11-09 16:08:28,188 INFO] 
+SENT 229: ['▁', '品質', 'を', '最大', '限', '本', '物', 'と', '同', '等', 'とする', '為', 'に', '相', '応', 'の', '材', '質', 'にて', '製', '作', 'している', '為', 'です', '.']
+PRED 229: ▁This ▁is ▁because ▁it ▁is ▁made ▁using ▁the ▁material ▁that ▁correspond s ▁to ▁the ▁maximum ▁quality .
+PRED SCORE: -18.5607
+GOLD 229: ▁If ▁you ▁desire ▁to ▁be ▁successful , ▁then ▁in ▁order ▁to ▁realize ▁your ▁goal s , ▁you ▁must ▁taste s ▁to ▁work ▁with ▁the ▁trend ▁so ▁you ▁look ▁and ▁feel ▁comfortable .
+GOLD SCORE: -124.5981
+
+[2020-11-09 16:08:28,188 INFO] 
+SENT 230: ['▁', '仮', '会', '員', '会', '員', 'マイ', 'ページ', 'の', 'メニュー', 'からの', 'お', '申', '込み', 'になります', '。']
+PRED 230: ▁Me mber s ▁will ▁be ▁sub mitt ed ▁from ▁the ▁menu ▁of ▁the ▁My ▁P age .
+PRED SCORE: -12.8632
+GOLD 230: ▁" P re - me mber s ▁P le ase ▁log ▁into ▁your ▁My ▁P age ▁and ▁select ▁"" Re gi ster ▁for ▁An n ual ▁Meeting "" ▁from ▁the ▁menu ."
+GOLD SCORE: -80.2427
+
+[2020-11-09 16:08:28,188 INFO] 
+SENT 231: ['▁', '仮', '会', '員', '▁', '会', '員', 'マイ', 'ページ', 'の', 'メニュー', 'からの', 'お', '申', '込み', 'になります', '。']
+PRED 231: ▁Me mber ' s ▁Me mber ' s ▁Me mber ' s ▁Me mber ' s ▁Me mber ' s ▁Me mber ' s ▁Me nu .
+PRED SCORE: -13.6421
+GOLD 231: ▁" P re - me mber s ▁P le ase ▁log ▁into ▁your ▁My ▁P age ▁and ▁select ▁"" Re gi ster ▁for ▁An n ual ▁Meeting "" ▁from ▁the ▁menu ."
+GOLD SCORE: -76.0530
+
+[2020-11-09 16:08:28,188 INFO] 
+SENT 232: ['▁', '総合', '学', '園', 'ヒ', 'ュ', 'ー', 'マン', 'ア', 'カ', 'デ', 'ミ', 'ー', '新', '人', 'イ', 'ラ', 'スト', 'コン', 'テスト', '20', '19', '▁Fe', 'at', 'ur', 'ing', '▁', '藤', 'ち', 'ょ', 'こ', '先', '生', '▁|', '▁', 'コン', 'テスト', '▁-', '▁', 'アート', 'ストリート', '(', 'ART', '▁street', ')', '▁by', '▁Me', 'di', 'B', 'ang']
+PRED 232: ▁General ▁School ▁Hu man ▁Ac ad em y ▁New ▁I ll ust ration ▁Con test ▁2019 ▁Fe at ur ing ▁Professor ▁Fuji ▁Chi ko ▁| ▁Con test ▁- ▁ ART ▁street ▁by ▁Me di B ang
+PRED SCORE: -14.0069
+GOLD 232: ▁ ART ▁street ▁Cha rac ter ▁Design ▁Con test ▁| ▁Con test ▁- ▁ ART ▁street ▁by ▁Me di B ang
+GOLD SCORE: -45.9009
+
+[2020-11-09 16:08:28,188 INFO] 
+SENT 233: ['▁', 'バ', 'ット', 'マン', 'の', '商', '工', '▁|', '▁M', 'D', 'R', '▁', '!']
+PRED 233: ▁B at man ▁| ▁M D R ▁ !
+PRED SCORE: -3.5872
+GOLD 233: ▁Bi s ou ▁to ▁the ▁sp id er man ▁| ▁M D R ▁ !
+GOLD SCORE: -50.4442
+
+[2020-11-09 16:08:28,189 INFO] 
+SENT 234: ['▁', '言い', '換', 'え', 'れば', '、', 'もし', 'その', '名前', 'が', '不', '正', 'に', '使用', 'された', '場合', '、', '決', 'して', '見', '過', 'ご', 'す', 'ことができない', 'もの', 'だ', 'と思います', '。']
+PRED 234: ▁In ▁other ▁words , ▁if ▁the ▁name ▁is ▁un f air ly ▁used , ▁I ▁think ▁it ▁is ▁un able ▁to ▁over lo ok .
+PRED SCORE: -15.8020
+GOLD 234: ▁So ▁if ▁you ▁try ▁to ▁share ▁the ▁match ▁virtual ly ▁with ▁someone ▁in ▁Chi le , ▁as k ▁them ▁not ▁to ▁tell ▁the ▁goal ▁moment ▁( th is ▁happen ed ▁to ▁me , ▁and ▁there ▁is ▁no ▁more ▁dis ap point ing ▁thing ▁than ▁know ing ▁that ▁there ▁will ▁be ▁a ▁goal ▁in ▁5 ▁minutes ).
+GOLD SCORE: -224.1074
+
+[2020-11-09 16:08:28,189 INFO] 
+SENT 235: ['▁', 'または', '授', '業', 'の', '質', 'も', '疑', '問', '視', 'されており', '、', '教', '師', 'が', '一方', '的に', '知識', 'を', '詰', 'め', '込む', 'といった', 'スタイル', 'が', 'い', 'まだ', 'に', '主', '流', 'な', '教授', '法', 'である', '。']
+PRED 235: ▁Al ter n ative ly , ▁the ▁quality ▁of ▁the ▁class es ▁is ▁question ed , ▁and ▁it ▁is ▁still ▁the ▁main ▁method ▁of ▁pro fe s s or ship , ▁such ▁as ▁the ▁teacher ' s ▁ ment al ▁knowledge .
+PRED SCORE: -39.9943
+GOLD 235: ▁On ▁the ▁other ▁hand , ▁there ▁is ▁always ▁an ▁issue ▁of ▁quality , ▁especially ▁teacher ▁quality , ▁many ▁teacher s ▁are ▁train ed ▁and ▁used ▁to ▁tell ing ▁knowledge ▁only ▁instead ▁of ▁inter act ing ▁with ▁students ▁and ▁prepare ▁them ▁for ▁21 C ▁skills ▁( crea t ivity , ▁ad ap at ability , ▁etc . )
+GOLD SCORE: -223.8778
+
+[2020-11-09 16:08:28,189 INFO] 
+SENT 236: ['▁', '学校', 'では', '教え', 'て', 'く', 'れ', 'ない', '事', 'ですが', '、', '鍼', '師', 'として', 'は', '、', 'ショ', 'ウ', 'ガ', 'ナイ', '事', 'だ', 'と思います', '。', '▁', 'い', 'や', 'でも', '私達', 'は', '人の', '気', 'と', '付き', '合', 'っています', '。']
+PRED 236: ▁I ▁can ' t ▁tell ▁you ▁at ▁school , ▁but ▁as ▁a ▁ gu ru , ▁I ▁think ▁it ' s ▁a ▁Sho u gan i ▁thing .
+PRED SCORE: -22.6130
+GOLD 236: ▁I ▁cannot ▁remember ▁where ▁she ▁live s ▁right ▁now , ▁but ▁I ▁would ▁really ▁love ▁for ▁her ▁to ▁move ▁over ▁here ▁close ▁to ▁us , ▁close ▁to ▁her ▁gr and chi ld ren .
+GOLD SCORE: -132.2917
+
+[2020-11-09 16:08:28,189 INFO] 
+SENT 237: ['▁', 'シ', 'ック', 'な', '色', '合', 'い', 'で', '履', 'き', '心', '地', 'も', '抜', '群', 'な', 'ので', '、', '買', 'った', 'その', '日', 'から', '日本', '観光', 'で', '役', '立', 'つ', 'う', 'え', '、', '日', '常', '生活', 'では', '散', '歩', 'から', '通', '勤', 'まで', '幅広い', 'シーン', 'に', '活用', 'できます', '。']
+PRED 237: ▁Because ▁it ' s ▁ ch ic ▁and ▁ ple as ant ▁to ▁wear , ▁it ' s ▁help ful ▁for ▁Japanese ▁ s ight s ee ing ▁from ▁the ▁day ▁you ▁b ought , ▁and ▁in ▁every day ▁life , ▁you ▁can ▁use ▁it ▁for ▁a ▁wide ▁range ▁of ▁scene s , ▁from ▁walk ing ▁to ▁ com mu ting .
+PRED SCORE: -36.6746
+GOLD 237: ▁With ▁fashion able ▁color s ▁and ▁a ▁super b , ▁comfortable ▁fit , ▁visitors ▁to ▁Japan ▁can ▁start ▁wear ing ▁them ▁on ▁the ▁day ▁they ▁buy ▁them , ▁making ▁it ▁convenient ▁for ▁ s ight s ee ing . ▁W he ther ▁you ' re ▁going ▁for ▁a ▁st roll ▁or ▁ com mu ting ▁to ▁work , ▁these ▁ sho es ▁will ▁definitely ▁be ▁a ▁worth w hi le ▁addition ▁to ▁your ▁daily ▁life .
+GOLD SCORE: -176.0093
+
+[2020-11-09 16:08:28,189 INFO] 
+SENT 238: ['▁2014', '.', '02', '.', '16', '▁', 'お', '気', 'に', '入り', '▁', '日本の', '回転', '寿', '司', 'では', '、', 'セル', 'フ', 'サービス', 'で', 'お', '茶', 'を', '飲', 'む', 'ことができます', '。']
+PRED 238: ▁2014 . 02 . 16 ▁F av or ite ▁Japanese ▁ ro t ating ▁su shi ▁can ▁drink ▁tea ▁at ▁self - serv ice .
+PRED SCORE: -11.4905
+GOLD 238: ▁Tour ist ▁spot s ▁will ▁be ▁flood ed ▁with ▁people , ▁and ▁there ▁may ▁be ▁traffic ▁con ge s tion ▁or ▁de lay s ▁on ▁public ▁transport ation . ▁If ▁you ▁don ' t ▁like ▁deal ing ▁with ▁traffic ▁or ▁have ▁plan n ed ▁a ▁t ight ▁schedule , ▁be ▁fo rew ar n ed .
+GOLD SCORE: -217.9349
+
+[2020-11-09 16:08:28,189 INFO] 
+SENT 239: ['▁', 'あ', 'い', 'ち', 'ゅ', 'キャ', 'ラ', 'メ', 'ル', 'ラ', 'テ', '(', 'M', 'ag', 'ic', '▁S', 'ke', 't', 'ch', 'I', 'c', 'ed', '▁Car', 'am', 'el', '▁La', 't', 'te', ')」', '(', '4', '80', '円', ')', 'が', '出', 'てきました', '!']
+PRED 239: ▁A ichi ▁Car am el ▁La t te ▁( 4 80 ▁J P Y ) ▁came ▁out !
+PRED SCORE: -9.2207
+GOLD 239: ▁This ▁is ▁our ▁first ▁order , ▁Ma g ic ▁S ke t ch ▁I c ed ▁Car am el ▁La t te , ▁which ▁is ▁4 80 ▁yen .
+GOLD SCORE: -38.2560
+
+[2020-11-09 16:08:28,190 INFO] 
+SENT 240: ['▁20', ':', '35', 'には', '演', '技', 'が', '終了', 'し', '、', '竿燈', 'の', '写真', '撮影', 'が', 'できる', '「', 'ふ', 'れ', 'あ', 'い', 'の', '時間', '」', 'が', 'は', 'じ', 'ま', 'ります', '。']
+PRED 240: ▁" A t ▁20 : 35 , ▁when ▁the ▁performance ▁is ▁finish ed , ▁the ▁"" T i me ▁of ▁Fu wa i "" ▁will ▁begin ."
+PRED SCORE: -24.3759
+GOLD 240: ▁" S ad ly , ▁the ▁ex ci ting ▁performance ▁only ▁last s ▁until ▁20 : 35 , ▁after ▁which ▁the ▁photo - sho ot ing ▁session ▁start s ▁– ▁the ▁so - cal led ▁"" clo se - up ▁experience "" ▁when ▁you ▁can ▁take ▁picture s ▁of ▁the ▁k ant o ▁po les ."
+GOLD SCORE: -166.2344
+
+[2020-11-09 17:26:46,414 INFO] Translating shard 0.
+[2020-11-09 17:40:06,407 INFO] PRED AVG SCORE: -0.5184, PRED PPL: 1.6794
+[2020-11-09 17:40:06,407 INFO] GOLD AVG SCORE: -2.5990, GOLD PPL: 13.4507
+[2020-11-09 17:40:06,407 INFO] Total translation time (s): 799.736854
+[2020-11-09 17:40:06,407 INFO] Average translation time (s): 0.079974
+[2020-11-09 17:40:06,407 INFO] Tokens per second: 531.626119
+[2020-11-09 17:40:06,450 INFO] Translating shard 1.
+[2020-11-09 17:54:06,869 INFO] PRED AVG SCORE: -0.5110, PRED PPL: 1.6670
+[2020-11-09 17:54:06,869 INFO] GOLD AVG SCORE: -2.6022, GOLD PPL: 13.4932
+[2020-11-09 17:54:06,869 INFO] Total translation time (s): 840.185284
+[2020-11-09 17:54:06,869 INFO] Average translation time (s): 0.084019
+[2020-11-09 17:54:06,869 INFO] Tokens per second: 518.630840
+[2020-11-09 17:54:06,915 INFO] Translating shard 2.
+[2020-11-09 18:08:32,469 INFO] PRED AVG SCORE: -0.5091, PRED PPL: 1.6638
+[2020-11-09 18:08:32,469 INFO] GOLD AVG SCORE: -2.5261, GOLD PPL: 12.5041
+[2020-11-09 18:08:32,469 INFO] Total translation time (s): 865.370378
+[2020-11-09 18:08:32,469 INFO] Average translation time (s): 0.086537
+[2020-11-09 18:08:32,469 INFO] Tokens per second: 537.559422
+[2020-11-09 18:08:32,515 INFO] Translating shard 3.
+[2020-11-09 18:23:57,360 INFO] PRED AVG SCORE: -0.5126, PRED PPL: 1.6696
+[2020-11-09 18:23:57,360 INFO] GOLD AVG SCORE: -2.5259, GOLD PPL: 12.5016
+[2020-11-09 18:23:57,360 INFO] Total translation time (s): 924.586120
+[2020-11-09 18:23:57,361 INFO] Average translation time (s): 0.092459
+[2020-11-09 18:23:57,361 INFO] Tokens per second: 516.694972
+[2020-11-09 18:23:57,410 INFO] Translating shard 4.
+[2020-11-09 18:40:05,064 INFO] PRED AVG SCORE: -0.4948, PRED PPL: 1.6401
+[2020-11-09 18:40:05,064 INFO] GOLD AVG SCORE: -2.4728, GOLD PPL: 11.8552
+[2020-11-09 18:40:05,064 INFO] Total translation time (s): 967.398613
+[2020-11-09 18:40:05,064 INFO] Average translation time (s): 0.096740
+[2020-11-09 18:40:05,064 INFO] Tokens per second: 514.223396
+[2020-11-09 18:40:05,112 INFO] Translating shard 5.
+[2020-11-09 18:55:42,820 INFO] PRED AVG SCORE: -0.4878, PRED PPL: 1.6288
+[2020-11-09 18:55:42,820 INFO] GOLD AVG SCORE: -2.4399, GOLD PPL: 11.4724
+[2020-11-09 18:55:42,820 INFO] Total translation time (s): 937.457400
+[2020-11-09 18:55:42,820 INFO] Average translation time (s): 0.093746
+[2020-11-09 18:55:42,820 INFO] Tokens per second: 537.860174
+[2020-11-09 18:55:42,870 INFO] Translating shard 6.
+[2020-11-09 19:10:34,954 INFO] PRED AVG SCORE: -0.4813, PRED PPL: 1.6182
+[2020-11-09 19:10:34,955 INFO] GOLD AVG SCORE: -2.4541, GOLD PPL: 11.6359
+[2020-11-09 19:10:34,955 INFO] Total translation time (s): 891.833158
+[2020-11-09 19:10:34,955 INFO] Average translation time (s): 0.089183
+[2020-11-09 19:10:34,955 INFO] Tokens per second: 545.349761
+[2020-11-09 19:10:34,999 INFO] Translating shard 7.
+[2020-11-09 19:18:09,296 INFO] PRED AVG SCORE: -0.4795, PRED PPL: 1.6152
+[2020-11-09 19:18:09,296 INFO] GOLD AVG SCORE: -2.4467, GOLD PPL: 11.5506
+[2020-11-09 19:18:09,296 INFO] Total translation time (s): 454.202032
+[2020-11-09 19:18:09,296 INFO] Average translation time (s): 0.089252
+[2020-11-09 19:18:09,296 INFO] Tokens per second: 546.994470
+[2020-11-09 22:53:27,934 INFO] Translating shard 0.
+[2020-11-09 22:58:05,234 INFO] Translating shard 0.
+[2020-11-09 23:16:00,396 INFO] PRED AVG SCORE: -0.4775, PRED PPL: 1.6120
+[2020-11-09 23:16:00,396 INFO] GOLD AVG SCORE: -1.7452, GOLD PPL: 5.7268
+[2020-11-09 23:16:00,396 INFO] Total translation time (s): 1074.878956
+[2020-11-09 23:16:00,396 INFO] Average translation time (s): 0.107488
+[2020-11-09 23:16:00,396 INFO] Tokens per second: 485.160675
+[2020-11-09 23:16:00,445 INFO] Translating shard 1.
+[2020-11-09 23:33:15,487 INFO] PRED AVG SCORE: -0.4767, PRED PPL: 1.6107
+[2020-11-09 23:33:15,488 INFO] GOLD AVG SCORE: -1.7659, GOLD PPL: 5.8468
+[2020-11-09 23:33:15,488 INFO] Total translation time (s): 1034.791716
+[2020-11-09 23:33:15,488 INFO] Average translation time (s): 0.103479
+[2020-11-09 23:33:15,488 INFO] Tokens per second: 502.754315
+[2020-11-09 23:33:15,540 INFO] Translating shard 2.
+[2020-11-09 23:51:16,992 INFO] PRED AVG SCORE: -0.4790, PRED PPL: 1.6145
+[2020-11-09 23:51:16,993 INFO] GOLD AVG SCORE: -1.7604, GOLD PPL: 5.8145
+[2020-11-09 23:51:16,993 INFO] Total translation time (s): 1081.212540
+[2020-11-09 23:51:16,993 INFO] Average translation time (s): 0.108121
+[2020-11-09 23:51:16,993 INFO] Tokens per second: 477.125432

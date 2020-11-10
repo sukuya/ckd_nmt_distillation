@@ -1,12 +1,12 @@
 save_checkpoint_steps: 5000
 seed: 3435
-# train_steps: 25000
-# valid_steps: 5000  
-train_steps: 500
-valid_steps: 200   
+train_steps: 25000
+valid_steps: 5000  
+# train_steps: 500
+# valid_steps: 200   
 warmup_steps: 4000
 report_every: 100
-#log_file: experiment.log
+# log_file: experiment_pkd_skip.log
 
 decoder_type: transformer
 encoder_type: transformer
@@ -42,6 +42,7 @@ share_embeddings: 'true'
 # Need to define:
 
 # world_size: 4
+gpu_ranks: [0, 1, 2, 3]
 
 ## distillation config
 # logit_distillation  /  alpha
@@ -57,6 +58,6 @@ share_embeddings: 'true'
 
 ## path to the data and saved model
 
-data: /home/yimeng/workspace/data/tr-en/tok/test_code/processed
-save_model: /home/yimeng/workspace/trained_model/tren/tmp/cross_comb/transformer
-val_result_file: /home/yimeng/workspace/trained_model/tren/tmp/cross_comb/val_result.yml
+# data: /home/yimeng/workspace/data/tr-en/tok/test_code/processed
+# save_model: /home/yimeng/workspace/trained_model/tren/tmp/cross_comb/transformer
+# val_result_file: /home/yimeng/workspace/trained_model/tren/tmp/cross_comb/val_result.yml

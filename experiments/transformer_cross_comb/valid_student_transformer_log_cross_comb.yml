@@ -1,0 +1,20 @@
+Step 5000:
+  Validation accuracy: 47.24404924999871
+  Validation loss: 2.834274718113532
+  Validation perplexity: 17.018052937739515
+Step 10000:
+  Validation accuracy: 50.86408388713897
+  Validation loss: 2.594560451010288
+  Validation perplexity: 13.390700198910501
+Step 15000:
+  Validation accuracy: 51.471232889564874
+  Validation loss: 2.571720820561408
+  Validation perplexity: 13.088327736798272
+Step 20000:
+  Validation accuracy: 52.39753864679783
+  Validation loss: 2.5138596972291665
+  Validation perplexity: 12.352515137891775
+Step 25000:
+  Validation accuracy: 52.89175178411158
+  Validation loss: 2.4757188148225637
+  Validation perplexity: 11.890250930633119

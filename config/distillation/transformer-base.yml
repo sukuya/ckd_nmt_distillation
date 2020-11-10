@@ -4,7 +4,7 @@ train_steps: 25000
 valid_steps: 5000  
 warmup_steps: 4000
 report_every: 100
-#log_file: experiment.log
+log_file: experiment_transformer_base.log
 
 decoder_type: transformer
 encoder_type: transformer
@@ -38,7 +38,8 @@ share_embeddings: 'true'
   
 # Need to define:
 
-## world_size
+world_size: 4
+gpu_ranks: [0, 1, 2, 3]
 
 ## tensorboard config
 #tensorboard: 'true'
